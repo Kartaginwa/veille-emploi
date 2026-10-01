@@ -1,0 +1,123 @@
+# Format: type | nom | url      (types: P=page d'offres, D=découverte (page d'accueil -> lien carrières/emploi), S=recherche agrégateur, W=Workday tenant;wd;site, O=portail Oracle Ville de Montréal)
+# Pour ajouter une source: ajouter une ligne. Pour en retirer: la supprimer ou la commenter avec #.
+S|Guichet-Emplois commissaire Laurentides|https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=commissaire&locationstring=Laurentides%2C+QC&sort=D
+S|Guichet-Emplois développement économique Laurentides|https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Laurentides%2C+QC&sort=D
+S|Guichet-Emplois développement économique Montréal|https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Montr%C3%A9al%2C+QC&sort=D
+S|Guichet-Emplois conseiller Laurentides|https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D
+S|Guichet-Emplois chargé de projet Laurentides|https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=charg%C3%A9+de+projet&locationstring=Laurentides%2C+QC&sort=D
+S|Guichet-Emplois agroalimentaire Québec|https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=agroalimentaire&locationstring=Qu%C3%A9bec&sort=D
+S|Eluta développement économique Laurentides|https://www.eluta.ca/search?q=d%C3%A9veloppement+%C3%A9conomique&l=Laurentides%2C+QC
+S|Eluta commissaire Québec|https://www.eluta.ca/search?q=commissaire&l=Qu%C3%A9bec
+S|Jobillico développement économique Laurentides|https://www.jobillico.com/recherche-emploi?skwd=d%C3%A9veloppement+%C3%A9conomique&scty=Laurentides
+S|Jobillico commissaire|https://www.jobillico.com/recherche-emploi?skwd=commissaire&scty=Qu%C3%A9bec
+S|Talent.com développement économique Laurentides|https://ca.talent.com/jobs?k=d%C3%A9veloppement+%C3%A9conomique&l=Laurentides%2C+QC
+S|Talent.com commissaire Montréal|https://ca.talent.com/jobs?k=commissaire+d%C3%A9veloppement+%C3%A9conomique&l=Montr%C3%A9al%2C+QC
+S|SimplyHired développement économique|https://www.simplyhired.ca/search?q=d%C3%A9veloppement+%C3%A9conomique&l=Laurentides%2C+QC
+P|Isarta emplois|https://www.isarta.com/emplois/
+P|macommunaute.ca emplois|https://macommunaute.ca/emplois
+P|RIMQ emplois municipal|https://www.rimq.qc.ca/emplois/municipal
+P|Québec municipal emplois|https://www.quebecmunicipal.qc.ca/emplois/
+D|APDEQ|https://apdeq.ca
+D|Chantier de l'économie sociale|https://chantier.qc.ca
+D|FQM|https://www.fqm.ca
+D|Emploi Cégep|https://www.emploicegep.qc.ca
+D|Mon emploi en tourisme|https://monemploientourisme.com
+D|Carrières gouvernement du Québec|https://www.carrieres.gouv.qc.ca
+P|Investissement Québec carrières|https://www.investquebec.com/quebec/fr/carrieres.html
+O|Ville de Montréal - portail Oracle (iRecruitment)|https://simenligne.ville.montreal.qc.ca/OA_HTML/IrcVisitor.jsp
+P|Ville de Montréal - offres d'emploi (montreal.ca)|https://montreal.ca/articles/offres-demploi-2944
+P|PME MTL carrières|https://pmemtl.com/carrieres
+D|Montréal International|https://www.montrealinternational.com
+D|Concertation Montréal|https://concertationmtl.ca
+D|Espace pour la vie|https://espacepourlavie.ca
+P|Groupe AGECO carrières|https://ageco.ca/carrieres/
+P|La Tablée des Chefs carrières|https://www.tableedeschefs.org/fr/carrieres
+D|La cantine pour tous|https://lacantinepourtous.org
+D|TIESS|https://tiess.ca
+D|Collectif Récolte|https://collectifrecolte.org
+P|Synergie économique Laurentides|https://synergielaurentides.ca/emploi
+P|Connexion Laurentides offres d'emploi|https://www.connexionlaurentides.com/offres-demploi/
+D|Économie sociale Laurentides|https://www.economiesocialelaurentides.ca
+D|Synerlab|https://synerlab.ca
+D|CTAQ|https://ctaq.qc.ca
+D|FCEI|https://www.cfib-fcei.ca
+W|UPA (Workday)|upa;wd10;Externe
+D|UPA|https://www.upa.qc.ca
+D|APMQ|https://apmq.ca
+D|Desjardins carrières|https://www.desjardins.com/ca/about-us/careers/index.jsp
+D|BDC|https://www.bdc.ca
+P|FAC carrières|https://www.fcc-fac.ca/fr/a-propos/carrieres.html
+D|BMO|https://jobs.bmo.com
+D|Banque Nationale|https://emplois.bnc.ca
+P|Fondaction carrières|https://www.fondaction.com/a-propos/carrieres/
+P|Fonds de solidarité FTQ carrières|https://www.fondsftq.com/fr-ca/carrieres
+D|Sollio Groupe Coopératif|https://sollio.coop
+D|APCHQ|https://www.apchq.com
+D|CCQ|https://www.ccq.org
+D|CDPQ|https://www.cdpq.com
+D|Evol|https://evol.ca
+D|Commerce Solidaire|https://commercesolidaire.ca
+P|Équiterre emplois|https://www.equiterre.org/fr/emplois
+P|Vivre en Ville travailler avec nous|https://vivreenville.org/a-propos/travailler-avec-nous
+D|Coop Carbone|https://coopcarbone.coop
+D|CQCM|https://cqcm.coop
+D|Lanaudière Économique|https://lanaudiereeconomique.com
+D|CieNOV|https://cienov.ca
+D|Développement économique Laval|https://developpementeconomiquelaval.ca
+P|Ville de Laval emplois|https://www.laval.ca/emplois/
+D|Orchestre Métropolitain|https://orchestremetropolitain.com
+D|Cosmodôme|https://www.cosmodome.org
+D|Groupe Scandinave|https://www.scandinave.com
+D|MRC Antoine-Labelle|https://www.mrc-antoine-labelle.qc.ca
+D|MRC d'Argenteuil|https://www.argenteuil.qc.ca
+D|MRC de Deux-Montagnes|https://www.mrc2m.qc.ca
+D|MRC des Pays-d'en-Haut|https://www.mrcpdh.org
+D|MRC de la Rivière-du-Nord|https://mrcrdn.qc.ca
+D|MRC de Thérèse-De Blainville|https://www.mrcdeblainville.qc.ca
+D|Ville de Mirabel|https://www.mirabel.ca
+D|Ville de Mont-Tremblant|https://www.villedemont-tremblant.qc.ca
+D|Ville de Saint-Jérôme|https://www.vsj.ca
+D|Ville de Saint-Eustache|https://www.ville.saint-eustache.qc.ca
+D|Ville de Sainte-Thérèse|https://www.sainte-therese.ca
+D|Ville de Boisbriand|https://www.ville.boisbriand.qc.ca
+D|Ville de Bois-des-Filion|https://www.ville.boisdesfilion.qc.ca
+D|Ville de Blainville|https://www.ville.blainville.qc.ca
+D|Ville de Lachute|https://www.ville.lachute.qc.ca
+D|Ville de Sainte-Adèle|https://www.ville.sainte-adele.qc.ca
+D|Ville de Saint-Sauveur|https://www.ville.saint-sauveur.qc.ca
+D|Ville de Sainte-Agathe-des-Monts|https://www.villesainteagathedesmonts.qc.ca
+D|Ville de Prévost|https://www.ville.prevost.qc.ca
+D|Municipalité de Piedmont|https://www.piedmont.ca
+D|Municipalité de Morin-Heights|https://www.morinheights.com
+D|Sainte-Anne-des-Lacs|https://www.sadl.qc.ca
+D|Sainte-Sophie|https://www.sainte-sophie.ca
+D|Saint-Adolphe-d'Howard|https://www.sadh.ca
+D|Sainte-Marguerite-du-Lac-Masson|https://www.sainte-marguerite-du-lac-masson.ca
+D|Ville de Rosemère|https://www.ville.rosemere.qc.ca
+D|Ville de Lorraine|https://www.ville.lorraine.qc.ca
+D|Municipalité de Val-David|https://www.valdavid.com
+D|Municipalité de Val-Morin|https://www.valmorin.ca
+D|Saint-Colomban|https://www.st-colomban.qc.ca
+D|Municipalité d'Oka|https://www.municipalite.oka.qc.ca
+D|Municipalité de Labelle|https://www.municipalite.labelle.qc.ca
+D|Ville de Mont-Laurier|https://www.villemontlaurier.qc.ca
+D|SADC des Laurentides|https://www.sadc-laurentides.qc.ca
+D|SADC Antoine-Labelle|https://www.sadcal.qc.ca
+D|SADC d'Argenteuil|https://www.sadc-argenteuil.qc.ca
+D|Tourisme Laurentides|https://www.laurentides.com
+D|Tourisme Mont-Tremblant|https://www.tourismemonttremblant.com
+D|Station Mont Tremblant|https://www.tremblant.ca
+D|Parc régional Val-David–Val-Morin|https://www.parcregional-vdvm.com
+D|Sépaq|https://www.sepaq.com
+D|Santé Québec|https://www.santequebec.ca
+D|CSS des Laurentides|https://www.cslaurentides.qc.ca
+D|CSS de la Rivière-du-Nord|https://www.csrdn.qc.ca
+D|CSS de la Seigneurie-des-Mille-Îles|https://www.cssmi.qc.ca
+D|Cégep de Saint-Jérôme|https://www.cstj.qc.ca
+D|Collège Lionel-Groulx|https://www.clg.qc.ca
+D|CDCQ|https://www.cdcq.ca
+D|CIMEQ|https://www.cimeq.qc.ca
+D|Origine Nature|https://originenature.com
+D|Organigram|https://www.organigram.ca
+D|SQDC carrières|https://www.sqdc.ca
+D|Hydrotek|https://www.hydrotek.ca
