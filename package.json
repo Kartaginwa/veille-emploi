@@ -1,0 +1,1 @@
+{"name":"veille-emploi","version":"1.0.0","type":"module","private":true,"dependencies":{"cheerio":"1.0.0","playwright":"1.49.1"}}
