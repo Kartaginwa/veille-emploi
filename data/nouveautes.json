@@ -1,0 +1,2415 @@
+{
+ "genereLe": "2026-10-01T21:56:16.049Z",
+ "date": "2026-10-01",
+ "sourcesTotal": 121,
+ "statuts": {
+  "ok": 79,
+  "aucun poste": 6,
+  "echec": 25,
+  "vide": 11
+ },
+ "nouveauxTotal": 1665,
+ "nouveaux": [
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "Skip to job search",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=commissaire&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "Skip to main content",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=commissaire&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "Skip to \"About this Web application\"",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=commissaire&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "Training and careers",
+   "url": "https://www.jobbank.gc.ca/career-planning",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "Labour market information",
+   "url": "https://www.jobbank.gc.ca/trend-analysis",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "All of Canada",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=commissaire&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "Current location",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=commissaire&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "Skip to filters",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=commissaire&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "commissaire in various locations",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?term=commissaire&page=1&sort=D&fcid=1023&fn21=00011",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "Create alert",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobalert/indregister/fcid=1023&fn21=00011&term=commissaire&page=1&sort=D;jsessionid=966EC87F810F6C2233777AA2D31983EB.jobsearch75",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "Remove keyword commissaire",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "Selected Date posted",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fcid=1023&fn21=00011&page=1&sort=D&term=commissaire",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "New Jobillico executive administrator - government agency September 28, 2026 Marc-André Paré Consultant Inc. Location Lambton (QC) Salary $64,868.00 to $70,161.00 annually Jobillico Job number: 17569218",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50387039;jsessionid=966EC87F810F6C2233777AA2D31983EB.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "executive administrator - government agency - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=commissaire&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "Sign up for a Plus account",
+   "url": "https://www.jobbank.gc.ca/reg/instructions;jsessionid=966EC87F810F6C2233777AA2D31983EB.jobsearch75",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "New Jobillico local government manager September 28, 2026 Groupe ACE Location Laval (QC) Salary $25.00 to $35.00 hourly Jobillico Job number: 16516233",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50385691;jsessionid=966EC87F810F6C2233777AA2D31983EB.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "local government manager - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=commissaire&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "New Québec emploi regional municipality general director September 28, 2026 MUNICIPALITE DE LORRAINVILLE Location Lorrainville (QC) Salary $80,000.00 annually Québec emploi Job number: 550253",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50381974;jsessionid=966EC87F810F6C2233777AA2D31983EB.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "regional municipality general director - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=commissaire&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "New Jobillico vice-consul September 25, 2026 Université de Sherbrooke Location Sherbrooke (QC) Salary $64,173.00 to $104,013.00 annually Jobillico Job number: 17562291",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50365545;jsessionid=966EC87F810F6C2233777AA2D31983EB.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "vice-consul - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=commissaire&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "Nova Scotia Public Service Commission general manager - government services September 23, 2026 The Government of Nova Scotia Location Halifax (NS) Salary $3,929.22 to $4,911.52 biweekly Nova Scotia Public Service Commission Job number: 49861",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50351966;jsessionid=966EC87F810F6C2233777AA2D31983EB.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "general manager - government services - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=commissaire&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "Nova Scotia Public Service Commission general manager - government services September 23, 2026 The Government of Nova Scotia Location Halifax (NS) Salary $3,929.22 to $4,911.52 biweekly Nova Scotia Public Service Commission Job number: 49274",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50350087;jsessionid=966EC87F810F6C2233777AA2D31983EB.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "Nova Scotia Public Service Commission general manager - government services September 23, 2026 The Government of Nova Scotia Location Truro (NS) Salary $3,571.99 to $4,465.03 biweekly Nova Scotia Public Service Commission Job number: 50004",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50349058;jsessionid=966EC87F810F6C2233777AA2D31983EB.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "Nova Scotia Public Service Commission executive director - government services September 22, 2026 The Government of Nova Scotia Location Halifax (NS) Salary $2,068.01 to $2,585.02 biweekly Nova Scotia Public Service Commission Job number: 49863",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50343159;jsessionid=966EC87F810F6C2233777AA2D31983EB.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "executive director - government services - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=commissaire&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "Québec emploi general secretary - government services September 21, 2026 LES INDUSTRIES DESCHAMPS INC. Location Saint-Lin-Laurentides (QC) Salary $17.00 hourly Québec emploi Job number: 549500",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50332323;jsessionid=966EC87F810F6C2233777AA2D31983EB.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "general secretary - government services - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=commissaire&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "Québec emploi regional municipality general director September 21, 2026 VILLE DE DANVILLE Location Danville (QC) Salary $98,250.00 annually Québec emploi Job number: 549135",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50330681;jsessionid=966EC87F810F6C2233777AA2D31983EB.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "Québec emploi assistant general director - government services September 17, 2026 MUNICIPALITE DE LA PAROISSE DE SAINT-DONAT Location Saint-Donat (QC) Salary $34.01 hourly Québec emploi Job number: 548691",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50305689;jsessionid=966EC87F810F6C2233777AA2D31983EB.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "assistant general director - government services - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=commissaire&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "Québec emploi deputy municipal clerk September 11, 2026 GESTION BELLEROSE MESSIER Location Saint-Anicet (QC) Salary $94,556.00 annually Québec emploi Job number: 548317",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50268778;jsessionid=966EC87F810F6C2233777AA2D31983EB.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "deputy municipal clerk - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=commissaire&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "Report a problem with the search results",
+   "url": "https://www.jobbank.gc.ca/support/reportproblemform;jsessionid=966EC87F810F6C2233777AA2D31983EB.jobsearch75",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "RSS Job Feed",
+   "url": "https://www.jobbank.gc.ca/jobsearch/feed/jobSearchRSSfeed;jsessionid=966EC87F810F6C2233777AA2D31983EB.jobsearch75?fage=2&fcid=1023&fn21=00011&term=commissaire&sort=D&rows=100",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "Help - Interactive map",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=commissaire&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "View more filters",
+   "url": "https://www.jobbank.gc.ca/jobsearch/advancedsearch?fcid=1023&fn21=00011&term=commissaire&page=1&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "Job Bank Support",
+   "url": "https://www.jobbank.gc.ca/helpsupport",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "Terms of use - Job seekers",
+   "url": "https://www.jobbank.gc.ca/termsofuseseeker",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois commissaire Laurentides",
+   "titre": "Terms of use - Employers",
+   "url": "https://www.jobbank.gc.ca/termsofuseemployer",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "Skip to job search",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Montr%C3%A9al%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "Skip to main content",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Montr%C3%A9al%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "Skip to \"About this Web application\"",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Montr%C3%A9al%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "Training and careers",
+   "url": "https://www.jobbank.gc.ca/career-planning",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "Labour market information",
+   "url": "https://www.jobbank.gc.ca/trend-analysis",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "All of Canada",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Montr%C3%A9al%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "Current location",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Montr%C3%A9al%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "Skip to filters",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Montr%C3%A9al%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "développement économique in various locations",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?term=d%C3%A9veloppement+%C3%A9conomique&page=1&sort=D&fcid=12221&fcid=12223&fcid=12264&fn21=41402",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "Create alert",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobalert/indregister/fcid=12221&fcid=12223&fcid=12264&fn21=41402&term=d%25C3%25A9veloppement+%25C3%25A9conomique&page=1&sort=D;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "Remove keyword développement économique",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "Selected Date posted",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fcid=12221&fcid=12223&fcid=12264&fn21=41402&page=1&sort=D&term=d%C3%A9veloppement+%C3%A9conomique",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "New HybridDirect Apply Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank market research specialist October 01, 2026 Jeux WB Games Montreal Location Montréal (QC) Salary $78,000.00 annually Job Bank Job number: 3669024",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405611;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "market research specialist - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Montr%C3%A9al%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "Sign up for a Plus account",
+   "url": "https://www.jobbank.gc.ca/reg/instructions;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "New Québec emploi rural development officer September 29, 2026 Carrefour jeunesse-emploi du Haut-Saint-François Location East Angus (QC) Salary $28.00 hourly Québec emploi Job number: 550698",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50392104;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "rural development officer - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Montr%C3%A9al%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "New ZipRecruiter business development officer September 29, 2026 i8is Location Woodbridge (ON) Salary $49.65 hourly ZipRecruiter Job number: 17ad9e3c",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50395540;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "business development officer - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Montr%C3%A9al%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "New On siteDirect Apply Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank business development officer September 28, 2026 Queen Chinguacousy Dentistry Location Brampton (ON) Salary $48.00 hourly Job Bank Job number: 3683605",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50385512;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "New Jobillico analyst, marketing September 28, 2026 Les Services SiPD inc. Location Laval (QC) Salary $20.00 hourly Jobillico Job number: 17567901",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50383884;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "analyst, marketing - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Montr%C3%A9al%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "New CivicJobs.ca economic development director September 28, 2026 Okanagan Indian Band Location Vernon (BC) Salary $120,000.00 annually CivicJobs.ca Job number: 116408",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50383314;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "economic development director - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Montr%C3%A9al%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "New On siteDirect Apply Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank economic development officer September 28, 2026 Greater Miramichi Service Commission Location Miramichi (NB) Salary $69,000.00 to $85,000.00 annually (to be negotiated) Job Bank Job number: 3682907",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50382768;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "economic development officer - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Montr%C3%A9al%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "New AgCareers.com agriculture and food sector development consultant September 28, 2026 Farm Credit Canada Location Essex (ON) Salary $55,160.00 to $74,620.00 annually AgCareers.com Job number: 1044864",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50382452;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "agriculture and food sector development consultant - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Montr%C3%A9al%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "New AgCareers.com agriculture and food sector development consultant September 28, 2026 Farm Credit Canada Location Regina (SK) Salary $122,940.00 to $166,330.00 annually AgCareers.com Job number: 1044860",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50382487;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "New AgCareers.com agriculture and food sector development consultant September 28, 2026 Farm Credit Canada Location Essex (ON) Salary $55,160.00 to $74,620.00 annually AgCareers.com Job number: 1044863",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50382526;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "New AgCareers.com agriculture and food sector development consultant September 28, 2026 Farm Credit Canada Location Regina (SK) Salary $122,940.00 to $166,330.00 annually AgCareers.com Job number: 1044861",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50382577;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "New CareerBeacon business development officer September 26, 2026 Innovation Factory Location Hamilton (ON) Salary $50,000.00 to $60,000.00 annually CareerBeacon Job number: f55d4424-f28a-4264-98e3-cd6cf1cbaca2",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50372294;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "New Hybrid CareerBeacon business development officer September 26, 2026 Employment Hero Location Toronto (ON) Salary $65,000.00 to $70,000.00 annually CareerBeacon Job number: be0fef3a-692f-415b-8889-6065a31cee87",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50372372;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "New ZipRecruiter business development officer September 26, 2026 Invictus Northwest Group Location Richmond (BC) Salary $120,236.75 annually ZipRecruiter Job number: a7c9670f1",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50380558;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "New ZipRecruiter business development officer September 26, 2026 Invictus Northwest Group Location Port Coquitlam (BC) Salary $120,236.75 annually ZipRecruiter Job number: 74f1594b1",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50380631;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "New ZipRecruiter business development officer September 26, 2026 Invictus Northwest Group Location Vancouver (BC) Salary $120,236.75 annually ZipRecruiter Job number: 158eb4281",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50380637;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "New indeed.com analyst, marketing September 25, 2026 MDG Location Oakville (ON) Salary $60,000.00 to $80,000.00 annually indeed.com Job number: 10274586286",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50367238;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "New ZipRecruiter business development officer September 25, 2026 Building Materials Industry Manufacturer Location Vancouver (BC) Salary $141,455.00 annually ZipRecruiter Job number: 52a8266d1",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50380560;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "CivicJobs.ca economic development director September 24, 2026 City of Prince George Location Prince George (BC) Salary $129,732.00 annually CivicJobs.ca Job number: 116348",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50360274;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "On siteDirect Apply Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank business development officer September 24, 2026 Vancouver Bullion & Currency Exchange Location Vancouver (BC) Salary $90,000.00 annually Job Bank Job number: 3680792",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50358744;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "Talent.com sales analyst September 24, 2026 TechInsights Location Ottawa (ON) Salary $61,540.00 to $65,160.00 annually Talent.com Job number: 638801402117493138",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50363141;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "sales analyst - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Montr%C3%A9al%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "ZipRecruiter business development officer September 23, 2026 Paylidify Canada Location Edmonton (AB) Salary $5,633.74 monthly ZipRecruiter Job number: b8afff573",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50350094;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "CivicJobs.ca director, economic development September 22, 2026 St. Mary&apos;s Location Sherbrooke (NS) Salary $85,770.00 annually CivicJobs.ca Job number: 116268",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50340544;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "director, economic development - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Montr%C3%A9al%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "indeed.com analyst, marketing September 21, 2026 RE/MAX Realtron Realty Inc., Brokerage Location Markham (ON) Salary $40,000.00 to $45,000.00 annually indeed.com Job number: 10270423744",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50333890;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "On siteDirect Apply Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank business development officer September 18, 2026 VMC Immigration Services Location Thunder Bay (ON) Salary $37,000.00 to $45,000.00 annually (to be negotiated) Job Bank Job number: 3676244",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50316574;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "Report a problem with the search results",
+   "url": "https://www.jobbank.gc.ca/support/reportproblemform;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "RSS Job Feed",
+   "url": "https://www.jobbank.gc.ca/jobsearch/feed/jobSearchRSSfeed;jsessionid=BABA0E4FDF0DF7562506EBE26914C926.jobsearch75?fage=2&fcid=12221&fcid=12223&fcid=12264&fn21=41402&term=d%C3%A9veloppement+%C3%A9conomique&sort=D&rows=100",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "Help - Interactive map",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Montr%C3%A9al%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "View more filters",
+   "url": "https://www.jobbank.gc.ca/jobsearch/advancedsearch?fcid=12221&fcid=12223&fcid=12264&fn21=41402&term=d%C3%A9veloppement+%C3%A9conomique&page=1&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "Job Bank Support",
+   "url": "https://www.jobbank.gc.ca/helpsupport",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "Terms of use - Job seekers",
+   "url": "https://www.jobbank.gc.ca/termsofuseseeker",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "Terms of use - Employers",
+   "url": "https://www.jobbank.gc.ca/termsofuseemployer",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "Skip to job search",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "Skip to main content",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "Skip to \"About this Web application\"",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "Training and careers",
+   "url": "https://www.jobbank.gc.ca/career-planning",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "Labour market information",
+   "url": "https://www.jobbank.gc.ca/trend-analysis",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "All of Canada",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "Current location",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "Skip to filters",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "développement économique in various locations",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?term=d%C3%A9veloppement+%C3%A9conomique&page=1&sort=D&fcid=12221&fcid=12223&fcid=12264&fn21=41402",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "Create alert",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobalert/indregister/fcid=12221&fcid=12223&fcid=12264&fn21=41402&term=d%25C3%25A9veloppement+%25C3%25A9conomique&page=1&sort=D;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "Remove keyword développement économique",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "Selected Date posted",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fcid=12221&fcid=12223&fcid=12264&fn21=41402&page=1&sort=D&term=d%C3%A9veloppement+%C3%A9conomique",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "New HybridDirect Apply Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank market research specialist October 01, 2026 Jeux WB Games Montreal Location Montréal (QC) Salary $78,000.00 annually Job Bank Job number: 3669024",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405611;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "market research specialist - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "Sign up for a Plus account",
+   "url": "https://www.jobbank.gc.ca/reg/instructions;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "New Québec emploi rural development officer September 29, 2026 Carrefour jeunesse-emploi du Haut-Saint-François Location East Angus (QC) Salary $28.00 hourly Québec emploi Job number: 550698",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50392104;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "rural development officer - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "New ZipRecruiter business development officer September 29, 2026 i8is Location Woodbridge (ON) Salary $49.65 hourly ZipRecruiter Job number: 17ad9e3c",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50395540;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "business development officer - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "New On siteDirect Apply Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank business development officer September 28, 2026 Queen Chinguacousy Dentistry Location Brampton (ON) Salary $48.00 hourly Job Bank Job number: 3683605",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50385512;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "New Jobillico analyst, marketing September 28, 2026 Les Services SiPD inc. Location Laval (QC) Salary $20.00 hourly Jobillico Job number: 17567901",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50383884;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "analyst, marketing - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "New CivicJobs.ca economic development director September 28, 2026 Okanagan Indian Band Location Vernon (BC) Salary $120,000.00 annually CivicJobs.ca Job number: 116408",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50383314;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "economic development director - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "New On siteDirect Apply Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank economic development officer September 28, 2026 Greater Miramichi Service Commission Location Miramichi (NB) Salary $69,000.00 to $85,000.00 annually (to be negotiated) Job Bank Job number: 3682907",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50382768;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "economic development officer - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "New AgCareers.com agriculture and food sector development consultant September 28, 2026 Farm Credit Canada Location Essex (ON) Salary $55,160.00 to $74,620.00 annually AgCareers.com Job number: 1044864",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50382452;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "agriculture and food sector development consultant - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "New AgCareers.com agriculture and food sector development consultant September 28, 2026 Farm Credit Canada Location Regina (SK) Salary $122,940.00 to $166,330.00 annually AgCareers.com Job number: 1044860",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50382487;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "New AgCareers.com agriculture and food sector development consultant September 28, 2026 Farm Credit Canada Location Essex (ON) Salary $55,160.00 to $74,620.00 annually AgCareers.com Job number: 1044863",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50382526;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "New AgCareers.com agriculture and food sector development consultant September 28, 2026 Farm Credit Canada Location Regina (SK) Salary $122,940.00 to $166,330.00 annually AgCareers.com Job number: 1044861",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50382577;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "New CareerBeacon business development officer September 26, 2026 Innovation Factory Location Hamilton (ON) Salary $50,000.00 to $60,000.00 annually CareerBeacon Job number: f55d4424-f28a-4264-98e3-cd6cf1cbaca2",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50372294;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "New Hybrid CareerBeacon business development officer September 26, 2026 Employment Hero Location Toronto (ON) Salary $65,000.00 to $70,000.00 annually CareerBeacon Job number: be0fef3a-692f-415b-8889-6065a31cee87",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50372372;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "New ZipRecruiter business development officer September 26, 2026 Invictus Northwest Group Location Richmond (BC) Salary $120,236.75 annually ZipRecruiter Job number: a7c9670f1",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50380558;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "New ZipRecruiter business development officer September 26, 2026 Invictus Northwest Group Location Port Coquitlam (BC) Salary $120,236.75 annually ZipRecruiter Job number: 74f1594b1",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50380631;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "New ZipRecruiter business development officer September 26, 2026 Invictus Northwest Group Location Vancouver (BC) Salary $120,236.75 annually ZipRecruiter Job number: 158eb4281",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50380637;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "New indeed.com analyst, marketing September 25, 2026 MDG Location Oakville (ON) Salary $60,000.00 to $80,000.00 annually indeed.com Job number: 10274586286",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50367238;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "New ZipRecruiter business development officer September 25, 2026 Building Materials Industry Manufacturer Location Vancouver (BC) Salary $141,455.00 annually ZipRecruiter Job number: 52a8266d1",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50380560;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "CivicJobs.ca economic development director September 24, 2026 City of Prince George Location Prince George (BC) Salary $129,732.00 annually CivicJobs.ca Job number: 116348",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50360274;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "On siteDirect Apply Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank business development officer September 24, 2026 Vancouver Bullion & Currency Exchange Location Vancouver (BC) Salary $90,000.00 annually Job Bank Job number: 3680792",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50358744;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "Talent.com sales analyst September 24, 2026 TechInsights Location Ottawa (ON) Salary $61,540.00 to $65,160.00 annually Talent.com Job number: 638801402117493138",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50363141;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "sales analyst - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "ZipRecruiter business development officer September 23, 2026 Paylidify Canada Location Edmonton (AB) Salary $5,633.74 monthly ZipRecruiter Job number: b8afff573",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50350094;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "CivicJobs.ca director, economic development September 22, 2026 St. Mary&apos;s Location Sherbrooke (NS) Salary $85,770.00 annually CivicJobs.ca Job number: 116268",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50340544;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "director, economic development - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "indeed.com analyst, marketing September 21, 2026 RE/MAX Realtron Realty Inc., Brokerage Location Markham (ON) Salary $40,000.00 to $45,000.00 annually indeed.com Job number: 10270423744",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50333890;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "On siteDirect Apply Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank business development officer September 18, 2026 VMC Immigration Services Location Thunder Bay (ON) Salary $37,000.00 to $45,000.00 annually (to be negotiated) Job Bank Job number: 3676244",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50316574;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "Report a problem with the search results",
+   "url": "https://www.jobbank.gc.ca/support/reportproblemform;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "RSS Job Feed",
+   "url": "https://www.jobbank.gc.ca/jobsearch/feed/jobSearchRSSfeed;jsessionid=CFF82CDAC6A65034D006CED6D7FCA05E.jobsearch75?fage=2&fcid=12221&fcid=12223&fcid=12264&fn21=41402&term=d%C3%A9veloppement+%C3%A9conomique&sort=D&rows=100",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "Help - Interactive map",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "View more filters",
+   "url": "https://www.jobbank.gc.ca/jobsearch/advancedsearch?fcid=12221&fcid=12223&fcid=12264&fn21=41402&term=d%C3%A9veloppement+%C3%A9conomique&page=1&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "Job Bank Support",
+   "url": "https://www.jobbank.gc.ca/helpsupport",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "Terms of use - Job seekers",
+   "url": "https://www.jobbank.gc.ca/termsofuseseeker",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "Terms of use - Employers",
+   "url": "https://www.jobbank.gc.ca/termsofuseemployer",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "Skip to job search",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "Skip to main content",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "Skip to \"About this Web application\"",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "Training and careers",
+   "url": "https://www.jobbank.gc.ca/career-planning",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "Labour market information",
+   "url": "https://www.jobbank.gc.ca/trend-analysis",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "All of Canada",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "Current location",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "Skip to filters",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "conseiller in various locations",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?term=conseiller&page=1&sort=D&fcid=1011&fcid=136&fcid=16074&fcid=17187&fcid=17190&fcid=227160&fcid=25171&fcid=27154&fcid=296235&fcid=296247&fcid=296501&fcid=296828&fcid=296946&fcid=297237&fcid=297298&fcid=3802&fcid=4159&fcid=4164&fcid=4172&fcid=5352&fcid=5459&fcid=6178&fcid=6180&fcid=715&fcid=850&fcid=872&fn21=11101&fn21=11102&fn21=11200&fn21=11201&fn21=11202&fn21=12101&fn21=21120&fn21=22232&fn21=41101&fn21=41300&fn21=41301&fn21=41320&fn21=41321&fn21=41400&fn21=41401&fn21=41402&fn21=41403&fn21=41405&fn21=42201&fn21=52121&fn21=54100&fn21=62100&fn21=63102&fn21=63211&fn21=64100&fn21=64101&fn21=64201&fn21=64409",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "Create alert",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobalert/indregister/fcid=136&fcid=715&fcid=850&fcid=872&fcid=1011&fcid=3802&fcid=4159&fcid=4164&fcid=4172&fcid=5352&fcid=5459&fcid=6178&fcid=6180&fcid=16074&fcid=17187&fcid=17190&fcid=25171&fcid=27154&fcid=227160&fcid=296235&fcid=296247&fcid=296501&fcid=296828&fcid=296946&fcid=297237&fcid=297298&fn21=11101&fn21=11102&fn21=11200&fn21=11201&fn21=11202&fn21=12101&fn21=21120&fn21=22232&fn21=41101&fn21=41300&fn21=41301&fn21=41320&fn21=41321&fn21=41400&fn21=41401&fn21=41402&fn21=41403&fn21=41405&fn21=42201&fn21=52121&fn21=54100&fn21=62100&fn21=63102&fn21=63211&fn21=64100&fn21=64101&fn21=64201&fn21=64409&term=conseiller&page=1&sort=D;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "Remove keyword conseiller",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "Selected Date posted",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fcid=136&fcid=715&fcid=850&fcid=872&fcid=1011&fcid=3802&fcid=4159&fcid=4164&fcid=4172&fcid=5352&fcid=5459&fcid=6178&fcid=6180&fcid=16074&fcid=17187&fcid=17190&fcid=25171&fcid=27154&fcid=227160&fcid=296235&fcid=296247&fcid=296501&fcid=296828&fcid=296946&fcid=297237&fcid=297298&fn21=11101&fn21=11102&fn21=11200&fn21=11201&fn21=11202&fn21=12101&fn21=21120&fn21=22232&fn21=41101&fn21=41300&fn21=41301&fn21=41320&fn21=41321&fn21=41400&fn21=41401&fn21=41402&fn21=41403&fn21=41405&fn21=42201&fn21=52121&fn21=54100&fn21=62100&fn21=63102&fn21=63211&fn21=64100&fn21=64101&fn21=64201&fn21=64409&page=1&sort=D&term=conseiller",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New On siteDirect Apply Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank marketing coordinator October 01, 2026 CHASE GLOBAL IMMIGRATION INC. Location Calgary (AB) Salary $36.50 to $38.00 hourly (to be negotiated) Job Bank Job number: 3686580",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405989;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "marketing coordinator - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "Sign up for a Plus account",
+   "url": "https://www.jobbank.gc.ca/reg/instructions;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New RemoteDirect Apply Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank information technology (it) sales representative October 01, 2026 TB3 Inc. LocationVanier, ON Salary $45,000.00 to $55,000.00 annually (to be negotiated) Job Bank Job number: 3684830",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405849;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "information technology (it) sales representative - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New SaskJobs peer support worker October 01, 2026 Saskatoon Tribal Council Inc. Location Saskatoon (SK) Salary $26.00 To $39.00 Annually SaskJobs Job number: 1548971",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405795;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "peer support worker - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New SaskJobs languages coordinator - education October 01, 2026 Northern Lights School Division #113 Location La Loche (SK) Salary $27.80 - $32.52 per hour - According to education and experience. SaskJobs Job number: 1548986",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405790;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "languages coordinator - education - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New indeed.com hardware store clerk October 01, 2026 Uniag Coopérative Location Saint-Louis-de-Gonzague (QC) Salary $19.00 hourly indeed.com Job number: 10282398921",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405684;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "hardware store clerk - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New indeed.com automotives sales consultant October 01, 2026 Arbutus RV & Marine Sales Ltd. Location Port Alberni (BC) Salary $50,000.00 to $100,000.00 annually indeed.com Job number: 10282312542",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405693;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "automotives sales consultant - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New indeed.com inside sales representative October 01, 2026 NorthPro Supplies ltd Location Surrey (BC) Salary $36,500.00 to $85,443.87 annually indeed.com Job number: 10282306940",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405662;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "inside sales representative - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New SaskJobs service writer - auto repair October 01, 2026 Canadian Tire #287 YORKTON Location Yorkton (SK) Salary 22.46-25.00 per hour based on experience SaskJobs Job number: 1548969",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405769;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "service writer - auto repair - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New indeed.com associate lawyer October 01, 2026 Fulton Location Vancouver (BC) Salary $110,000.00 to $160,000.00 annually indeed.com Job number: 10282326360",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405725;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "associate lawyer - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New On siteDirect Apply Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank marketing coordinator October 01, 2026 PACIFIC LASER CLINICS Location Calgary (AB) Salary $34.00 to $38.00 hourly (to be negotiated) Job Bank Job number: 3686557",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405637;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New On siteDirect Apply Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank marketing coordinator October 01, 2026 SANSHTECH INC. Location Calgary (AB) Salary $37.50 to $38.00 hourly (to be negotiated) Job Bank Job number: 3686547",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405628;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New HybridDirect Apply Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank market research specialist October 01, 2026 Jeux WB Games Montreal Location Montréal (QC) Salary $78,000.00 annually Job Bank Job number: 3669024",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405611;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "market research specialist - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New On siteDirect Apply Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank sales representative - retail October 01, 2026 Kognitive Sales Solutions Location Sarnia (ON) Salary $17.95 hourly + $18.00 commission per sale Job Bank Job number: 3686494",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405573;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "sales representative - retail - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New HybridDirect Apply Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank immigration and citizenship consultant October 01, 2026 The Immigration Beads Inc. Location Mississauga (ON) Salary $20.00 to $25.00 hourly (to be negotiated) Job Bank Job number: 3684890",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405568;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "immigration and citizenship consultant - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New On siteDirect Apply Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank marketing coordinator October 01, 2026 CANADA NEST IMMIGRATION CONSULTING LTD. Location Vancouver (BC) Salary $37.50 hourly Job Bank Job number: 3684769",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405206;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New Québec emploi customer service agent October 01, 2026 COMPO-HAUT-RICHELIEU INC. Location Saint-Jean-sur-Richelieu (QC) Salary $21.49 hourly Québec emploi Job number: 545875",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405398;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "customer service agent - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New Québec emploi social worker October 01, 2026 Centre de ressources pour hommes Optimum SLSJ Location Alma (QC) Salary $23.50 hourly Québec emploi Job number: 550813",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405287;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "social worker - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New Québec emploi Itinerant support service worker October 01, 2026 L'ECLUSE DE LAURENTIDES Location Sainte-Adèle (QC) Salary $27.02 hourly Québec emploi Job number: 550885",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405378;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "Itinerant support service worker - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New Québec emploi clerk, customer service October 01, 2026 PHARMACIE JEAN-PHILIPPE TESSIER ET BRUNO BEGIN (LA POCATIÈRE) Location La Pocatière (QC) Salary $20.00 hourly Québec emploi Job number: 550324",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405356;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "clerk, customer service - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New Québec emploi youth services worker October 01, 2026 L'ASSOCIATION DES GROUPES DE JEUNES DES HAUTS-RELIEFS Location Ham-Nord (QC) Salary $21.97 hourly Québec emploi Job number: 550878",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405272;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "youth services worker - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New Nova Scotia Public Service Commission senior financial analyst October 01, 2026 The Government of Nova Scotia Location Halifax (NS) Salary $2,805.63 to $3,410.48 biweekly Nova Scotia Public Service Commission Job number: 50000",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405225;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "senior financial analyst - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New indeed.com customer service representative - call centre October 01, 2026 Perfect Home Location Calgary (AB) Salary $19.00 to $21.00 hourly indeed.com Job number: 10282262318",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405393;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "customer service representative - call centre - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New indeed.com customer service representative - call centre October 01, 2026 Mid Island Liquor Location Ladysmith (BC) Salary $19.21 to $21.24 hourly indeed.com Job number: 10282271975",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405226;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New indeed.com sales associate October 01, 2026 Trade Secrets Location Ottawa (ON) Salary $18.00 to $19.00 hourly indeed.com Job number: 10282248616",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405399;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "sales associate - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New SaskJobs addictions worker October 01, 2026 Metis Addictions Council of Saskatchewan Inc. Location Prince Albert (SK) Salary $19.63 - $21.81 SaskJobs Job number: 1548931",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405341;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "addictions worker - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "Report a problem with the search results",
+   "url": "https://www.jobbank.gc.ca/support/reportproblemform;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "RSS Job Feed",
+   "url": "https://www.jobbank.gc.ca/jobsearch/feed/jobSearchRSSfeed;jsessionid=ED20BB287BF2EB4D31D65FF2589F7EB4.jobsearch75?fage=2&fcid=136&fcid=715&fcid=850&fcid=872&fcid=1011&fcid=3802&fcid=4159&fcid=4164&fcid=4172&fcid=5352&fcid=5459&fcid=6178&fcid=6180&fcid=16074&fcid=17187&fcid=17190&fcid=25171&fcid=27154&fcid=227160&fcid=296235&fcid=296247&fcid=296501&fcid=296828&fcid=296946&fcid=297237&fcid=297298&fn21=11101&fn21=11102&fn21=11200&fn21=11201&fn21=11202&fn21=12101&fn21=21120&fn21=22232&fn21=41101&fn21=41300&fn21=41301&fn21=41320&fn21=41321&fn21=41400&fn21=41401&fn21=41402&fn21=41403&fn21=41405&fn21=42201&fn21=52121&fn21=54100&fn21=62100&fn21=63102&fn21=63211&fn21=64100&fn21=64101&fn21=64201&fn21=64409&term=conseiller&sort=D&rows=100",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "Help - Interactive map",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "View more filters",
+   "url": "https://www.jobbank.gc.ca/jobsearch/advancedsearch?fcid=136&fcid=715&fcid=850&fcid=872&fcid=1011&fcid=3802&fcid=4159&fcid=4164&fcid=4172&fcid=5352&fcid=5459&fcid=6178&fcid=6180&fcid=16074&fcid=17187&fcid=17190&fcid=25171&fcid=27154&fcid=227160&fcid=296235&fcid=296247&fcid=296501&fcid=296828&fcid=296946&fcid=297237&fcid=297298&fn21=11101&fn21=11102&fn21=11200&fn21=11201&fn21=11202&fn21=12101&fn21=21120&fn21=22232&fn21=41101&fn21=41300&fn21=41301&fn21=41320&fn21=41321&fn21=41400&fn21=41401&fn21=41402&fn21=41403&fn21=41405&fn21=42201&fn21=52121&fn21=54100&fn21=62100&fn21=63102&fn21=63211&fn21=64100&fn21=64101&fn21=64201&fn21=64409&term=conseiller&page=1&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "Job Bank Support",
+   "url": "https://www.jobbank.gc.ca/helpsupport",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "Terms of use - Job seekers",
+   "url": "https://www.jobbank.gc.ca/termsofuseseeker",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "Terms of use - Employers",
+   "url": "https://www.jobbank.gc.ca/termsofuseemployer",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Skip to job search",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=charg%C3%A9+de+projet&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Skip to main content",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=charg%C3%A9+de+projet&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Skip to \"About this Web application\"",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=charg%C3%A9+de+projet&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Training and careers",
+   "url": "https://www.jobbank.gc.ca/career-planning",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Labour market information",
+   "url": "https://www.jobbank.gc.ca/trend-analysis",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "All of Canada",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=charg%C3%A9+de+projet&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Current location",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=charg%C3%A9+de+projet&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Skip to filters",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=charg%C3%A9+de+projet&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "chargé de projet in various locations",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?term=charg%C3%A9+de+projet&page=1&sort=D&fcid=12498&fcid=25781&fcid=27223&fcid=296457&fcid=296458&fcid=296794&fcid=296795&fcid=296840&fcid=297815&fcid=4984",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Create alert",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobalert/indregister/fcid=4984&fcid=12498&fcid=25781&fcid=27223&fcid=296457&fcid=296458&fcid=296794&fcid=296795&fcid=296840&fcid=297815&term=charg%25C3%25A9+de+projet&page=1&sort=D;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Remove keyword chargé de projet",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Selected Date posted",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fcid=4984&fcid=12498&fcid=25781&fcid=27223&fcid=296457&fcid=296458&fcid=296794&fcid=296795&fcid=296840&fcid=297815&page=1&sort=D&term=charg%C3%A9+de+projet",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "New Québec emploi environmental project manager October 01, 2026 ORGANISME DE BASSINS VERSANTS DUPLESSIS Location Sept-Îles (QC) Salary $29.44 hourly Québec emploi Job number: 551037",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50404324;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "environmental project manager - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=charg%C3%A9+de+projet&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Sign up for a Plus account",
+   "url": "https://www.jobbank.gc.ca/reg/instructions;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "New On siteDirect Apply Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank marketing project manager October 01, 2026 Prime Health Ltd. Location Maple Ridge (BC) Salary $38.50 hourly Job Bank Job number: 3685726",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50401623;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "marketing project manager - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=charg%C3%A9+de+projet&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "New Québec emploi environmental project manager September 29, 2026 VILLE DE ROUYN-NORANDA Location Rouyn-Noranda (QC) Salary $82,871.00 annually Québec emploi Job number: 550362",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50389679;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "New Québec emploi project executive – construction September 29, 2026 IKKEN DESIGN INC. Location Bon-Conseil (QC) Salary $35.00 hourly Québec emploi Job number: 550499",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50389929;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "project executive – construction - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=charg%C3%A9+de+projet&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "New JobsMedia.ca industrial engineering project manager September 29, 2026 Groupe EBR Location Québec (QC) Salary $70,000.00 to $100,000.00 annually JobsMedia.ca Job number: 271631B1790672402",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50388466;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "industrial engineering project manager - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=charg%C3%A9+de+projet&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "New Jobillico organization and productivity project officer September 29, 2026 Nitek Laser inc. Location Nicolet (QC) Salary $27.92 to $32.13 hourly Jobillico Job number: 17234380",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50387557;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "organization and productivity project officer - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=charg%C3%A9+de+projet&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "New Québec emploi marketing project manager September 28, 2026 ERABLE ATLAS Location Sainte-Rose (QC) Salary $25.00 hourly Québec emploi Job number: 550292",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50381879;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "New JobsMedia.ca engineering service project manager September 25, 2026 GROUPE CONSEIL UDA INC. Location Québec (QC) Salary $54,600.00 to $96,480.00 annually JobsMedia.ca Job number: 225973B1790345742",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50366052;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "engineering service project manager - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=charg%C3%A9+de+projet&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Québec emploi environmental project manager September 23, 2026 Nature-Action Québec Location Beloeil (QC) Salary $34.75 hourly Québec emploi Job number: 549796",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50351160;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "indeed.com environmental project manager September 22, 2026 MTE Consultants Inc. Location Toronto (ON) Salary $96,000.00 to $120,000.00 annually indeed.com Job number: 10271354522",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50343321;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Québec emploi project executive – construction September 22, 2026 QUINCAILLERIE LE SEUIL INC. Location Saint-Cyrille-de-Wendover (QC) Salary $45,000.00 annually Québec emploi Job number: 549564",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50339523;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "On siteDirect Apply Job Bank project manager - non-technical This job posting is posted by a recruitment agency on behalf of the employer. September 21, 2026 DaSilva and Associates Inc. Location Concord (ON) Salary $90,000.00 annually Job Bank Job number: 3677887",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50333655;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "project manager - non-technical - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=charg%C3%A9+de+projet&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Jobillico organization and productivity project officer September 21, 2026 Centre de services scolaire de la Capitale Location Québec (QC) Salary $27.30 to $35.31 hourly Jobillico Job number: 17545596",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50332868;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "On siteDirect Apply Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank organization and productivity project manager September 18, 2026 Maple Supply Chain Management Inc Location Stoney Creek (ON) Salary $37.00 hourly Job Bank Job number: 3675854",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50314071;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "organization and productivity project manager - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=charg%C3%A9+de+projet&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Québec emploi environmental project manager September 16, 2026 Nature-Action Québec Location Beloeil (QC) Salary $29.85 hourly Québec emploi Job number: 548572",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50299727;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Québec emploi environmental project manager September 14, 2026 Nature-Action Québec Location Beloeil (QC) Salary $29.85 hourly Québec emploi Job number: 548208",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50286662;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Jobillico organization and productivity project officer September 14, 2026 Groupe Morneau Location Anjou (QC) Salary $85,000.00 to $121,146.00 annually Jobillico Job number: 17525856",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50289169;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "JobsMedia.ca organization and productivity project officer September 11, 2026 Ville de Québec Location Québec (QC) Salary $67,585.00 to $117,034.00 annually JobsMedia.ca Job number: 273422",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50269290;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Québec emploi manager, engineering September 11, 2026 Ville de Pont-Rouge Location Pont-Rouge (QC) Salary $85,092.80 annually Québec emploi Job number: 548040",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50268357;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "manager, engineering - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=charg%C3%A9+de+projet&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Jobillico organization and productivity project officer September 11, 2026 Nature-Action Québec inc. Location Beloeil (QC) Salary $29.85 to $37.31 hourly Jobillico Job number: 17519361",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50271602;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Jobillico organization and productivity project officer September 11, 2026 Collège de Maisonneuve Location Montréal (QC) Salary $39,568.00 to $72,852.00 annually Jobillico Job number: 17521818",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50271855;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Québec emploi non-technical project manager September 10, 2026 SOLUTIONS RESIDENTIELLES LEBLANC INC. Location Chicoutimi (QC) Salary $60,000.00 annually Québec emploi Job number: 547993",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50258411;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "non-technical project manager - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=charg%C3%A9+de+projet&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "JobsMedia.ca industrial engineering project manager September 08, 2026 Groupe EBR Location Québec (QC) Salary $70,000.00 to $100,000.00 annually JobsMedia.ca Job number: 271631",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50245523;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "JobsMedia.ca industrial engineering project manager September 08, 2026 Groupe EBR Location Québec (QC) Salary $70,000.00 to $100,000.00 annually JobsMedia.ca Job number: 271631-1789042613",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50259228;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Report a problem with the search results",
+   "url": "https://www.jobbank.gc.ca/support/reportproblemform;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "RSS Job Feed",
+   "url": "https://www.jobbank.gc.ca/jobsearch/feed/jobSearchRSSfeed;jsessionid=CE31FFFF7F2E3177EF9B53978BA7D398.jobsearch75?fage=2&fcid=4984&fcid=12498&fcid=25781&fcid=27223&fcid=296457&fcid=296458&fcid=296794&fcid=296795&fcid=296840&fcid=297815&term=charg%C3%A9+de+projet&sort=D&rows=100",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Help - Interactive map",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=charg%C3%A9+de+projet&locationstring=Laurentides%2C+QC&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "View more filters",
+   "url": "https://www.jobbank.gc.ca/jobsearch/advancedsearch?fcid=4984&fcid=12498&fcid=25781&fcid=27223&fcid=296457&fcid=296458&fcid=296794&fcid=296795&fcid=296840&fcid=297815&term=charg%C3%A9+de+projet&page=1&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Job Bank Support",
+   "url": "https://www.jobbank.gc.ca/helpsupport",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Terms of use - Job seekers",
+   "url": "https://www.jobbank.gc.ca/termsofuseseeker",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Terms of use - Employers",
+   "url": "https://www.jobbank.gc.ca/termsofuseemployer",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "Skip to job search",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=agroalimentaire&locationstring=Qu%C3%A9bec&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "Skip to main content",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=agroalimentaire&locationstring=Qu%C3%A9bec&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "Skip to \"About this Web application\"",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=agroalimentaire&locationstring=Qu%C3%A9bec&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "Training and careers",
+   "url": "https://www.jobbank.gc.ca/career-planning",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "Labour market information",
+   "url": "https://www.jobbank.gc.ca/trend-analysis",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "All of Canada",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=agroalimentaire&locationstring=Qu%C3%A9bec&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "Current location",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=agroalimentaire&locationstring=Qu%C3%A9bec&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "Skip to filters",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=agroalimentaire&locationstring=Qu%C3%A9bec&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "agroalimentaire in various locations",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?term=agroalimentaire&page=1&sort=D&fcid=3896&fcid=3902&fcid=5427",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "Create alert",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobalert/indregister/fcid=3896&fcid=3902&fcid=5427&term=agroalimentaire&page=1&sort=D;jsessionid=28AE2DE3E1DB7CE9C5D95EF88B0D41CB.jobsearch75",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "Remove keyword agroalimentaire",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "Selected Date posted",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fcid=3896&fcid=3902&fcid=5427&page=1&sort=D&term=agroalimentaire",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "New AgCareers.com agriculture and food sector development consultant September 28, 2026 Farm Credit Canada Location Essex (ON) Salary $55,160.00 to $74,620.00 annually AgCareers.com Job number: 1044864",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50382452;jsessionid=28AE2DE3E1DB7CE9C5D95EF88B0D41CB.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "agriculture and food sector development consultant - Save to favourites",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=agroalimentaire&locationstring=Qu%C3%A9bec&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "Sign up for a Plus account",
+   "url": "https://www.jobbank.gc.ca/reg/instructions;jsessionid=28AE2DE3E1DB7CE9C5D95EF88B0D41CB.jobsearch75",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "New AgCareers.com agriculture and food sector development consultant September 28, 2026 Farm Credit Canada Location Regina (SK) Salary $122,940.00 to $166,330.00 annually AgCareers.com Job number: 1044860",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50382487;jsessionid=28AE2DE3E1DB7CE9C5D95EF88B0D41CB.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "New AgCareers.com agriculture and food sector development consultant September 28, 2026 Farm Credit Canada Location Essex (ON) Salary $55,160.00 to $74,620.00 annually AgCareers.com Job number: 1044863",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50382526;jsessionid=28AE2DE3E1DB7CE9C5D95EF88B0D41CB.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "New AgCareers.com agriculture and food sector development consultant September 28, 2026 Farm Credit Canada Location Regina (SK) Salary $122,940.00 to $166,330.00 annually AgCareers.com Job number: 1044861",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50382577;jsessionid=28AE2DE3E1DB7CE9C5D95EF88B0D41CB.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "AgCareers.com agriculture and food sector development consultant September 17, 2026 Farm Credit Canada Location Edmonton (AB) Salary $83,040.00 to $112,340.00 annually AgCareers.com Job number: 1043458",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50305376;jsessionid=28AE2DE3E1DB7CE9C5D95EF88B0D41CB.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "AgCareers.com agriculture and food sector development consultant September 17, 2026 Farm Credit Canada Location Edmonton (AB) Salary $83,040.00 to $112,340.00 annually AgCareers.com Job number: 1043457",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50305370;jsessionid=28AE2DE3E1DB7CE9C5D95EF88B0D41CB.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "AgCareers.com agriculture and food sector development consultant September 15, 2026 Farm Credit Canada Location Swift Current (SK) Salary $55,160.00 to $74,620.00 annually AgCareers.com Job number: 1043026",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50290728;jsessionid=28AE2DE3E1DB7CE9C5D95EF88B0D41CB.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "AgCareers.com agriculture and food sector development consultant September 15, 2026 Farm Credit Canada Location Swift Current (SK) Salary $55,160.00 to $74,620.00 annually AgCareers.com Job number: 1043025",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50290724;jsessionid=28AE2DE3E1DB7CE9C5D95EF88B0D41CB.jobsearch75?source=searchresults",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "Report a problem with the search results",
+   "url": "https://www.jobbank.gc.ca/support/reportproblemform;jsessionid=28AE2DE3E1DB7CE9C5D95EF88B0D41CB.jobsearch75",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "RSS Job Feed",
+   "url": "https://www.jobbank.gc.ca/jobsearch/feed/jobSearchRSSfeed;jsessionid=28AE2DE3E1DB7CE9C5D95EF88B0D41CB.jobsearch75?fage=2&fcid=3896&fcid=3902&fcid=5427&term=agroalimentaire&sort=D&rows=100",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "Help - Interactive map",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=agroalimentaire&locationstring=Qu%C3%A9bec&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "View more filters",
+   "url": "https://www.jobbank.gc.ca/jobsearch/advancedsearch?fcid=3896&fcid=3902&fcid=5427&term=agroalimentaire&page=1&sort=D",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "Job Bank Support",
+   "url": "https://www.jobbank.gc.ca/helpsupport",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "Terms of use - Job seekers",
+   "url": "https://www.jobbank.gc.ca/termsofuseseeker",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "Terms of use - Employers",
+   "url": "https://www.jobbank.gc.ca/termsofuseemployer",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Eluta développement économique Laurentides",
+   "titre": "Conseiller d'affaires principal, Réseau régional (Ouest de Montréal, Vaudreuil-Soulanges)",
+   "url": "https://www.eluta.ca/search?q=d%C3%A9veloppement+%C3%A9conomique&l=Laurentides%2C+QC",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Eluta développement économique Laurentides",
+   "titre": "Conseillère ou conseiller aux entreprises – Laurentides",
+   "url": "https://www.eluta.ca/search?q=d%C3%A9veloppement+%C3%A9conomique&l=Laurentides%2C+QC",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Eluta développement économique Laurentides",
+   "titre": "Conseiller expert, Marché de la défense (Occasionnel + 1 an) (Montréal)",
+   "url": "https://www.eluta.ca/search?q=d%C3%A9veloppement+%C3%A9conomique&l=Laurentides%2C+QC",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Eluta développement économique Laurentides",
+   "titre": "Directeur.trice économique",
+   "url": "https://www.eluta.ca/search?q=d%C3%A9veloppement+%C3%A9conomique&l=Laurentides%2C+QC",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Eluta développement économique Laurentides",
+   "titre": "Conseiller sénior, prix de transfert",
+   "url": "https://www.eluta.ca/search?q=d%C3%A9veloppement+%C3%A9conomique&l=Laurentides%2C+QC",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Eluta développement économique Laurentides",
+   "titre": "Directeur de comptes principal, Réseau régional (Montréal)",
+   "url": "https://www.eluta.ca/search?q=d%C3%A9veloppement+%C3%A9conomique&l=Laurentides%2C+QC",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Eluta développement économique Laurentides",
+   "titre": "Président(e)-Directeur(trice) Général(e) SQ Centre-Sud-de-l’Île-de-Montréal",
+   "url": "https://www.eluta.ca/search?q=d%C3%A9veloppement+%C3%A9conomique&l=Laurentides%2C+QC",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Eluta développement économique Laurentides",
+   "titre": "Conseiller(ère), développement et succès des membres",
+   "url": "https://www.eluta.ca/search?q=d%C3%A9veloppement+%C3%A9conomique&l=Laurentides%2C+QC",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Eluta développement économique Laurentides",
+   "titre": "Agente ou agent de soutien à la clientèle (1 emploi occasionnel) - Joliette",
+   "url": "https://www.eluta.ca/search?q=d%C3%A9veloppement+%C3%A9conomique&l=Laurentides%2C+QC",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Emplois temps plein à Québec",
+   "url": "https://www.jobillico.com/recherche-emploi/quebec/quebec/temps-plein",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Emplois temps partiel à Québec",
+   "url": "https://www.jobillico.com/recherche-emploi/quebec/quebec/temps-partiel",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Emplois télétravail à Québec",
+   "url": "https://www.jobillico.com/recherche-emploi/quebec/quebec/teletravail",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Guide carrière",
+   "url": "https://www.jobillico.com/guide-carriere",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Salaires au Canada",
+   "url": "https://www.jobillico.com/salaires",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Publier une offre",
+   "url": "https://www.jobillico.com/fr/joindre-reseau",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Emplois temps partiel",
+   "url": "https://www.jobillico.com/recherche-emploi/temps+partiel",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Emplois à Toronto",
+   "url": "https://www.jobillico.com/recherche-emploi/toronto/ontario",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Emplois à Montréal",
+   "url": "https://www.jobillico.com/recherche-emploi/montreal/quebec",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Emplois à Mississauga",
+   "url": "https://www.jobillico.com/recherche-emploi/mississauga/ontario",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Emplois à Québec",
+   "url": "https://www.jobillico.com/recherche-emploi/quebec/quebec",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Emplois à Laval",
+   "url": "https://www.jobillico.com/recherche-emploi/laval/quebec",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Emplois en vente",
+   "url": "https://www.jobillico.com/recherche-emploi/ventes",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Emplois en assurance",
+   "url": "https://www.jobillico.com/recherche-emploi/assurance+..+actuariat",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Emplois en comptabilité",
+   "url": "https://www.jobillico.com/recherche-emploi/comptabilite",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Emplois en transport",
+   "url": "https://www.jobillico.com/recherche-emploi/transports",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Notre réseau d’employeurs",
+   "url": "https://www.jobillico.com/recherche-entreprise",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Employeurs en assurance",
+   "url": "https://www.jobillico.com/recherche-entreprise/assurances",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Employeurs en commerce de détail",
+   "url": "https://www.jobillico.com/recherche-entreprise/commerce+de+detail",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Employeurs en industries manufacturières",
+   "url": "https://www.jobillico.com/recherche-entreprise/industries+manufacturieres",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Employeurs en transport",
+   "url": "https://www.jobillico.com/recherche-entreprise/transport+et+entreposage",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Se connecter",
+   "url": "https://www.jobillico.com/connexion",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Afficher les emplois en télétravail",
+   "url": "https://www.jobillico.com/recherche-emploi?skwd=commissaire&scty=Qu%C3%A9bec&icty=6298&ipc=0&flat=46.8108105529&flng=-71.2154388427&sjdpl=&mfil=40&sdl=&sil=&imc1=1048576&imc2=0",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "DIRECTEUR DU COMMISSARIAT – SANTÃ‰ QUÃ‰BEC CAPITALE-NATIONALE – UNIVERSITAIRE (CPQS)",
+   "url": "https://www.jobillico.com/recherche-emploi?skwd=commissaire&scty=Qu%C3%A9bec",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Ajouter aux favoris",
+   "url": "https://www.jobillico.com/ajouter-aux-emplois-favoris/16110856/L3JlY2hlcmNoZS1lbXBsb2k-c2t3ZD1jb21taXNzYWlyZSZzY3R5PVF1JUMzJUE5YmVj",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "DIRECTEUR DU GREFFE ET GREFFIER - Ville de La Tuque",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/claude-grenier-ressources-humaines-inc-zyzeqn/directeur-du-greffe-et-greffier-ville-de-la-tuque/16110856?lshs=d303f9fc9f7a709e12218e2b339f517fcd45443e0ebf2e5b25dcc417392ca59d&upg=1&lijn=16110856&lijp=29688634&lirk=2&lids=0&lisp=0&liet=2",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Ajouter aux favoris",
+   "url": "https://www.jobillico.com/ajouter-aux-emplois-favoris/17531374/L3JlY2hlcmNoZS1lbXBsb2k-c2t3ZD1jb21taXNzYWlyZSZzY3R5PVF1JUMzJUE5YmVj",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "DIRECTEUR DU GREFFE ET GREFFIER - Ville de La Tuque",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/claude-grenier-ressources-humaines-inc-zyzeqn/directeur-du-greffe-et-greffier-ville-de-la-tuque/17531374?lshs=d303f9fc9f7a709e12218e2b339f517fcd45443e0ebf2e5b25dcc417392ca59d&upg=1&lijn=17531374&lijp=29688748&lirk=3&lids=0&lisp=0&liet=2",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Directeur Santé et Services Sociaux à Québec",
+   "url": "https://www.jobillico.com/recherche-emploi?skwd=commissaire&scty=Qu%C3%A9bec",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Ajouter aux favoris",
+   "url": "https://www.jobillico.com/ajouter-aux-emplois-favoris/17555592/L3JlY2hlcmNoZS1lbXBsb2k-c2t3ZD1jb21taXNzYWlyZSZzY3R5PVF1JUMzJUE5YmVj",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Adjointe aux contrats",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/carriere-bernier-ltee.kRfwRw/adjointe-aux-contrats/17555592?lshs=d303f9fc9f7a709e12218e2b339f517fcd45443e0ebf2e5b25dcc417392ca59d&upg=1&lijn=17555592&lijp=29732268&lirk=5&lids=0&lisp=0&liet=2",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Carrière Bernier ltée",
+   "url": "https://www.jobillico.com/voir-entreprise/carriere-bernier-ltee.kRfwRw?lshs=d303f9fc9f7a709e12218e2b339f517fcd45443e0ebf2e5b25dcc417392ca59d&upg=1&lijn=17555592&lijp=29732268&lirk=5&lids=0&lisp=0&liet=8",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Ajouter aux favoris",
+   "url": "https://www.jobillico.com/ajouter-aux-emplois-favoris/17566722/L3JlY2hlcmNoZS1lbXBsb2k-c2t3ZD1jb21taXNzYWlyZSZzY3R5PVF1JUMzJUE5YmVj",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Adjoint(e), Bureau du syndic",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/ordre-des-infirmieres-et-infirmiers-du-quebec-oiiq/adjoint-e-bureau-du-syndic/17566722?lshs=d303f9fc9f7a709e12218e2b339f517fcd45443e0ebf2e5b25dcc417392ca59d&upg=1&lijn=17566722&lijp=29747355&lirk=6&lids=0&lisp=0&liet=2",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Postuler maintenant",
+   "url": "https://www.jobillico.com/recherche-emploi?skwd=commissaire&scty=Qu%C3%A9bec",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "conditions d'utilisations",
+   "url": "https://www.jobillico.com/termes-conditions",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Mot de passe oublié?",
+   "url": "https://www.jobillico.com/connexion/oublier",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "DIRECTEUR DU COMMISSARIAT – SANTÃ‰ QUÃ‰BEC CAPITALE-NATIONALE – UNIVERSITAIRE (CPQS)",
+   "url": "https://www.jobillico.com/https://click.appcast.io/t/xy1sjkZv4u7tsagX-3xTHCm-vSk8Pf5PdcHWTOS2NATFTOAMTWtgKn_w7449avIJSlkWBv1EQ5F4z7v-akop9w==?lshs=d303f9fc9f7a709e12218e2b339f517fcd45443e0ebf2e5b25dcc417392ca59d&upg=1&lijn=-26440673&lijp=0&lirk=1&lids=0&lisp=0&liet=2",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Carrières à Québec",
+   "url": "https://www.jobillico.com/fr/employeurs/jobillico-inc/voir-liste-emplois",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Entreprises au Canada",
+   "url": "https://www.jobillico.com/entreprise-canada",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Devenir un partenaire",
+   "url": "https://www.jobillico.com/partenaires/inscription",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Nous contacter",
+   "url": "https://www.jobillico.com/fr/contact-candidat",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Termes et Conditions",
+   "url": "https://www.jobillico.com/termes-conditions",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico commissaire",
+   "titre": "Conditions d’utilisation",
+   "url": "https://www.jobillico.com/termes-conditions",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Emplois Temps plein",
+   "url": "https://www.jobillico.com/recherche-emploi/temps-plein",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Emplois Temps partiel",
+   "url": "https://www.jobillico.com/recherche-emploi/temps-partiel",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Emplois Télétravail",
+   "url": "https://www.jobillico.com/recherche-emploi/teletravail",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Guide carrière",
+   "url": "https://www.jobillico.com/guide-carriere",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Salaires au Canada",
+   "url": "https://www.jobillico.com/salaires",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Publier une offre",
+   "url": "https://www.jobillico.com/fr/joindre-reseau",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Emplois temps partiel",
+   "url": "https://www.jobillico.com/recherche-emploi/temps+partiel",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Emplois à Toronto",
+   "url": "https://www.jobillico.com/recherche-emploi/toronto/ontario",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Emplois à Montréal",
+   "url": "https://www.jobillico.com/recherche-emploi/montreal/quebec",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Emplois à Mississauga",
+   "url": "https://www.jobillico.com/recherche-emploi/mississauga/ontario",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Emplois à Québec",
+   "url": "https://www.jobillico.com/recherche-emploi/quebec/quebec",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Emplois à Laval",
+   "url": "https://www.jobillico.com/recherche-emploi/laval/quebec",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Emplois en vente",
+   "url": "https://www.jobillico.com/recherche-emploi/ventes",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Emplois en assurance",
+   "url": "https://www.jobillico.com/recherche-emploi/assurance+..+actuariat",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Emplois en comptabilité",
+   "url": "https://www.jobillico.com/recherche-emploi/comptabilite",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Emplois en transport",
+   "url": "https://www.jobillico.com/recherche-emploi/transports",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Notre réseau d’employeurs",
+   "url": "https://www.jobillico.com/recherche-entreprise",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Employeurs en assurance",
+   "url": "https://www.jobillico.com/recherche-entreprise/assurances",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Employeurs en commerce de détail",
+   "url": "https://www.jobillico.com/recherche-entreprise/commerce+de+detail",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Employeurs en industries manufacturières",
+   "url": "https://www.jobillico.com/recherche-entreprise/industries+manufacturieres",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Employeurs en transport",
+   "url": "https://www.jobillico.com/recherche-entreprise/transport+et+entreposage",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Se connecter",
+   "url": "https://www.jobillico.com/connexion",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Afficher les emplois en télétravail",
+   "url": "https://www.jobillico.com/recherche-emploi?skwd=d%C3%A9veloppement%20%C3%A9conomique&scty=&icty=0&ipc=0&flat=0&flng=0&sjdpl=&mfil=40&sdl=&sil=&imc1=1048576&imc2=0",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Ajouter aux favoris",
+   "url": "https://www.jobillico.com/ajouter-aux-emplois-favoris/17509911/L3JlY2hlcmNoZS1lbXBsb2k-c2t3ZD1kJUMzJUE5dmVsb3BwZW1lbnQrJUMzJUE5Y29ub21pcXVlJnNjdHk9TGF1cmVudGlkZXM=",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Responsable du développement des affaires",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/fjordtech-industrie/responsable-du-developpement-des-affaires/17509911?lshs=077ea9db9168e0683174004336c14d36f2c79bd9faa48443dd3aa1da06de30cd&upg=1&lijn=17509911&lijp=29651085&lirk=-1&lids=1&lisp=1&liet=2",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Fjordtech Industrie Inc.",
+   "url": "https://www.jobillico.com/voir-entreprise/fjordtech-industrie?lshs=077ea9db9168e0683174004336c14d36f2c79bd9faa48443dd3aa1da06de30cd&upg=1&lijn=17509911&lijp=29651085&lirk=-1&lids=1&lisp=1&liet=8",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Ajouter aux favoris",
+   "url": "https://www.jobillico.com/ajouter-aux-emplois-favoris/17493705/L3JlY2hlcmNoZS1lbXBsb2k-c2t3ZD1kJUMzJUE5dmVsb3BwZW1lbnQrJUMzJUE5Y29ub21pcXVlJnNjdHk9TGF1cmVudGlkZXM=",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Managing Director, National Accounts",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/bmo-financial-group.cNxfAs/managing-director-national-accounts/17493705?lshs=077ea9db9168e0683174004336c14d36f2c79bd9faa48443dd3aa1da06de30cd&upg=1&lijn=17493705&lijp=29769123&lirk=1&lids=0&lisp=0&liet=2",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "BMO Financial Group",
+   "url": "https://www.jobillico.com/voir-entreprise/bmo-financial-group.cNxfAs?lshs=077ea9db9168e0683174004336c14d36f2c79bd9faa48443dd3aa1da06de30cd&upg=1&lijn=17493705&lijp=29769123&lirk=1&lids=0&lisp=0&liet=8",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Ajouter aux favoris",
+   "url": "https://www.jobillico.com/ajouter-aux-emplois-favoris/17577354/L3JlY2hlcmNoZS1lbXBsb2k-c2t3ZD1kJUMzJUE5dmVsb3BwZW1lbnQrJUMzJUE5Y29ub21pcXVlJnNjdHk9TGF1cmVudGlkZXM=",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Agent.e de développement LCVC",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/ville-de-matane.wDrwCc/agent.e-de-developpement-lcvc/17577354?lshs=077ea9db9168e0683174004336c14d36f2c79bd9faa48443dd3aa1da06de30cd&upg=1&lijn=17577354&lijp=29768424&lirk=2&lids=0&lisp=0&liet=2",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Ville de Matane",
+   "url": "https://www.jobillico.com/voir-entreprise/ville-de-matane.wDrwCc?lshs=077ea9db9168e0683174004336c14d36f2c79bd9faa48443dd3aa1da06de30cd&upg=1&lijn=17577354&lijp=29768424&lirk=2&lids=0&lisp=0&liet=8",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Ajouter aux favoris",
+   "url": "https://www.jobillico.com/ajouter-aux-emplois-favoris/16838253/L3JlY2hlcmNoZS1lbXBsb2k-c2t3ZD1kJUMzJUE5dmVsb3BwZW1lbnQrJUMzJUE5Y29ub21pcXVlJnNjdHk9TGF1cmVudGlkZXM=",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Représentant(e) aux ventes et développement des ventes régionales",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/propur/representant-e-aux-ventes-et-developpement-des-ventes-regionales/16838253?lshs=077ea9db9168e0683174004336c14d36f2c79bd9faa48443dd3aa1da06de30cd&upg=1&lijn=16838253&lijp=29725248&lirk=3&lids=0&lisp=0&liet=2",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Ajouter aux favoris",
+   "url": "https://www.jobillico.com/ajouter-aux-emplois-favoris/17578170/L3JlY2hlcmNoZS1lbXBsb2k-c2t3ZD1kJUMzJUE5dmVsb3BwZW1lbnQrJUMzJUE5Y29ub21pcXVlJnNjdHk9TGF1cmVudGlkZXM=",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Consultant(e) – Développement organisationnel",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/reseau-de-sante-vitalitelRygEh/consultant-e-developpement-organisationnel/17578170?lshs=077ea9db9168e0683174004336c14d36f2c79bd9faa48443dd3aa1da06de30cd&upg=1&lijn=17578170&lijp=29771373&lirk=4&lids=0&lisp=0&liet=2",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Réseau de santé Vitalité",
+   "url": "https://www.jobillico.com/voir-entreprise/reseau-de-sante-vitalitelRygEh?lshs=077ea9db9168e0683174004336c14d36f2c79bd9faa48443dd3aa1da06de30cd&upg=1&lijn=17578170&lijp=29771373&lirk=4&lids=0&lisp=0&liet=8",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Ajouter aux favoris",
+   "url": "https://www.jobillico.com/ajouter-aux-emplois-favoris/17578143/L3JlY2hlcmNoZS1lbXBsb2k-c2t3ZD1kJUMzJUE5dmVsb3BwZW1lbnQrJUMzJUE5Y29ub21pcXVlJnNjdHk9TGF1cmVudGlkZXM=",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Conseiller(ère) en développement organisationnel",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/olymel-sec/conseiller-ere-en-developpement-organisationnel/17578143?lshs=077ea9db9168e0683174004336c14d36f2c79bd9faa48443dd3aa1da06de30cd&upg=1&lijn=17578143&lijp=29770854&lirk=5&lids=0&lisp=0&liet=2",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Olymel S.E.C.",
+   "url": "https://www.jobillico.com/voir-entreprise/olymel-sec?lshs=077ea9db9168e0683174004336c14d36f2c79bd9faa48443dd3aa1da06de30cd&upg=1&lijn=17578143&lijp=29770854&lirk=5&lids=0&lisp=0&liet=8",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Ajouter aux favoris",
+   "url": "https://www.jobillico.com/ajouter-aux-emplois-favoris/17577684/L3JlY2hlcmNoZS1lbXBsb2k-c2t3ZD1kJUMzJUE5dmVsb3BwZW1lbnQrJUMzJUE5Y29ub21pcXVlJnNjdHk9TGF1cmVudGlkZXM=",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Directeur ou directrice, Relations membres",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/federation-des-chambres-de-commerce-du-quebec-fcc/directeur-ou-directrice-relations-membres/17577684?lshs=077ea9db9168e0683174004336c14d36f2c79bd9faa48443dd3aa1da06de30cd&upg=1&lijn=17577684&lijp=29769735&lirk=6&lids=0&lisp=0&liet=2",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Fédération des chambres de commerce du Québec (FCCQ)",
+   "url": "https://www.jobillico.com/voir-entreprise/federation-des-chambres-de-commerce-du-quebec-fcc?lshs=077ea9db9168e0683174004336c14d36f2c79bd9faa48443dd3aa1da06de30cd&upg=1&lijn=17577684&lijp=29769735&lirk=6&lids=0&lisp=0&liet=8",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Ajouter aux favoris",
+   "url": "https://www.jobillico.com/ajouter-aux-emplois-favoris/17491641/L3JlY2hlcmNoZS1lbXBsb2k-c2t3ZD1kJUMzJUE5dmVsb3BwZW1lbnQrJUMzJUE5Y29ub21pcXVlJnNjdHk9TGF1cmVudGlkZXM=",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Director, Institutional ETF & Solutions Distribution, GAM",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/bmo-financial-group.cNxfAs/director-institutional-etf-solutions-distribution-gam/17491641?lshs=077ea9db9168e0683174004336c14d36f2c79bd9faa48443dd3aa1da06de30cd&upg=1&lijn=17491641&lijp=29769114&lirk=7&lids=0&lisp=0&liet=2",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "BMO Financial Group",
+   "url": "https://www.jobillico.com/voir-entreprise/bmo-financial-group.cNxfAs?lshs=077ea9db9168e0683174004336c14d36f2c79bd9faa48443dd3aa1da06de30cd&upg=1&lijn=17491641&lijp=29769114&lirk=7&lids=0&lisp=0&liet=8",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Ajouter aux favoris",
+   "url": "https://www.jobillico.com/ajouter-aux-emplois-favoris/17493600/L3JlY2hlcmNoZS1lbXBsb2k-c2t3ZD1kJUMzJUE5dmVsb3BwZW1lbnQrJUMzJUE5Y29ub21pcXVlJnNjdHk9TGF1cmVudGlkZXM=",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Directeur développement des affaires",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/groupe-morneau/directeur-developpement-des-affaires/17493600?lshs=077ea9db9168e0683174004336c14d36f2c79bd9faa48443dd3aa1da06de30cd&upg=1&lijn=17493600&lijp=29768097&lirk=8&lids=0&lisp=0&liet=2",
+   "vuLe": "2026-10-01"
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Groupe Morneau",
+   "url": "https://www.jobillico.com/voir-entreprise/groupe-morneau?lshs=077ea9db9168e0683174004336c14d36f2c79bd9faa48443dd3aa1da06de30cd&upg=1&lijn=17493600&lijp=29768097&lirk=8&lids=0&lisp=0&liet=8",
+   "vuLe": "2026-10-01"
+  }
+ ],
+ "disparus": []
+}
