@@ -164,8 +164,11 @@ await Promise.all([worker(), worker(), worker(), worker()]);
 if (browser) await browser.close();
 
 const counts = Object.values(sante).reduce((a, r) => (a[r.status] = (a[r.status] || 0) + 1, a), {});
-nouveaux.sort((a, b) => b.pre - a.pre);
-const out = { genereLe: new Date().toISOString(), date: TODAY, sourcesTotal: CFG.length, statuts: counts, nouveauxTotal: nouveaux.length, nouveaux: nouveaux.slice(0, 400), disparus: disparus.slice(0, 200) };
+const cutoff = new Date(Date.now() - 3 * 864e5).toISOString().slice(0, 10);
+const recent = [];
+for (const [srcName, st] of Object.entries(state)) for (const it of Object.values(st)) if (it.d >= cutoff) recent.push({ source: srcName, titre: it.t, url: it.u, vuLe: it.d, pre: rough(it.t, it.u) });
+recent.sort((a, b) => b.pre - a.pre || (a.vuLe < b.vuLe ? 1 : -1));
+const out = { genereLe: new Date().toISOString(), date: TODAY, sourcesTotal: CFG.length, statuts: counts, nouveauxCeJour: nouveaux.length, nouveauxTotal: recent.length, fenetreJours: 3, nouveaux: recent.slice(0, 400), disparus: disparus.slice(0, 200) };
 fs.writeFileSync('data/nouveautes.json', JSON.stringify(out, null, 1));
 fs.writeFileSync('data/sante.json', JSON.stringify({ date: TODAY, statuts: counts, sources: sante }, null, 1));
 fs.writeFileSync('data/state.json', JSON.stringify(state));
