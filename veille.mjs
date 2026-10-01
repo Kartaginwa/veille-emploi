@@ -158,7 +158,7 @@ async function oracleMtl(url) {
 
 // Exécution avec concurrence limitée
 const queue = [...CFG];
-async function worker() { while (queue.length) { const s = queue.shift(); const r = await runSource(s); sante[s.name] = r; console.log(`[${r.status}] ${s.name} ${r.method || ''} lus=${r.liensLus ?? '-'} retenus=${r.retenus ?? '-'} nouveaux=${r.nouveaux ?? '-'} ${r.erreur || r.note || ''}`); } }
+async function worker() { while (queue.length) { const s = queue.shift(); const r = await Promise.race([runSource(s), new Promise(res => setTimeout(() => res({ type: s.type, url: s.url, status: 'echec', erreur: 'délai dépassé (4 min)' }), 240000))]); sante[s.name] = r; console.log(`[${r.status}] ${s.name} ${r.method || ''} lus=${r.liensLus ?? '-'} retenus=${r.retenus ?? '-'} nouveaux=${r.nouveaux ?? '-'} ${r.erreur || r.note || ''}`); } }
 await Promise.all([worker(), worker(), worker(), worker()]);
 if (browser) await browser.close();
 
@@ -169,3 +169,4 @@ fs.writeFileSync('data/nouveautes.json', JSON.stringify(out, null, 1));
 fs.writeFileSync('data/sante.json', JSON.stringify({ date: TODAY, statuts: counts, sources: sante }, null, 1));
 fs.writeFileSync('data/state.json', JSON.stringify(state));
 console.log('Terminé', JSON.stringify(counts), 'nouveaux', nouveaux.length, 'disparus', disparus.length);
+process.exit(0);
