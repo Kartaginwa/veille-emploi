@@ -137,3 +137,11 @@ S|Talent.com économie circulaire Québec|https://ca.talent.com/jobs?k=%C3%A9con
 D|RECYC-QUÉBEC (économie circulaire)|https://www.recyc-quebec.gouv.qc.ca
 D|Synergie Québec (symbiose industrielle)|https://synergiequebec.ca
 P|CMM carrières|https://cmm.qc.ca/a-propos/carrieres/
+S|Guichet-Emplois analyste Laurentides|https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=analyste&locationstring=Laurentides%2C+QC&sort=D
+S|Guichet-Emplois conseiller principal Laurentides|https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller+principal&locationstring=Laurentides%2C+QC&sort=D
+S|Eluta conseiller Laurentides|https://www.eluta.ca/search?q=conseiller&l=Laurentides%2C+QC
+S|Eluta analyste Laurentides|https://www.eluta.ca/search?q=analyste&l=Laurentides%2C+QC
+S|Jobillico conseiller Laurentides|https://www.jobillico.com/recherche-emploi?skwd=conseiller&scty=Laurentides
+S|Jobillico analyste Laurentides|https://www.jobillico.com/recherche-emploi?skwd=analyste&scty=Laurentides
+S|Talent.com conseiller Laurentides|https://ca.talent.com/jobs?k=conseiller&l=Laurentides%2C+QC
+S|Talent.com analyste Laurentides|https://ca.talent.com/jobs?k=analyste&l=Laurentides%2C+QC
