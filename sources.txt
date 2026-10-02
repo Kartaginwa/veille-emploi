@@ -131,3 +131,8 @@ D|Chambre de commerce de Labelle|https://cclabelle.com
 D|Chambre de commerce de la Vallée de Saint-Sauveur|https://valleesaintsauveur.com/chambre-de-commerce/
 D|CCI2M Deux-Montagnes (Chambre de commerce)|https://www.chambrecommerce.com
 D|Chambre de commerce du cœur des Laurentides (Sainte-Agathe)|https://sainte-agathe.org
+S|Guichet-Emplois économie circulaire Québec|https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=%C3%A9conomie+circulaire&locationstring=Qu%C3%A9bec&sort=D
+S|Jobillico économie circulaire|https://www.jobillico.com/recherche-emploi?skwd=%C3%A9conomie+circulaire&scty=Qu%C3%A9bec
+S|Talent.com économie circulaire Québec|https://ca.talent.com/jobs?k=%C3%A9conomie+circulaire&l=Qu%C3%A9bec
+D|RECYC-QUÉBEC (économie circulaire)|https://www.recyc-quebec.gouv.qc.ca
+D|Synergie Québec (symbiose industrielle)|https://synergiequebec.ca
