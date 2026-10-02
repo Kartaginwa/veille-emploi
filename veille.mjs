@@ -75,7 +75,9 @@ const STRONG = /commissaire|conseill|charg[ée]e? (de|d')|agent[e]?\b|coordonn|a
 const DOMAIN = /d[ée]veloppement [ée]conomique|agroalimentaire|bioalimentaire|partenariat|d[ée]veloppement des affaires|business development|projet|communication|environnement|culture|[ée]conomie sociale|relations gouvernementales|[ée]conomie circulaire|circular economy|mati[èe]res r[ée]siduelles|symbiose industrielle|d[ée]veloppement durable|entrepreneuriat|investissement/i;
 const PLACE = /laurentides|saint-j[ée]r[ôo]me|mont-tremblant|blainville|sainte-th[ée]r[èe]se|saint-eustache|lachute|sainte-ad[èe]le|saint-sauveur|pr[ée]vost|mirabel|montr[ée]al|t[ée]l[ée]travail|remote|hybride/i;
 const SENIOR = /vice-pr[ée]sident|directeur g[ée]n[ée]ral|directrice g[ée]n[ée]rale|pr[ée]sident|chief|senior|stagiaire|junior|adjoint[e]? administratif/i;
-function rough(text, href) { let s = 0; if (STRONG.test(text)) s += 3; if (DOMAIN.test(text)) s += 2; if (PLACE.test(text + ' ' + href)) s += 2; if (SENIOR.test(text)) s -= 2; return s; }
+const LAUR = /laurentides|saint-j[ée]r[ôo]me|mont-tremblant|blainville|boisbriand|rosem[èe]re|sainte-th[ée]r[èe]se|saint-eustache|lachute|sainte-ad[èe]le|saint-sauveur|pr[ée]vost|mirabel|val-david|sainte-agathe|saint-colomban|bois-des-filion|deux-montagnes|labelle|morin-heights|piedmont|saint-donat|brownsburg|argenteuil|rivi[èe]re-du-nord/i;
+const ANCONS = /analyste|analyst\b|conseill(er|[èe]re)\b|advisor/i;
+function rough(text, href, src = '') { let s = 0; if (ANCONS.test(text) && LAUR.test(text + ' ' + href + ' ' + src)) s += 4; if (STRONG.test(text)) s += 3; if (DOMAIN.test(text)) s += 2; if (PLACE.test(text + ' ' + href)) s += 2; if (SENIOR.test(text)) s -= 2; return s; }
 
 const seenUrls = new Set();
 function record(src, items, ok) {
@@ -177,7 +179,7 @@ if (browser) await browser.close();
 const counts = Object.values(sante).reduce((a, r) => (a[r.status] = (a[r.status] || 0) + 1, a), {});
 const cutoff = new Date(Date.now() - 3 * 864e5).toISOString().slice(0, 10);
 const recent = [];
-for (const [srcName, st] of Object.entries(state)) for (const it of Object.values(st)) if (it.d >= cutoff) recent.push({ source: srcName, titre: it.t, url: it.u, vuLe: it.d, pre: rough(it.t, it.u) });
+for (const [srcName, st] of Object.entries(state)) for (const it of Object.values(st)) if (it.d >= cutoff) recent.push({ source: srcName, titre: it.t, url: it.u, vuLe: it.d, pre: rough(it.t, it.u, srcName) });
 recent.sort((a, b) => b.pre - a.pre || (a.vuLe < b.vuLe ? 1 : -1));
 const out = { genereLe: new Date().toISOString(), date: TODAY, sourcesTotal: CFG.length, statuts: counts, nouveauxCeJour: nouveaux.length, nouveauxTotal: recent.length, fenetreJours: 3, nouveaux: recent.slice(0, 400), disparus: disparus.slice(0, 200) };
 fs.writeFileSync('data/nouveautes.json', JSON.stringify(out, null, 1));
