@@ -161,6 +161,17 @@ async function oracleMtl(url) {
 const queue = [...CFG];
 async function worker() { while (queue.length) { const s = queue.shift(); const r = await Promise.race([runSource(s), new Promise(res => setTimeout(() => res({ type: s.type, url: s.url, status: 'echec', erreur: 'délai dépassé (4 min)' }), 240000))]); sante[s.name] = r; console.log(`[${r.status}] ${s.name} ${r.method || ''} lus=${r.liensLus ?? '-'} retenus=${r.retenus ?? '-'} nouveaux=${r.nouveaux ?? '-'} ${r.erreur || r.note || ''}`); } }
 await Promise.all([worker(), worker(), worker(), worker()]);
+// Seconde passe: reprend les sources en échec ou vides après une pause
+{
+  const redo = Object.entries(sante).filter(([, r]) => r.status === 'echec' || r.status === 'vide').map(([n]) => CFG.find(c => c.name === n)).filter(Boolean);
+  if (redo.length) {
+    console.log('Seconde passe: ' + redo.length + ' source(s) à reprendre');
+    await new Promise(r => setTimeout(r, 20000));
+    queue.push(...redo);
+    await Promise.all([worker(), worker()]);
+    for (const c of redo) if (sante[c.name]) sante[c.name].reprise = true;
+  }
+}
 if (browser) await browser.close();
 
 const counts = Object.values(sante).reduce((a, r) => (a[r.status] = (a[r.status] || 0) + 1, a), {});
