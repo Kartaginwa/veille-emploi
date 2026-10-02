@@ -130,4 +130,4 @@ D|CCI Rivière-du-Nord (Saint-Jérôme)|https://www.ccirdn.com
 D|Chambre de commerce de Labelle|https://cclabelle.com
 D|Chambre de commerce de la Vallée de Saint-Sauveur|https://valleesaintsauveur.com/chambre-de-commerce/
 D|CCI2M Deux-Montagnes (Chambre de commerce)|https://www.chambrecommerce.com
-D|Chambre de commerce du Grand Sainte-Agathe|https://sainte-agathe.org
+D|Chambre de commerce du cœur des Laurentides (Sainte-Agathe)|https://sainte-agathe.org
