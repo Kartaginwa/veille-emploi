@@ -6,7 +6,7 @@ import { chromium } from 'playwright';
 
 const TODAY = new Date().toISOString().slice(0, 10);
 const UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0 Safari/537.36';
-const POS = /conseill|agent[e]?\b|charg[ée]e? (de|d')|coordonn|commissaire|directeur|directrice|gestionnaire|analyste|responsable|adjoint|chef\b|repr[ée]sentant|strat[ée]g|d[ée]veloppement (des affaires|[ée]conomique)|business development|advisor|officer|manager|coordinator|analyst|director|specialist/i;
+const POS = /conseill|agent[e]?\b|charg[ée]e? (de|d')|coordonn|commissaire|directeur|directrice|gestionnaire|analyste|responsable|adjoint|chef\b|repr[ée]sentant|strat[ée]g|[ée]conomie circulaire|circular economy|mati[èe]res r[ée]siduelles|symbiose industrielle|d[ée]veloppement (des affaires|[ée]conomique)|business development|advisor|officer|manager|coordinator|analyst|director|specialist/i;
 const GENERIC = /favoris|favourites|skip to|sign up|report a problem|salaires|publier une offre|ajouter|current location|selected date|filters|cookie|se connecter|^emplois |various locations|remove keyword|create alert|labour market|training and careers|rss job feed|help -|support|terms of use|plus account|^new$/i;
 const POSTURL = /jobposting\/|offre-d-emploi|\/job\/|viewjob|\/view\?|\/rc\/clk|\/clk\?|\/jobs?\/[^/]+/i;
 const NEG = /stagiaire|[ée]tudiant|student|intern\b|internship|technicien|pr[ée]pos[ée]|journalier|caissier|conducteur|op[ée]rateur|infirm|m[ée]decin|ing[ée]nieur|[ée]lectric|m[ée]canic|menuis|soudeur|cuisini|serveu|chauffeur|commis\b|ressources humaines|\bRH\b|paie\b|sauveteur|moniteur|animateur|brigadier|pompier|policier|concierge|g[ée]om[èe]tre|arpenteur|comptable|avocat|MRC des Laurentides|Corporation de d[ée]veloppement [ée]conomique/i;
@@ -72,7 +72,7 @@ function relevant(l, keepAll) {
 }
 
 const STRONG = /commissaire|conseill|charg[ée]e? (de|d')|agent[e]?\b|coordonn|analyste|gestionnaire|adjoint|chef\b|directeur|directrice|advisor|officer|manager|coordinator/i;
-const DOMAIN = /d[ée]veloppement [ée]conomique|agroalimentaire|bioalimentaire|partenariat|d[ée]veloppement des affaires|business development|projet|communication|environnement|culture|[ée]conomie sociale|relations gouvernementales|d[ée]veloppement durable|entrepreneuriat|investissement/i;
+const DOMAIN = /d[ée]veloppement [ée]conomique|agroalimentaire|bioalimentaire|partenariat|d[ée]veloppement des affaires|business development|projet|communication|environnement|culture|[ée]conomie sociale|relations gouvernementales|[ée]conomie circulaire|circular economy|mati[èe]res r[ée]siduelles|symbiose industrielle|d[ée]veloppement durable|entrepreneuriat|investissement/i;
 const PLACE = /laurentides|saint-j[ée]r[ôo]me|mont-tremblant|blainville|sainte-th[ée]r[èe]se|saint-eustache|lachute|sainte-ad[èe]le|saint-sauveur|pr[ée]vost|mirabel|montr[ée]al|t[ée]l[ée]travail|remote|hybride/i;
 const SENIOR = /vice-pr[ée]sident|directeur g[ée]n[ée]ral|directrice g[ée]n[ée]rale|pr[ée]sident|chief|senior|stagiaire|junior|adjoint[e]? administratif/i;
 function rough(text, href) { let s = 0; if (STRONG.test(text)) s += 3; if (DOMAIN.test(text)) s += 2; if (PLACE.test(text + ' ' + href)) s += 2; if (SENIOR.test(text)) s -= 2; return s; }
