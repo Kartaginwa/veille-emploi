@@ -136,3 +136,4 @@ S|Jobillico économie circulaire|https://www.jobillico.com/recherche-emploi?skwd
 S|Talent.com économie circulaire Québec|https://ca.talent.com/jobs?k=%C3%A9conomie+circulaire&l=Qu%C3%A9bec
 D|RECYC-QUÉBEC (économie circulaire)|https://www.recyc-quebec.gouv.qc.ca
 D|Synergie Québec (symbiose industrielle)|https://synergiequebec.ca
+P|CMM carrières|https://cmm.qc.ca/a-propos/carrieres/
