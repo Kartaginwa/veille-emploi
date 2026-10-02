@@ -1,15 +1,15 @@
 {
- "genereLe": "2026-10-01T23:42:54.373Z",
- "date": "2026-10-01",
+ "genereLe": "2026-10-02T08:10:07.594Z",
+ "date": "2026-10-02",
  "sourcesTotal": 122,
  "statuts": {
-  "ok": 67,
+  "ok": 68,
   "aucun poste": 42,
-  "vide": 9,
+  "vide": 8,
   "echec": 4
  },
- "nouveauxCeJour": 16,
- "nouveauxTotal": 369,
+ "nouveauxCeJour": 37,
+ "nouveauxTotal": 406,
  "fenetreJours": 3,
  "nouveaux": [
   {
@@ -25,6 +25,55 @@
    "url": "https://rimq.qc.ca/offre/emplois/municipal/489757/ville-de-montreal/postes-cadres/montreal/chef-fe-de-division-projets-soutien-general-et-pilotage-service-des-affaires-juridiques.html",
    "vuLe": "2026-10-01",
    "pre": 7
+  },
+  {
+   "source": "Orchestre Métropolitain",
+   "titre": "Offre d’emploi – Directeur.trice du développement des affaires",
+   "url": "https://orchestremetropolitain.com/wp-content/uploads/2026/09/Directeur.trice-du-developpement-des-affaires.pdf",
+   "vuLe": "2026-10-02",
+   "pre": 5
+  },
+  {
+   "source": "RIMQ emplois municipal",
+   "titre": "VILLE DE SAINTE-THÉRÈSEDécès de l'ancienne conseillère municipale Marie-Andrée Petelle",
+   "url": "https://rimq.qc.ca/article/municipal/categorie/nominations/67/1221340/deces-de-l-ancienne-conseillere-municipale-marie-andree-petelle.html",
+   "vuLe": "2026-10-02",
+   "pre": 5
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Québec emploi marketing project manager September 07, 2026 VENTION INC. Location Montréal (QC) Salary $67,500.00 annually Québec emploi Job number: 535668",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50236854?source=searchresults",
+   "vuLe": "2026-10-02",
+   "pre": 5
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "ZipRecruiter business development officer September 25, 2026 Building Materials Industry Manufacturer Location Vancouver (BC) Salary $141,455.00 annually ZipRecruiter Job number: 52a8266d1",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50380560?source=searchresults",
+   "vuLe": "2026-10-02",
+   "pre": 5
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "New ZipRecruiter business development officer September 29, 2026 i8is Location Woodbridge (ON) Salary $49.83 hourly ZipRecruiter Job number: 17ad9e3c",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50407980?source=searchresults",
+   "vuLe": "2026-10-02",
+   "pre": 5
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "ZipRecruiter business development officer September 25, 2026 Building Materials Industry Manufacturer Location Vancouver (BC) Salary $141,455.00 annually ZipRecruiter Job number: 52a8266d1",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50380560?source=searchresults",
+   "vuLe": "2026-10-02",
+   "pre": 5
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "New ZipRecruiter business development officer September 29, 2026 i8is Location Woodbridge (ON) Salary $49.83 hourly ZipRecruiter Job number: 17ad9e3c",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50407980?source=searchresults",
+   "vuLe": "2026-10-02",
+   "pre": 5
   },
   {
    "source": "Santé Québec Laurentides carrières",
@@ -529,6 +578,62 @@
    "url": "https://rimq.qc.ca/offre/emplois/municipal/489963/ville-de-montreal/professionnels/montreal/charge-e-de-projet-responsable-suivi-et-coordination-de-la-realisation.html",
    "vuLe": "2026-10-01",
    "pre": 4
+  },
+  {
+   "source": "Orchestre Métropolitain",
+   "titre": "Offre d’emploi – Chef.fe dons majeurs et planifiés",
+   "url": "https://orchestremetropolitain.com/wp-content/uploads/2026/09/Offre-emploi-Chef.fe-dons-majeurs-et-planifies.pdf",
+   "vuLe": "2026-10-02",
+   "pre": 3
+  },
+  {
+   "source": "Orchestre Métropolitain",
+   "titre": "Coordonnées",
+   "url": "https://orchestremetropolitain.com/fr/coordonnees/",
+   "vuLe": "2026-10-02",
+   "pre": 3
+  },
+  {
+   "source": "BMO",
+   "titre": "Bank Manager",
+   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260026782EXTERNALENUS/Bank-Manager",
+   "vuLe": "2026-10-02",
+   "pre": 3
+  },
+  {
+   "source": "BMO",
+   "titre": "Bank Manager",
+   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260025959EXTERNALENUS/Bank-Manager",
+   "vuLe": "2026-10-02",
+   "pre": 3
+  },
+  {
+   "source": "RIMQ emplois municipal",
+   "titre": "Adjoint(e) à la direction générale et à la mairie",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/489158/ville-de-saint-basile-le-grand/postes-cadres/monteregie/adjoint-e-a-la-direction-generale-et-a-la-mairie.html",
+   "vuLe": "2026-10-02",
+   "pre": 3
+  },
+  {
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Agent.e de développement LCVC",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/ville-de-matane.wDrwCc/agent.e-de-developpement-lcvc/17577354?&upg=12",
+   "vuLe": "2026-10-02",
+   "pre": 3
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New CareerBeacon credit officer October 01, 2026 BMO Financial Location Toronto (ON) Salary $19.00 to $51.00 hourly CareerBeacon Job number: 3875209",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50407612?source=searchresults",
+   "vuLe": "2026-10-02",
+   "pre": 3
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New Talent.com financial sales and service officer October 02, 2026 Astra North Infoteck Inc. Location Toronto (ON) Salary $10,000.00 monthly Talent.com Job number: 639810735098892015",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50407868?source=searchresults",
+   "vuLe": "2026-10-02",
+   "pre": 3
   },
   {
    "source": "CSS de la Rivière-du-Nord",
@@ -1546,6 +1651,13 @@
    "pre": 3
   },
   {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New SaskJobs community and social services worker October 01, 2026 Montreal Lake Child and Family Agency Inc. Location Montreal Lake (SK) Salary $62,400.00 - $84,105.77 SaskJobs Job number: 1549034",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50406927?source=searchresults",
+   "vuLe": "2026-10-02",
+   "pre": 2
+  },
+  {
    "source": "Station Mont Tremblant",
    "titre": "See Station Mont Tremblant job offers",
    "url": "https://www.tremblant.ca/about-us/jobs/station-mont-tremblant",
@@ -1861,6 +1973,20 @@
    "pre": 2
   },
   {
+   "source": "BMO",
+   "titre": "Senior Manager-US Accounting",
+   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260021953EXTERNALENUS/Senior-Manager-US-Accounting",
+   "vuLe": "2026-10-02",
+   "pre": 1
+  },
+  {
+   "source": "BMO",
+   "titre": "Senior Manager, U.S. Tax Advisory",
+   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260020787EXTERNALENUS/Senior-Manager-U-S-Tax-Advisory",
+   "vuLe": "2026-10-02",
+   "pre": 1
+  },
+  {
    "source": "SADC Antoine-Labelle emplois",
    "titre": "Directeur général",
    "url": "https://www.sadcal.com/wp-content/uploads/Directeur-general.pdf",
@@ -1894,6 +2020,160 @@
    "url": "https://rimq.qc.ca/offre/emplois/municipal/489931/ville-de-candiac/postes-cadres/monteregie/directeur-general-adjoint.html",
    "vuLe": "2026-10-01",
    "pre": 1
+  },
+  {
+   "source": "Orchestre Métropolitain",
+   "titre": "Offre d’emploi – Responsable dons intermédiaires et campagne annuelle",
+   "url": "https://orchestremetropolitain.com/wp-content/uploads/2026/09/Offre-demploi-Responsable-dons-intermediaires-et-campagne-annuelle.pdf",
+   "vuLe": "2026-10-02",
+   "pre": 0
+  },
+  {
+   "source": "BMO",
+   "titre": "Retail Relationship Banker",
+   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260025130EXTERNALENUS/Retail-Relationship-Banker",
+   "vuLe": "2026-10-02",
+   "pre": 0
+  },
+  {
+   "source": "BMO",
+   "titre": "Premier Client Specialist",
+   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260026955EXTERNALENUS/Premier-Client-Specialist",
+   "vuLe": "2026-10-02",
+   "pre": 0
+  },
+  {
+   "source": "BMO",
+   "titre": "Associate, Global Markets Corporate Banking",
+   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260006475EXTERNALENUS/Associate-Global-Markets-Corporate-Banking",
+   "vuLe": "2026-10-02",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New indeed.com esthetician October 01, 2026 skoah Lower Lonsdale - North Vancouver Location North Vancouver (BC) Salary $18.25 to $22.00 hourly indeed.com Job number: 10282619934",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50406739?source=searchresults",
+   "vuLe": "2026-10-02",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New indeed.com sales associate October 01, 2026 Global Pet Foods Vaughan Location Woodbridge (ON) Salary $17.95 to $18.00 hourly indeed.com Job number: 10282606176",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50406718?source=searchresults",
+   "vuLe": "2026-10-02",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New indeed.com esthetician October 01, 2026 The Urbans Beauty Treat Location Burnaby (BC) Salary $18.45 hourly indeed.com Job number: 10282599125",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50406713?source=searchresults",
+   "vuLe": "2026-10-02",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New indeed.com inside sales representative October 01, 2026 eMotors Direct Location Edmonton (AB) Salary $24.50 hourly indeed.com Job number: 10282628166",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50406751?source=searchresults",
+   "vuLe": "2026-10-02",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New indeed.com inside sales representative October 01, 2026 Supreme Legacy Sales Solutions Location Mississauga (ON) Salary $45,000.00 to $55,000.00 annually indeed.com Job number: 10282603797",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50406748?source=searchresults",
+   "vuLe": "2026-10-02",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New indeed.com financial analyst October 01, 2026 Oppy Location Coquitlam (BC) Salary $82,000.00 to $92,000.00 annually indeed.com Job number: 10282660627",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50406929?source=searchresults",
+   "vuLe": "2026-10-02",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New indeed.com retail sales associate October 01, 2026 Amy's on Davie Location Vancouver (BC) Salary $18.25 to $19.00 hourly indeed.com Job number: 10282651923",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50406972?source=searchresults",
+   "vuLe": "2026-10-02",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New CareerBeacon investment consultant October 01, 2026 BMO Financial Location Markham (ON) Salary $25.00 to $62.00 hourly CareerBeacon Job number: 3875790",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50407009?source=searchresults",
+   "vuLe": "2026-10-02",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New CareerBeacon financial analyst October 01, 2026 BMO Financial Location Brossard (QC) Salary $25.00 to $62.00 hourly CareerBeacon Job number: 3875788",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50406984?source=searchresults",
+   "vuLe": "2026-10-02",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New Talent.com shelter worker October 02, 2026 Dixon Hall Location Toronto (ON) Salary $26.51 hourly Talent.com Job number: 639810894759463825",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50407846?source=searchresults",
+   "vuLe": "2026-10-02",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New indeed.com inside sales representative October 02, 2026 RefundPros Location Kelowna (BC) Salary $55,000.00 to $100,000.00 annually indeed.com Job number: 10282801818",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50407692?source=searchresults",
+   "vuLe": "2026-10-02",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New Jobillico sales and rental clerk October 02, 2026 Lumisolution - Québec Location Québec (QC) Salary $23.00 to $28.00 hourly Jobillico Job number: 17497371",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50408229?source=searchresults",
+   "vuLe": "2026-10-02",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New CareerBeacon financial analyst October 02, 2026 BMO Financial Location Toronto (ON) Salary $25.00 to $62.00 hourly CareerBeacon Job number: 3882485",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50408689?source=searchresults",
+   "vuLe": "2026-10-02",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New CareerBeacon fitness instructor October 02, 2026 VON Canada Location Orillia (ON) Salary $18.25 to $19.39 hourly CareerBeacon Job number: o6WeAfwA",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50408800?source=searchresults",
+   "vuLe": "2026-10-02",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New CareerBeacon community development worker October 02, 2026 VON Canada Location Windsor (ON) Salary $24.18 to $25.69 hourly CareerBeacon Job number: oDrJAfw7",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50408739?source=searchresults",
+   "vuLe": "2026-10-02",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New CareerBeacon business management analyst October 02, 2026 BMO Financial Location Mississauga (ON) Salary $25.00 to $68.00 hourly CareerBeacon Job number: 3882484",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50408676?source=searchresults",
+   "vuLe": "2026-10-02",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "Talent.com sales analyst September 24, 2026 TechInsights Location Ottawa (ON) Salary $61,540.00 to $65,160.00 annually Talent.com Job number: 638801402117493138",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50408112?source=searchresults",
+   "vuLe": "2026-10-02",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "Talent.com sales analyst September 24, 2026 TechInsights Location Ottawa (ON) Salary $61,540.00 to $65,160.00 annually Talent.com Job number: 638801402117493138",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50408112?source=searchresults",
+   "vuLe": "2026-10-02",
+   "pre": 0
   },
   {
    "source": "CIMEQ",
@@ -2289,13 +2569,6 @@
   },
   {
    "source": "Jobillico développement économique Laurentides",
-   "titre": "Développeuse ou développeur mobile, Connectivité et développement des applications",
-   "url": "https://www.jobillico.com/fr/offre-d-emploi/brp-/developpeuse-ou-developpeur-mobile-connectivite-et-developpement-des-applications/17244142?&upg=12",
-   "vuLe": "2026-10-01",
-   "pre": 0
-  },
-  {
-   "source": "Jobillico développement économique Laurentides",
    "titre": "Consultant(e) – Développement organisationnel",
    "url": "https://www.jobillico.com/fr/offre-d-emploi/reseau-de-sante-vitalitelRygEh/consultant-e-developpement-organisationnel/17578170?&upg=12",
    "vuLe": "2026-10-01",
@@ -2303,22 +2576,8 @@
   },
   {
    "source": "Jobillico développement économique Laurentides",
-   "titre": "Représentant(e) aux ventes et développement des ventes régionales",
-   "url": "https://www.jobillico.com/fr/offre-d-emploi/propur/representant-e-aux-ventes-et-developpement-des-ventes-regionales/16838253?&upg=12",
-   "vuLe": "2026-10-01",
-   "pre": 0
-  },
-  {
-   "source": "Jobillico développement économique Laurentides",
    "titre": "Director, Institutional ETF & Solutions Distribution, GAM",
    "url": "https://www.jobillico.com/fr/offre-d-emploi/bmo-financial-group.cNxfAs/director-institutional-etf-solutions-distribution-gam/17491641?&upg=12",
-   "vuLe": "2026-10-01",
-   "pre": 0
-  },
-  {
-   "source": "Jobillico développement économique Laurentides",
-   "titre": "Managing Director, National Accounts",
-   "url": "https://www.jobillico.com/fr/offre-d-emploi/bmo-financial-group.cNxfAs/managing-director-national-accounts/17493705?&upg=12",
    "vuLe": "2026-10-01",
    "pre": 0
   },
@@ -2552,100 +2811,23 @@
    "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50268778?source=searchresults",
    "vuLe": "2026-10-01",
    "pre": 0
-  },
-  {
-   "source": "Guichet-Emplois commissaire Laurentides",
-   "titre": "Québec emploi assistant general director - government services September 17, 2026 MUNICIPALITE DE LA PAROISSE DE SAINT-DONAT Location Saint-Donat (QC) Salary $34.01 hourly Québec emploi Job number: 548691",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50305689?source=searchresults",
-   "vuLe": "2026-10-01",
-   "pre": 0
-  },
-  {
-   "source": "Guichet-Emplois commissaire Laurentides",
-   "titre": "Québec emploi regional municipality general director September 21, 2026 VILLE DE DANVILLE Location Danville (QC) Salary $98,250.00 annually Québec emploi Job number: 549135",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50330681?source=searchresults",
-   "vuLe": "2026-10-01",
-   "pre": 0
-  },
-  {
-   "source": "Guichet-Emplois commissaire Laurentides",
-   "titre": "New Jobillico vice-consul September 25, 2026 Université de Sherbrooke Location Sherbrooke (QC) Salary $64,173.00 to $104,013.00 annually Jobillico Job number: 17562291",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50365545?source=searchresults",
-   "vuLe": "2026-10-01",
-   "pre": 0
-  },
-  {
-   "source": "Guichet-Emplois commissaire Laurentides",
-   "titre": "New Québec emploi regional municipality general director September 28, 2026 MUNICIPALITE DE LORRAINVILLE Location Lorrainville (QC) Salary $80,000.00 annually Québec emploi Job number: 550253",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50381974?source=searchresults",
-   "vuLe": "2026-10-01",
-   "pre": 0
-  },
-  {
-   "source": "Guichet-Emplois commissaire Laurentides",
-   "titre": "New Jobillico executive administrator - government agency September 28, 2026 Marc-André Paré Consultant Inc. Location Lambton (QC) Salary $64,868.00 to $70,161.00 annually Jobillico Job number: 17569218",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50387039?source=searchresults",
-   "vuLe": "2026-10-01",
-   "pre": 0
-  },
-  {
-   "source": "BMO",
-   "titre": "Director or Vice President, Electronic Trading (US Rates)",
-   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260026857EXTERNALENUS/Director-or-Vice-President-Electronic-Trading-US-Rates",
-   "vuLe": "2026-10-01",
-   "pre": -2
   }
  ],
  "disparus": [
   {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New SaskJobs mental health support worker October 01, 2026 Family Service Regina Inc. Location Regina (SK) Salary $30.24-$35.59 per hour based on a 35 hour work week SaskJobs Job number: 1549002",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50406126?source=searchresults"
-  },
-  {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New Talent.com community worker October 01, 2026 S.R.T. MedStaff Location Various locations Salary $27.40 hourly Talent.com Job number: 624577245169392508",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50406171?source=searchresults"
-  },
-  {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New SaskJobs peer support worker October 01, 2026 Saskatoon Tribal Council Inc. Location Saskatoon (SK) Salary $26.00 To $39.00 Annually SaskJobs Job number: 1548971",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50405795?source=searchresults"
+   "source": "Jobillico développement économique Laurentides",
+   "titre": "Managing Director, National Accounts",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/bmo-financial-group.cNxfAs/managing-director-national-accounts/17493705?&upg=12"
   },
   {
    "source": "Jobillico développement économique Laurentides",
-   "titre": "Agent.e de développement LCVC",
-   "url": "https://www.jobillico.com/fr/offre-d-emploi/ville-de-matane.wDrwCc/agent.e-de-developpement-lcvc/17577354?&upg=12"
+   "titre": "Représentant(e) aux ventes et développement des ventes régionales",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/propur/representant-e-aux-ventes-et-developpement-des-ventes-regionales/16838253?&upg=12"
   },
   {
    "source": "Jobillico développement économique Laurentides",
-   "titre": "Agent de développement des affaires",
-   "url": "https://www.jobillico.com/fr/offre-d-emploi/groupe-perspective/agent-de-developpement-des-affaires/17493555?&upg=12"
-  },
-  {
-   "source": "Jobillico développement économique Laurentides",
-   "titre": "Guide support de terrain développement | sous-terre",
-   "url": "https://www.jobillico.com/fr/offre-d-emploi/orezone-mine-casa-berardi/guide-support-de-terrain-developpement-sous-terre/17491038?&upg=12"
-  },
-  {
-   "source": "BMO",
-   "titre": "Premier Client Specialist",
-   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260026955EXTERNALENUS/Premier-Client-Specialist"
-  },
-  {
-   "source": "BMO",
-   "titre": "Bank Manager",
-   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260025959EXTERNALENUS/Bank-Manager"
-  },
-  {
-   "source": "BMO",
-   "titre": "Retail Relationship Banker",
-   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260025130EXTERNALENUS/Retail-Relationship-Banker"
-  },
-  {
-   "source": "BMO",
-   "titre": "Bank Manager",
-   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260026782EXTERNALENUS/Bank-Manager"
+   "titre": "Développeuse ou développeur mobile, Connectivité et développement des applications",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/brp-/developpeuse-ou-developpeur-mobile-connectivite-et-developpement-des-applications/17244142?&upg=12"
   }
  ]
 }
