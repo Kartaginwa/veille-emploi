@@ -145,3 +145,9 @@ S|Jobillico conseiller Laurentides|https://www.jobillico.com/recherche-emploi?sk
 S|Jobillico analyste Laurentides|https://www.jobillico.com/recherche-emploi?skwd=analyste&scty=Laurentides
 S|Talent.com conseiller Laurentides|https://ca.talent.com/jobs?k=conseiller&l=Laurentides%2C+QC
 S|Talent.com analyste Laurentides|https://ca.talent.com/jobs?k=analyste&l=Laurentides%2C+QC
+S|Guichet-Emplois coût de revient Laurentides|https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=co%C3%BBt+de+revient&locationstring=Laurentides%2C+QC&sort=D
+S|Guichet-Emplois coût de revient Montréal-Laval|https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=co%C3%BBt+de+revient&locationstring=Montr%C3%A9al%2C+QC&sort=D
+S|Guichet-Emplois prix de revient Québec|https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=prix+de+revient&locationstring=Qu%C3%A9bec&sort=D
+S|Eluta coût de revient Québec|https://www.eluta.ca/search?q=co%C3%BBt+de+revient&l=Qu%C3%A9bec
+S|Jobillico coût de revient|https://www.jobillico.com/recherche-emploi?skwd=co%C3%BBt+de+revient&scty=Qu%C3%A9bec
+S|Jobillico prix de revient Laurentides|https://www.jobillico.com/recherche-emploi?skwd=prix+de+revient&scty=Laurentides
