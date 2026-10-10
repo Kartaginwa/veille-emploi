@@ -10,6 +10,21 @@ const POS = /co[uû]ts? de revient|prix de revient|costing|conseill|agent[e]?\b|
 const GENERIC = /favoris|favourites|skip to|sign up|report a problem|salaires|publier une offre|ajouter|current location|selected date|filters|cookie|se connecter|^emplois |various locations|remove keyword|create alert|labour market|training and careers|rss job feed|help -|support|terms of use|plus account|^new$/i;
 const POSTURL = /jobposting\/|offre-d-emploi|\/job\/|viewjob|\/view\?|\/rc\/clk|\/clk\?|\/jobs?\/[^/]+/i;
 const NEG = /stagiaire|[ée]tudiant|student|intern\b|internship|technicien|pr[ée]pos[ée]|journalier|caissier|conducteur|op[ée]rateur|infirm|m[ée]decin|ing[ée]nieur|[ée]lectric|m[ée]canic|menuis|soudeur|cuisini|serveu|chauffeur|commis\b|ressources humaines|\bRH\b|paie\b|sauveteur|moniteur|animateur|brigadier|pompier|policier|concierge|g[ée]om[èe]tre|arpenteur|comptable|avocat|MRC des Laurentides|Corporation de d[ée]veloppement [ée]conomique/i;
+const HARD = /stagiaire|[ée]tudiant|student|intern\b|internship|MRC des Laurentides|Corporation de d[ée]veloppement [ée]conomique/i;
+const PRO = /urbanist|greffier|greffi[èe]re|tr[ée]sori|planificat|inspecteur|inspectrice|contr[ôo]leur|agronome|biologiste|architecte|paysagiste|biblioth[ée]caire|archiviste|technicien|technicienne|ing[ée]nieur|avocat|notaire|comptable|conseill|gestion|agent|charg|coordonn|responsable|directeur|directrice|analyste|sp[ée]cialiste|p[ée]dagog|travailleur social|intervenant|organisateur|animateur communautaire|dentiste|[ée]valuateur/i;
+const ecartes = new Map();
+function ecarte(src, it, raison) { const k = src.name + '|' + it.href + '|' + it.text.slice(0, 80); if (!ecartes.has(k)) ecartes.set(k, { source: src.name, titre: it.text, url: it.href, raison, vuLe: TODAY }); }
+// Décide si un lien est retenu. Dans les Laurentides: on ne jette rien de ce qui ressemble à un poste (sauf exclusions dures).
+function triage(src, l) {
+  const t = l.text, ctx = LAUR.test(src.name + ' ' + src.url + ' ' + t);
+  if (HARD.test(t)) { ecarte(src, l, 'exclusion (stage/étudiant/ancien employeur)'); return false; }
+  const pos = POS.test(t) || POSTURL.test(l.href);
+  if (ctx) { if (pos || PRO.test(t)) return true; if (NEG.test(t)) { ecarte(src, l, 'titre métier/technique (Laurentides)'); return false; } ecarte(src, l, 'titre sans mot-clé reconnu (Laurentides)'); return false; }
+  if (NEG.test(t)) { ecarte(src, l, 'titre métier/technique'); return false; }
+  if (pos) return true;
+  if (PRO.test(t) && /emploi|carri|job|poste/i.test(l.href)) return true;
+  return false;
+}
 const JOBURL = /emploi|offre|job|poste|career|carri[èe]re|posting|requisition|recrut|affichage|vacan/i;
 const NAV = /^(accueil|contact|nous joindre|à propos|a propos|politique|confidentialit|plan du site|infolettre|facebook|linkedin|instagram|youtube|twitter|menu|recherche|voir (plus|tout)|en savoir plus|lire la suite|suivant|précédent|retour)/i;
 
@@ -87,7 +102,7 @@ function record(src, items, ok) {
   for (const it of items) {
     const key = it.href.replace(/[?&](utm_[^&]+|session[^&]*)/g, '') + '|' + it.text.slice(0, 80);
     seen.add(key);
-    if (!st[key]) { const nu = it.href.split('#')[0]; if (seenUrls.has(nu) && !/IrcVisitor|offres-demploi-2944/.test(nu)) { st[key] = { t: it.text, u: it.href, d: TODAY, m: 0 }; continue; } seenUrls.add(nu); st[key] = { t: it.text, u: it.href, d: TODAY, m: 0 }; nouveaux.push({ source: src.name, titre: it.text, url: it.href, vuLe: TODAY, pre: rough(it.text, it.href) }); added++; }
+    if (!st[key]) { const nu = it.href.split('#')[0]; if (seenUrls.has(nu) && !/IrcVisitor|offres-demploi-2944/.test(nu)) { st[key] = { t: it.text, u: it.href, d: TODAY, m: 0 }; continue; } seenUrls.add(nu); st[key] = { t: it.text, u: it.href, d: TODAY, m: 0 }; nouveaux.push({ source: src.name, titre: it.text, url: it.href, vuLe: TODAY, pre: rough(it.text, it.href), _st: st[key] }); added++; }
     else st[key].m = 0;
   }
   if (ok && items.length) for (const k of Object.keys(st)) { if (!seen.has(k)) { st[k].m++; if (st[k].m >= 2) { disparus.push({ source: src.name, titre: st[k].t, url: st[k].u }); delete st[k]; } } }
@@ -109,7 +124,7 @@ async function runSource(src) {
         if (!(j.jobPostings || []).length) break; offset += 20;
       }
       rec.method = 'api Workday'; rec.liensLus = items.length;
-      items = items.filter(l => !NEG.test(l.text));
+      items = items.filter(l => triage(src, l));
     } else if (src.type === 'O') {
       const r = await oracleMtl(src.url); items = r.items; rec.method = r.method; rec.liensLus = items.length;
     } else {
@@ -124,7 +139,7 @@ async function runSource(src) {
       for (const p of pages) { try { const { links, method } = await getLinks(p); all.push(...links); methods.push(method); } catch (e) { rec.note = (rec.note ? rec.note + ' ; ' : '') + e.message; } }
       rec.method = [...new Set(methods)].join('+'); rec.liensLus = all.length;
       if (!all.length) throw new Error(rec.note || 'aucune donnée');
-      const uniq = new Map(); for (const l of all) { if (!l.text || l.text.length < 10 || l.text.length > 220 || GENERIC.test(l.text) || NEG.test(l.text) || NAV.test(l.text)) continue; const ok = POS.test(l.text) || POSTURL.test(l.href); if (ok) { const h = l.href.replace(/;jsessionid=[^?]*/i, ''); uniq.set(h + l.text, { text: l.text, href: h }); } }
+      const uniq = new Map(); for (const l of all) { if (!l.text || l.text.length < 10 || l.text.length > 220 || GENERIC.test(l.text) || NAV.test(l.text)) continue; const ok = triage(src, l); if (ok) { const h = l.href.replace(/;jsessionid=[^?]*/i, ''); uniq.set(h + l.text, { text: l.text, href: h }); } }
       items = [...uniq.values()];
     }
     rec.retenus = items.length;
@@ -176,14 +191,44 @@ await Promise.all([worker(), worker(), worker(), worker()]);
 }
 if (browser) await browser.close();
 
+// Enrichissement: ouvre chaque nouvelle offre (HTTP simple) et en tire employeur, lieu, salaire, échéance, aperçu
+const SKIP_ENR = /indeed\.|linkedin\.|glassdoor\.|myworkdayjobs\./i;
+async function enrich(n) {
+  if (SKIP_ENR.test(n.url)) return;
+  try {
+    const ctl = new AbortController(); const to = setTimeout(() => ctl.abort(), 12000);
+    const r = await fetch(n.url, { headers: { 'user-agent': UA, 'accept-language': 'fr-CA,fr;q=0.9' }, signal: ctl.signal, redirect: 'follow' }); clearTimeout(to);
+    if (!r.ok || !/html/i.test(r.headers.get('content-type') || '')) return;
+    const html = await r.text(); const $ = cheerio.load(html); const e = {};
+    const flat = (v) => Array.isArray(v) ? v.flatMap(flat) : (v && v['@graph'] ? flat(v['@graph']) : [v]);
+    $('script[type="application/ld+json"]').each((_, el) => { try { for (const o of flat(JSON.parse($(el).contents().text())))
+      if (o && /JobPosting/i.test(String(o['@type']))) {
+        e.emp = e.emp || (o.hiringOrganization && (o.hiringOrganization.name || o.hiringOrganization)) || undefined;
+        const loc = [].concat(o.jobLocation || [])[0]; const a = loc && loc.address; if (a) e.lieu = e.lieu || [a.addressLocality, a.addressRegion].filter(Boolean).join(', ');
+        const bs = o.baseSalary && o.baseSalary.value; if (bs) e.sal = e.sal || [bs.minValue, bs.maxValue, bs.value].filter(x => x !== undefined && typeof x !== 'object').join('–') + ' ' + (bs.unitText || '');
+        e.echeance = e.echeance || o.validThrough; e.titreOffre = e.titreOffre || o.title;
+        if (o.description) e.apercu = e.apercu || cheerio.load('<div>' + o.description + '</div>')('div').text().replace(/\s+/g, ' ').trim().slice(0, 350);
+      } } catch {} });
+    if (!e.apercu) { const d = $('meta[property="og:description"]').attr('content') || $('meta[name="description"]').attr('content'); if (d) e.apercu = d.replace(/\s+/g, ' ').trim().slice(0, 350); }
+    const body = $('body').text().replace(/\s+/g, ' ');
+    if (!e.sal) { const m = body.match(/\d{2,3}[  ]?\d{3}\s*\$?\s*(?:à|-|–)\s*\d{2,3}[  ]?\d{3}\s*\$|\d{2,3}[,.]\d{2}\s*\$?\s*(?:à|-|–)\s*\d{2,3}[,.]\d{2}\s*\$|salaire[^.]{0,80}\d[^.]{0,60}\$/i); if (m) e.sal = m[0].slice(0, 90); }
+    if (!e.echeance) { const m = body.match(/(?:date limite|fin d.affichage|jusqu.au|closing date|date de cl[ôo]ture)[^.]{0,60}/i); if (m) e.echeance = m[0].slice(0, 80); }
+    if (!e.apercu) e.apercu = body.slice(0, 250);
+    for (const k of Object.keys(e)) if (e[k] === undefined || e[k] === '' ) delete e[k];
+    n._st.e = e;
+  } catch {}
+}
+{ const q = [...nouveaux]; const w = async () => { while (q.length) await enrich(q.shift()); }; await Promise.all([w(), w(), w(), w(), w(), w()]); }
+
 const counts = Object.values(sante).reduce((a, r) => (a[r.status] = (a[r.status] || 0) + 1, a), {});
 const cutoff = new Date(Date.now() - 3 * 864e5).toISOString().slice(0, 10);
 const recent = [];
-for (const [srcName, st] of Object.entries(state)) for (const it of Object.values(st)) if (it.d >= cutoff) recent.push({ source: srcName, titre: it.t, url: it.u, vuLe: it.d, pre: rough(it.t, it.u, srcName) });
+for (const [srcName, st] of Object.entries(state)) for (const it of Object.values(st)) if (it.d >= cutoff) recent.push({ source: srcName, titre: it.t, url: it.u, vuLe: it.d, pre: rough(it.t, it.u, srcName), ...(it.e || {}) });
 recent.sort((a, b) => b.pre - a.pre || (a.vuLe < b.vuLe ? 1 : -1));
-const out = { genereLe: new Date().toISOString(), date: TODAY, sourcesTotal: CFG.length, statuts: counts, nouveauxCeJour: nouveaux.length, nouveauxTotal: recent.length, fenetreJours: 3, nouveaux: recent.slice(0, 400), disparus: disparus.slice(0, 200) };
+const out = { genereLe: new Date().toISOString(), date: TODAY, sourcesTotal: CFG.length, statuts: counts, nouveauxCeJour: nouveaux.length, nouveauxTotal: recent.length, fenetreJours: 3, nouveaux: recent, disparus, ecartesCeJour: ecartes.size };
 fs.writeFileSync('data/nouveautes.json', JSON.stringify(out, null, 1));
 fs.writeFileSync('data/sante.json', JSON.stringify({ date: TODAY, statuts: counts, sources: sante }, null, 1));
+fs.writeFileSync('data/ecartes.json', JSON.stringify({ date: TODAY, total: ecartes.size, ecartes: [...ecartes.values()] }, null, 1));
 fs.writeFileSync('data/state.json', JSON.stringify(state));
 console.log('Terminé', JSON.stringify(counts), 'nouveaux', nouveaux.length, 'disparus', disparus.length);
 process.exit(0);
