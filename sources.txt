@@ -39,7 +39,6 @@ P|Collectif Récolte (offres sur Grenier)|https://grenier.qc.ca/employeur/12237/
 P|Synergie économique Laurentides|https://synergielaurentides.ca/emploi
 P|Connexion Laurentides offres d'emploi|https://www.connexionlaurentides.com/offres-demploi/
 D|Économie sociale Laurentides|https://www.economiesocialelaurentides.ca
-D|Synerlab|https://synerlab.ca
 D|Conseil de la transformation alimentaire du Québec|https://conseiltaq.com
 D|FCEI|https://www.cfib-fcei.ca
 W|UPA (Workday)|upa;wd10;Externe
@@ -66,8 +65,6 @@ P|Lanaudière Économique emplois|https://lanaudiere-economique.org/a-propos/emp
 D|CieNOV|https://cienov.ca
 D|Laval Économique|https://lavaleconomique.com
 P|Ville de Laval emplois|https://www.laval.ca/emplois/
-D|Orchestre Métropolitain|https://orchestremetropolitain.com
-D|Cosmodôme|https://www.cosmodome.org
 D|Groupe Scandinave|https://www.scandinave.com
 D|MRC Antoine-Labelle|https://www.mrc-antoine-labelle.qc.ca
 D|MRC d'Argenteuil|https://www.argenteuil.qc.ca
@@ -106,7 +103,7 @@ D|SADC des Laurentides|http://sadclaurentides.org
 P|SADC Antoine-Labelle emplois|https://www.sadcal.com/emplois/
 D|CAE Rive-Nord (SADC-CAE)|https://www.sadc-cae.ca
 P|Tourisme Laurentides|https://www.laurentides.com/a-propos/
-D|Tourisme Mont-Tremblant|https://www.tourismemonttremblant.com
+P|Tourisme Mont-Tremblant (emplois)|https://www.mont-tremblant.ca/fr/emplois
 D|Station Mont Tremblant|https://www.tremblant.ca
 P|Parc régional Val-David–Val-Morin emplois|https://www.parcregional.com/en/the-park/jobs/
 P|Sépaq carrières|https://www.sepaq.com/carriere
