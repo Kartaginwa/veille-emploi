@@ -19,7 +19,7 @@ function triage(src, l) {
   const t = l.text, ctx = LAUR.test(src.name + ' ' + src.url + ' ' + t);
   if (HARD.test(t)) { ecarte(src, l, 'exclusion (stage/étudiant/ancien employeur)'); return false; }
   const pos = POS.test(t) || POSTURL.test(l.href);
-  if (ctx) { if (pos || PRO.test(t)) return true; if (NEG.test(t)) { ecarte(src, l, 'titre métier/technique (Laurentides)'); return false; } ecarte(src, l, 'titre sans mot-clé reconnu (Laurentides)'); return false; }
+  if (ctx) { if (pos || PRO.test(t)) return true; if (NEG.test(t)) { ecarte(src, l, 'titre métier/technique (Laurentides)'); return false; } { let p = ''; try { const u = new URL(l.href); p = u.pathname + u.search; } catch {} if (t.length >= 12 && /emploi|offre|poste|carri|career|posting|vacan|recrut/i.test(p)) ecarte(src, l, 'titre sans mot-clé reconnu (Laurentides)'); } return false; }
   if (NEG.test(t)) { ecarte(src, l, 'titre métier/technique'); return false; }
   if (pos) return true;
   if (PRO.test(t) && /emploi|carri|job|poste/i.test(l.href)) return true;
@@ -92,7 +92,7 @@ const PLACE = /laurentides|saint-j[ée]r[ôo]me|mont-tremblant|blainville|sainte
 const SENIOR = /vice-pr[ée]sident|directeur g[ée]n[ée]ral|directrice g[ée]n[ée]rale|pr[ée]sident|chief|senior|stagiaire|junior|adjoint[e]? administratif/i;
 const LAUR = /laurentides|saint-j[ée]r[ôo]me|mont-tremblant|blainville|boisbriand|rosem[èe]re|sainte-th[ée]r[èe]se|saint-eustache|lachute|sainte-ad[èe]le|saint-sauveur|pr[ée]vost|mirabel|val-david|sainte-agathe|saint-colomban|bois-des-filion|deux-montagnes|labelle|morin-heights|piedmont|saint-donat|brownsburg|argenteuil|rivi[èe]re-du-nord/i;
 const ANCONS = /analyste|analyst\b|conseill(er|[èe]re)\b|advisor/i;
-function rough(text, href, src = '') { let s = 0; if (ANCONS.test(text) && LAUR.test(text + ' ' + href + ' ' + src)) s += 4; if (STRONG.test(text)) s += 3; if (DOMAIN.test(text)) s += 2; if (PLACE.test(text + ' ' + href)) s += 2; if (SENIOR.test(text)) s -= 2; return s; }
+function rough(text, href, src = '') { let s = 0; if (ANCONS.test(text) && LAUR.test(text + ' ' + href + ' ' + src)) s += 4; if (STRONG.test(text)) s += 3; if (DOMAIN.test(text)) s += 2; if (PLACE.test(text + ' ' + href)) s += 2; return s; }
 
 const seenUrls = new Set();
 function record(src, items, ok) {
