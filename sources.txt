@@ -61,6 +61,8 @@ P|Équiterre emplois|https://www.equiterre.org/fr/emplois
 P|Vivre en Ville travailler avec nous|https://vivreenville.org/a-propos/travailler-avec-nous
 D|Coop Carbone|https://coopcarbone.coop
 D|CQCM|https://cqcm.coop
+P|CDRQ (carrières)|https://cdrq.coop/la-cdrq/carrieres/
+D|CDROL (Outaouais-Laurentides)|https://cdrol.coop
 P|Lanaudière Économique emplois|https://lanaudiere-economique.org/a-propos/emplois/
 D|CieNOV|https://cienov.ca
 D|Laval Économique|https://lavaleconomique.com
