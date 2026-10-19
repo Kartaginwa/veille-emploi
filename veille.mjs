@@ -72,6 +72,18 @@ async function browserLinks(url, { scroll = true, extra } = {}) {
   } finally { await ctx.close(); }
 }
 
+let diagCount = 0;
+async function pageDiag(url) {
+  const b = await getBrowser();
+  const ctx = await b.newContext({ userAgent: UA, locale: 'fr-CA' });
+  const page = await ctx.newPage();
+  try {
+    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 45000 });
+    await page.waitForLoadState('networkidle', { timeout: 15000 }).catch(() => {});
+    return await page.evaluate(() => ({ titre: document.title, texte: (document.body.innerText || '').replace(/\s+/g, ' ').slice(0, 300), cartes: document.querySelectorAll('[data-jk], .job_seen_beacon, a.jcs-JobTitle, h2.jobTitle').length, nbLiens: document.querySelectorAll('a[href]').length }));
+  } finally { await ctx.close(); }
+}
+
 // Chaîne de méthodes: fetch simple, puis navigateur. Retourne {links, method}
 async function getLinks(url) {
   const errs = [];
@@ -142,6 +154,7 @@ async function runSource(src) {
       const uniq = new Map(); for (const l of all) { if (!l.text || l.text.length < 10 || l.text.length > 220 || GENERIC.test(l.text) || NAV.test(l.text)) continue; const ok = triage(src, l); if (ok) { const h = l.href.replace(/;jsessionid=[^?]*/i, ''); uniq.set(h + l.text, { text: l.text, href: h }); } }
       items = [...uniq.values()];
     }
+    if (/indeed\./.test(src.url) && !items.length && diagCount < 4) { diagCount++; try { rec.diag = await pageDiag(src.url); } catch (e) { rec.diag = 'diag erreur: ' + String(e.message).slice(0, 100); } }
     rec.retenus = items.length;
     rec.nouveaux = record(src, items, true);
     rec.status = items.length ? 'ok' : (rec.liensLus ? 'aucun poste' : 'vide');
