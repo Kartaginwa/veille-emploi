@@ -223,6 +223,7 @@ async function enrich(n) {
         if (o.description) e.apercu = e.apercu || cheerio.load('<div>' + o.description + '</div>')('div').text().replace(/\s+/g, ' ').trim().slice(0, 350);
       } } catch {} });
     if (!e.apercu) { const d = $('meta[property="og:description"]').attr('content') || $('meta[name="description"]').attr('content'); if (d) e.apercu = d.replace(/\s+/g, ' ').trim().slice(0, 350); }
+    $('script,style,noscript').remove();
     const body = $('body').text().replace(/\s+/g, ' ');
     { // Télétravail: classement par texte intégral de l'offre (sans jetons)
       const main = (e._desc || $('main').text() || $('article').text() || '').replace(/\s+/g, ' ');
