@@ -1,11 +1,11 @@
 {
  "date": "2026-10-19",
- "total": 543,
+ "total": 542,
  "ecartes": [
   {
    "source": "Guichet-Emplois développement économique Montréal",
    "titre": "Jobillico marketing project officer - market research October 08, 2026 Altitude ressources humaines inc. Location Victoriaville (QC) Salary $33.97 to $43.00 hourly Jobillico Job number: 17596098",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50452736;jsessionid=7CC9D393BA2266D40D6DD53E4C1B8081.jobsearch76?source=searchresults",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50452736;jsessionid=6530AE45C8910ED1DDCCB512474075EB.jobsearch76?source=searchresults",
    "raison": "titre métier/technique",
    "vuLe": "2026-10-19"
   },
@@ -40,14 +40,14 @@
   {
    "source": "Jobillico commissaire",
    "titre": "Claude Grenier Ressources Humaines inc.",
-   "url": "https://www.jobillico.com/voir-entreprise/claude-grenier-ressources-humaines-inc-zyzeqn?lshs=e64c0bf19fb5fb45831d244982a9214a21f0defd932258a80fde3a7a75bcced0&upg=1&lijn=16110856&lijp=29836104&lirk=1&lids=0&lisp=0&liet=8",
+   "url": "https://www.jobillico.com/voir-entreprise/claude-grenier-ressources-humaines-inc-zyzeqn?lshs=bc41b0fc5d894a4c96c992a661e74c6732b7c39675fca21a565441fda90d5687&upg=1&lijn=16110856&lijp=29836104&lirk=1&lids=0&lisp=0&liet=8",
    "raison": "titre métier/technique",
    "vuLe": "2026-10-19"
   },
   {
    "source": "Jobillico commissaire",
    "titre": "Claude Grenier Ressources Humaines inc.",
-   "url": "https://www.jobillico.com/voir-entreprise/claude-grenier-ressources-humaines-inc-zyzeqn?lshs=e64c0bf19fb5fb45831d244982a9214a21f0defd932258a80fde3a7a75bcced0&upg=1&lijn=17531374&lijp=29836101&lirk=2&lids=0&lisp=0&liet=8",
+   "url": "https://www.jobillico.com/voir-entreprise/claude-grenier-ressources-humaines-inc-zyzeqn?lshs=bc41b0fc5d894a4c96c992a661e74c6732b7c39675fca21a565441fda90d5687&upg=1&lijn=17531374&lijp=29836101&lirk=2&lids=0&lisp=0&liet=8",
    "raison": "titre métier/technique",
    "vuLe": "2026-10-19"
   },
@@ -68,7 +68,7 @@
   {
    "source": "Jobillico développement économique Laurentides",
    "titre": "Claude Grenier Ressources Humaines inc.",
-   "url": "https://www.jobillico.com/voir-entreprise/claude-grenier-ressources-humaines-inc-zyzeqn?lshs=87ce2e8372163fc81296fa7ef45951d174a8af55689b3afd04945f6702782749&upg=1&lijn=17627364&lijp=29857155&lirk=5&lids=0&lisp=0&liet=8",
+   "url": "https://www.jobillico.com/voir-entreprise/claude-grenier-ressources-humaines-inc-zyzeqn?lshs=668834de834b5f3d17ba48a5765dd5247fa2030afb8cd5e156188259b04fb4b8&upg=1&lijn=17627364&lijp=29857155&lirk=5&lids=0&lisp=0&liet=8",
    "raison": "titre métier/technique (Laurentides)",
    "vuLe": "2026-10-19"
   },
@@ -144,22 +144,15 @@
   },
   {
    "source": "RIMQ emplois municipal",
+   "titre": "Chauffeur et opérateur de véhicules motorisés, classe 3",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/491209/municipalite-de-val-des-lacs/postes-de-soutien/centre-du-quebec/chauffeur-et-operateur-de-vehicules-motorises-classe-3.html",
+   "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "RIMQ emplois municipal",
    "titre": "Préposé(e) infrastructures sportives et récréatives",
    "url": "https://rimq.qc.ca/offre/emplois/municipal/491192/ville-de-nicolet/postes-de-soutien/centre-du-quebec/prepose-e-infrastructures-sportives-et-recreatives.html",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "RIMQ emplois municipal",
-   "titre": "Préposé(e) au soutien administratif",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/491072/ville-de-montreal/postes-de-soutien/montreal/prepose-e-au-soutien-administratif.html",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "RIMQ emplois municipal",
-   "titre": "Préposé(e) aux installations récréatives",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/491058/ville-de-repentigny/postes-de-soutien/lanaudiere/prepose-e-aux-installations-recreatives.html",
    "raison": "titre métier/technique",
    "vuLe": "2026-10-19"
   },
@@ -661,6 +654,20 @@
    "vuLe": "2026-10-19"
   },
   {
+   "source": "Desjardins carrières",
+   "titre": "Apply for a student job or internship",
+   "url": "https://desjardins-workplace.relevance.studio/en/students-and-interns",
+   "raison": "exclusion (stage/étudiant/ancien employeur)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "BDC",
+   "titre": "Student jobs",
+   "url": "https://www.bdc.ca/en/careers/students",
+   "raison": "exclusion (stage/étudiant/ancien employeur)",
+   "vuLe": "2026-10-19"
+  },
+  {
    "source": "Collectif Récolte (offres sur Grenier)",
    "titre": "Ressources humaines",
    "url": "https://www.grenier.qc.ca/chroniques/ressources-humaines",
@@ -672,20 +679,6 @@
    "titre": "RESSOURCES HUMAINES",
    "url": "https://www.grenier.qc.ca/chroniques/ressources-humaines",
    "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "BDC",
-   "titre": "Student jobs",
-   "url": "https://www.bdc.ca/en/careers/students",
-   "raison": "exclusion (stage/étudiant/ancien employeur)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Desjardins carrières",
-   "titre": "Apply for a student job or internship",
-   "url": "https://desjardins-workplace.relevance.studio/en/students-and-interns",
-   "raison": "exclusion (stage/étudiant/ancien employeur)",
    "vuLe": "2026-10-19"
   },
   {
@@ -707,6 +700,20 @@
    "titre": "Service de paie",
    "url": "https://www.apchq.com/nos-services/relations-du-travail/paie/service-de-paie/",
    "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Banque Nationale",
+   "titre": "Étudiant·e·s",
+   "url": "https://emplois.bnc.ca/fr_CA/careers/studentsandintership",
+   "raison": "exclusion (stage/étudiant/ancien employeur)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Banque Nationale",
+   "titre": "Students and internships",
+   "url": "https://emplois.bnc.ca/en_CA/careers/studentsandintership",
+   "raison": "exclusion (stage/étudiant/ancien employeur)",
    "vuLe": "2026-10-19"
   },
   {
@@ -738,17 +745,17 @@
    "vuLe": "2026-10-19"
   },
   {
-   "source": "Banque Nationale",
-   "titre": "Étudiant·e·s",
-   "url": "https://emplois.bnc.ca/fr_CA/careers/studentsandintership",
-   "raison": "exclusion (stage/étudiant/ancien employeur)",
+   "source": "MRC Antoine-Labelle",
+   "titre": "Offres d'emploi",
+   "url": "https://www.mrcal.ca/emplois",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
    "vuLe": "2026-10-19"
   },
   {
-   "source": "Banque Nationale",
-   "titre": "Students and internships",
-   "url": "https://emplois.bnc.ca/en_CA/careers/studentsandintership",
-   "raison": "exclusion (stage/étudiant/ancien employeur)",
+   "source": "MRC Antoine-Labelle",
+   "titre": "Postes partiels Pompiers.ères",
+   "url": "https://www.mrcal.ca/emplois/pompiers",
+   "raison": "titre métier/technique (Laurentides)",
    "vuLe": "2026-10-19"
   },
   {
@@ -850,20 +857,6 @@
    "vuLe": "2026-10-19"
   },
   {
-   "source": "MRC Antoine-Labelle",
-   "titre": "Offres d'emploi",
-   "url": "https://www.mrcal.ca/emplois",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "MRC Antoine-Labelle",
-   "titre": "Postes partiels Pompiers.ères",
-   "url": "https://www.mrcal.ca/emplois/pompiers",
-   "raison": "titre métier/technique (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
    "source": "MRC de la Rivière-du-Nord",
    "titre": "Aller au contenu principal",
    "url": "https://www.mrcrdn.qc.ca/emplois",
@@ -938,6 +931,20 @@
    "titre": "Direction générale",
    "url": "https://mrc2m.qc.ca/emplois/direction-generale",
    "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "MRC des Pays-d'en-Haut",
+   "titre": "Technicien(ne) en maintenance des équipements",
+   "url": "https://lespaysdenhaut.com/la-mrc/emplois/",
+   "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "MRC des Pays-d'en-Haut",
+   "titre": "Ressources humaines",
+   "url": "https://lespaysdenhaut.com/category/ressources-humaines/",
+   "raison": "titre métier/technique",
    "vuLe": "2026-10-19"
   },
   {
@@ -1053,17 +1060,10 @@
    "vuLe": "2026-10-19"
   },
   {
-   "source": "MRC des Pays-d'en-Haut",
-   "titre": "Technicien(ne) en maintenance des équipements",
-   "url": "https://lespaysdenhaut.com/la-mrc/emplois/",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "MRC des Pays-d'en-Haut",
-   "titre": "Ressources humaines",
-   "url": "https://lespaysdenhaut.com/category/ressources-humaines/",
-   "raison": "titre métier/technique",
+   "source": "Ville de Boisbriand",
+   "titre": "Site carrière par Teamtailor",
+   "url": "https://www.teamtailor.com/?utm_campaign=poweredby&utm_content=emploi.boisbriand.ca&utm_medium=referral&utm_source=career-site",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
    "vuLe": "2026-10-19"
   },
   {
@@ -1221,13 +1221,6 @@
    "vuLe": "2026-10-19"
   },
   {
-   "source": "Ville de Boisbriand",
-   "titre": "Site carrière par Teamtailor",
-   "url": "https://www.teamtailor.com/?utm_campaign=poweredby&utm_content=emploi.boisbriand.ca&utm_medium=referral&utm_source=career-site",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
    "source": "Ville de Mont-Tremblant",
    "titre": "Avis publics",
    "url": "https://vdmt.ca/informations-municipales/administration-et-finances/avis-publics-et-appels-doffres",
@@ -1309,34 +1302,6 @@
    "titre": "Fermer la rubrique",
    "url": "https://vdsa.ca/emplois",
    "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Municipalité de Piedmont",
-   "titre": "Offres d'emploi",
-   "url": "https://www.piedmont.ca/fr/municipalite/vie-municipale/offres-d-emploi/",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Municipalité de Piedmont",
-   "titre": "Préposé(e) à la menuiserie",
-   "url": "https://www.piedmont.ca/fichiersUpload/fichiers/20261015140241-offre-doeemploi-1.pdf",
-   "raison": "titre métier/technique (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Municipalité de Piedmont",
-   "titre": "Formulaire de demande d'emploi",
-   "url": "https://www.piedmont.ca/fichiersUpload/fichiers/20260807112737-formulaire-demande-d-emploi-2026.pdf",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Municipalité de Morin-Heights",
-   "titre": "Poste temporaire 6 mois - journalier-chauffeur-opérateur",
-   "url": "https://www.morinheights.com/IMG/pdf/20261001_offre_d_emploi_-_journalier-chauffeur-operateur-francais.pdf",
-   "raison": "titre métier/technique (Laurentides)",
    "vuLe": "2026-10-19"
   },
   {
@@ -1494,10 +1459,24 @@
    "vuLe": "2026-10-19"
   },
   {
-   "source": "Sainte-Anne-des-Lacs",
-   "titre": "Pompier.ère (temps partiel)",
-   "url": "https://www.sadl.qc.ca/fichiersUpload/fichiers/20260924094221-pompier.pdf",
-   "raison": "titre métier/technique",
+   "source": "Municipalité de Piedmont",
+   "titre": "Offres d'emploi",
+   "url": "https://www.piedmont.ca/fr/municipalite/vie-municipale/offres-d-emploi/",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Municipalité de Piedmont",
+   "titre": "Préposé(e) à la menuiserie",
+   "url": "https://www.piedmont.ca/fichiersUpload/fichiers/20261015140241-offre-doeemploi-1.pdf",
+   "raison": "titre métier/technique (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Municipalité de Piedmont",
+   "titre": "Formulaire de demande d'emploi",
+   "url": "https://www.piedmont.ca/fichiersUpload/fichiers/20260807112737-formulaire-demande-d-emploi-2026.pdf",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
    "vuLe": "2026-10-19"
   },
   {
@@ -1522,9 +1501,23 @@
    "vuLe": "2026-10-19"
   },
   {
+   "source": "Municipalité de Morin-Heights",
+   "titre": "Poste temporaire 6 mois - journalier-chauffeur-opérateur",
+   "url": "https://www.morinheights.com/IMG/pdf/20261001_offre_d_emploi_-_journalier-chauffeur-operateur-francais.pdf",
+   "raison": "titre métier/technique (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
    "source": "Sainte-Sophie emplois",
    "titre": "Poste temporaire à durée indéterminée Préposé(e) à l’entretien En savoir plus",
    "url": "https://www.stesophie.ca/emplois/preposee-a-lentretien",
+   "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Sainte-Anne-des-Lacs",
+   "titre": "Pompier.ère (temps partiel)",
+   "url": "https://www.sadl.qc.ca/fichiersUpload/fichiers/20260924094221-pompier.pdf",
    "raison": "titre métier/technique",
    "vuLe": "2026-10-19"
   },
@@ -1578,13 +1571,6 @@
    "vuLe": "2026-10-19"
   },
   {
-   "source": "Municipalité de Val-Morin emploi",
-   "titre": "Sauveteur.se à la piscine du camp Edphy",
-   "url": "https://www.val-morin.ca/images/pdf/Sauveteur.se%20piscine.pdf",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
    "source": "Ville de Lorraine",
    "titre": "Juridiques et greffe Technicien(ne) juridique et adjoint(e) administratif(-ve) Fin d'affichage : 1 novembre 2026",
    "url": "https://lorraine.ca/emplois/permanents/technicienne-juridique-et-adjointe-administratif-ve",
@@ -1599,6 +1585,13 @@
    "vuLe": "2026-10-19"
   },
   {
+   "source": "Municipalité de Val-Morin emploi",
+   "titre": "Sauveteur.se à la piscine du camp Edphy",
+   "url": "https://www.val-morin.ca/images/pdf/Sauveteur.se%20piscine.pdf",
+   "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
    "source": "Saint-Colomban",
    "titre": "Appels d'offres",
    "url": "https://st-colomban.qc.ca/ville/administration/appels-doffres",
@@ -1609,13 +1602,6 @@
    "source": "Saint-Colomban",
    "titre": "Poste cadre temporaire à temps plein Superviseur au déneigement",
    "url": "https://st-colomban.qc.ca/carrieres/superviseur-au-deneigement",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Municipalité de Labelle",
-   "titre": "Poste à temps partiel saisonnier Surveillant(e) de la patinoire extérieure et du dôme En savoir plus",
-   "url": "https://municipalite.labelle.qc.ca/emplois/surveillante-de-la-patinoire-exterieure-et-du-dome",
    "raison": "titre sans mot-clé reconnu (Laurentides)",
    "vuLe": "2026-10-19"
   },
@@ -1771,20 +1757,6 @@
    "titre": "Municipalités",
    "url": "https://mrclaurentides.qc.ca/caravane-de-lemploi/",
    "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Ville de Mont-Laurier",
-   "titre": "SURVEILLANTS.ES-SAUVETEURS.EUSES ET MONITEURS.TRICES AQUATIQUES (2026-24) En savoir plus",
-   "url": "https://www.villemontlaurier.qc.ca/emplois/emploi/surveillantses-sauveteurseuses-et-moniteurstrices-aquatiques-2026-24",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Ville de Mont-Laurier",
-   "titre": "JOURNALIER, JOURNALIÈRE TEMPORAIRE 2026-29 En savoir plus",
-   "url": "https://www.villemontlaurier.qc.ca/emplois/emploi/journalier-journaliere-temporaire-2026-29",
-   "raison": "titre métier/technique",
    "vuLe": "2026-10-19"
   },
   {
@@ -2523,6 +2495,27 @@
    "vuLe": "2026-10-19"
   },
   {
+   "source": "Municipalité de Labelle",
+   "titre": "Poste à temps partiel saisonnier Surveillant(e) de la patinoire extérieure et du dôme En savoir plus",
+   "url": "https://municipalite.labelle.qc.ca/emplois/surveillante-de-la-patinoire-exterieure-et-du-dome",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Ville de Mont-Laurier",
+   "titre": "SURVEILLANTS.ES-SAUVETEURS.EUSES ET MONITEURS.TRICES AQUATIQUES (2026-24) En savoir plus",
+   "url": "https://www.villemontlaurier.qc.ca/emplois/emploi/surveillantses-sauveteurseuses-et-moniteurstrices-aquatiques-2026-24",
+   "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Ville de Mont-Laurier",
+   "titre": "JOURNALIER, JOURNALIÈRE TEMPORAIRE 2026-29 En savoir plus",
+   "url": "https://www.villemontlaurier.qc.ca/emplois/emploi/journalier-journaliere-temporaire-2026-29",
+   "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
    "source": "Municipalité d'Oka",
    "titre": "Préposée ou préposé à l’entretien des parcs et espaces verts – Patinoires",
    "url": "https://municipalite.oka.qc.ca/emplois/preposee-ou-prepose-a-lentretien-des-parcs-et-espaces-verts-patinoires/",
@@ -2534,20 +2527,6 @@
    "titre": "Préposée ou préposé à l’entretien des parcs et espaces verts",
    "url": "https://municipalite.oka.qc.ca/emplois/preposee-ou-prepose-a-lentretien-des-parcs-et-espaces-verts-2026/",
    "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Tourisme Mont-Tremblant (emplois)",
-   "titre": "Caravane de l'emploi",
-   "url": "https://mrclaurentides.qc.ca/caravane-de-lemploi/",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Tourisme Mont-Tremblant (emplois)",
-   "titre": "MRC des Laurentides",
-   "url": "https://mrclaurentides.qc.ca/setablir/",
-   "raison": "exclusion (stage/étudiant/ancien employeur)",
    "vuLe": "2026-10-19"
   },
   {
@@ -2849,6 +2828,20 @@
    "titre": "Thérèse-de-Blainville",
    "url": "https://www.santelaurentides.gouv.qc.ca/carriere/vivre-et-travailler-par-mrc/therese-de-blainville/",
    "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Tourisme Mont-Tremblant (emplois)",
+   "titre": "Caravane de l'emploi",
+   "url": "https://mrclaurentides.qc.ca/caravane-de-lemploi/",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Tourisme Mont-Tremblant (emplois)",
+   "titre": "MRC des Laurentides",
+   "url": "https://mrclaurentides.qc.ca/setablir/",
+   "raison": "exclusion (stage/étudiant/ancien employeur)",
    "vuLe": "2026-10-19"
   },
   {
@@ -3251,6 +3244,90 @@
    "vuLe": "2026-10-19"
   },
   {
+   "source": "CCI Argenteuil emplois",
+   "titre": "Salon de l’emploi d’Argenteuil",
+   "url": "https://cciargenteuil.ca/salon-de-lemploi-dargenteuil/",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CCI Argenteuil emplois",
+   "titre": "Gala Excellence 2024",
+   "url": "https://cciargenteuil.ca/emploi/",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CCI Thérèse-De Blainville carrières",
+   "titre": "Boîte à outils",
+   "url": "https://www.ccitb.ca/la-ccitb/carrieres/",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CCI Thérèse-De Blainville carrières",
+   "titre": "Soutien aux entreprises",
+   "url": "https://www.ccitb.ca/la-ccitb/carrieres/",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CCI Thérèse-De Blainville carrières",
+   "titre": "Nos ailes locales",
+   "url": "https://www.ccitb.ca/la-ccitb/carrieres/",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CCI Thérèse-De Blainville (Chambre de commerce)",
+   "titre": "travailleur éloigné du marché du travail",
+   "url": "https://www.emploiquebec.gouv.qc.ca/entreprises/recruter/aide-financiere-a-lembauche/subventions-salariales-pour-employes/",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CCI Thérèse-De Blainville (Chambre de commerce)",
+   "titre": "travailleur expérimenté (50 ans et plus)",
+   "url": "https://www.quebec.ca/entreprises-et-travailleurs-autonomes/administrer-gerer/embauche-gestion-personnel/recruter/embaucher-travailleurs-experimentes",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CCI Thérèse-De Blainville (Chambre de commerce)",
+   "titre": "travailleur handicapé",
+   "url": "https://www.emploiquebec.gouv.qc.ca/entreprises/recruter/aide-financiere-a-lembauche/integration-des-personnes-handicapees/",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CCI Thérèse-De Blainville (Chambre de commerce)",
+   "titre": "Opération main-d’œuvre – Mesures ciblées pour certains secteurs prioritaires",
+   "url": "https://www.quebec.ca/gouvernement/ministere/emploi-solidarite-sociale/publications/operation-maindoeuvre",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CCI Thérèse-De Blainville (Chambre de commerce)",
+   "titre": "Boîte à outils",
+   "url": "https://www.ccitb.ca/la-ccitb/carrieres/",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CCI Thérèse-De Blainville (Chambre de commerce)",
+   "titre": "Soutien aux entreprises",
+   "url": "https://www.ccitb.ca/la-ccitb/carrieres/",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CCI Thérèse-De Blainville (Chambre de commerce)",
+   "titre": "Nos ailes locales",
+   "url": "https://www.ccitb.ca/la-ccitb/carrieres/",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
    "source": "CSS de la Rivière-du-Nord",
    "titre": "Appels d'offres",
    "url": "https://cssrdn.gouv.qc.ca/a-propos/appels-doffres",
@@ -3349,114 +3426,30 @@
    "vuLe": "2026-10-19"
   },
   {
-   "source": "CCI Argenteuil emplois",
-   "titre": "Salon de l’emploi d’Argenteuil",
-   "url": "https://cciargenteuil.ca/salon-de-lemploi-dargenteuil/",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CCI Argenteuil emplois",
-   "titre": "Gala Excellence 2024",
-   "url": "https://cciargenteuil.ca/emploi/",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CCI Thérèse-De Blainville carrières",
-   "titre": "Boîte à outils",
-   "url": "https://www.ccitb.ca/la-ccitb/carrieres/",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CCI Thérèse-De Blainville carrières",
-   "titre": "Soutien aux entreprises",
-   "url": "https://www.ccitb.ca/la-ccitb/carrieres/",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CCI Thérèse-De Blainville carrières",
-   "titre": "Nos ailes locales",
-   "url": "https://www.ccitb.ca/la-ccitb/carrieres/",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CCI Thérèse-De Blainville (Chambre de commerce)",
-   "titre": "travailleur éloigné du marché du travail",
-   "url": "https://www.emploiquebec.gouv.qc.ca/entreprises/recruter/aide-financiere-a-lembauche/subventions-salariales-pour-employes/",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CCI Thérèse-De Blainville (Chambre de commerce)",
-   "titre": "travailleur expérimenté (50 ans et plus)",
-   "url": "https://www.quebec.ca/entreprises-et-travailleurs-autonomes/administrer-gerer/embauche-gestion-personnel/recruter/embaucher-travailleurs-experimentes",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CCI Thérèse-De Blainville (Chambre de commerce)",
-   "titre": "travailleur handicapé",
-   "url": "https://www.emploiquebec.gouv.qc.ca/entreprises/recruter/aide-financiere-a-lembauche/integration-des-personnes-handicapees/",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CCI Thérèse-De Blainville (Chambre de commerce)",
-   "titre": "Opération main-d’œuvre – Mesures ciblées pour certains secteurs prioritaires",
-   "url": "https://www.quebec.ca/gouvernement/ministere/emploi-solidarite-sociale/publications/operation-maindoeuvre",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CCI Thérèse-De Blainville (Chambre de commerce)",
-   "titre": "Boîte à outils",
-   "url": "https://www.ccitb.ca/la-ccitb/carrieres/",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CCI Thérèse-De Blainville (Chambre de commerce)",
-   "titre": "Soutien aux entreprises",
-   "url": "https://www.ccitb.ca/la-ccitb/carrieres/",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CCI Thérèse-De Blainville (Chambre de commerce)",
-   "titre": "Nos ailes locales",
-   "url": "https://www.ccitb.ca/la-ccitb/carrieres/",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
    "source": "Jobillico économie circulaire",
    "titre": "Aide-mécanicien",
-   "url": "https://www.jobillico.com/fr/offre-d-emploi/umatek/aide-mecanicien/12815779?lshs=b05747e87e36906da5dafc487dfba341cccc7dbd0f9b9c8bfbd329ceff73fa7b&upg=1&lijn=12815779&lijp=29808648&lirk=3&lids=0&lisp=0&liet=2",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/umatek/aide-mecanicien/12815779?lshs=c0cb5dc02d3c516d9fad87b6e99ce58db6df2f8b022940e05b32c13141e08f69&upg=1&lijn=12815779&lijp=29808648&lirk=3&lids=0&lisp=0&liet=2",
    "raison": "titre métier/technique",
    "vuLe": "2026-10-19"
   },
   {
    "source": "Jobillico économie circulaire",
    "titre": "Journalier",
-   "url": "https://www.jobillico.com/fr/offre-d-emploi/lynx-rh.aVpjSw/journalier/17516742?lshs=b05747e87e36906da5dafc487dfba341cccc7dbd0f9b9c8bfbd329ceff73fa7b&upg=1&lijn=17516742&lijp=29800995&lirk=6&lids=0&lisp=0&liet=2",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/lynx-rh.aVpjSw/journalier/17516742?lshs=c0cb5dc02d3c516d9fad87b6e99ce58db6df2f8b022940e05b32c13141e08f69&upg=1&lijn=17516742&lijp=29800995&lirk=6&lids=0&lisp=0&liet=2",
    "raison": "titre métier/technique",
    "vuLe": "2026-10-19"
   },
   {
    "source": "Jobillico économie circulaire",
    "titre": "Technicien qualité /42H semaine",
-   "url": "https://www.jobillico.com/fr/offre-d-emploi/ecofibfxaxnn/technicien-qualite-42h-semaine/12772024?lshs=b05747e87e36906da5dafc487dfba341cccc7dbd0f9b9c8bfbd329ceff73fa7b&upg=1&lijn=12772024&lijp=29842812&lirk=8&lids=0&lisp=0&liet=2",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/ecofibfxaxnn/technicien-qualite-42h-semaine/12772024?lshs=c0cb5dc02d3c516d9fad87b6e99ce58db6df2f8b022940e05b32c13141e08f69&upg=1&lijn=12772024&lijp=29842812&lirk=8&lids=0&lisp=0&liet=2",
    "raison": "titre métier/technique",
    "vuLe": "2026-10-19"
   },
   {
    "source": "Jobillico économie circulaire",
    "titre": "Boulanger Gauthier Partenaires RH inc.",
-   "url": "https://www.jobillico.com/voir-entreprise/boulanger-gauthier-partenaires-rh-inc?lshs=b05747e87e36906da5dafc487dfba341cccc7dbd0f9b9c8bfbd329ceff73fa7b&upg=1&lijn=17589846&lijp=29795976&lirk=9&lids=0&lisp=0&liet=8",
+   "url": "https://www.jobillico.com/voir-entreprise/boulanger-gauthier-partenaires-rh-inc?lshs=c0cb5dc02d3c516d9fad87b6e99ce58db6df2f8b022940e05b32c13141e08f69&upg=1&lijn=17589846&lijp=29795976&lirk=9&lids=0&lisp=0&liet=8",
    "raison": "titre métier/technique",
    "vuLe": "2026-10-19"
   },
@@ -3580,34 +3573,6 @@
    "vuLe": "2026-10-19"
   },
   {
-   "source": "Jobillico analyste Laurentides",
-   "titre": "Guide carrière",
-   "url": "https://www.jobillico.com/guide-carriere",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Jobillico analyste Laurentides",
-   "titre": "Afficher les emplois en télétravail",
-   "url": "https://www.jobillico.com/recherche-emploi?skwd=analyste&scty=&icty=0&ipc=0&flat=0&flng=0&sjdpl=&mfil=40&sdl=&sil=&imc1=1048576&imc2=0",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Jobillico analyste Laurentides",
-   "titre": "Postuler maintenant",
-   "url": "https://www.jobillico.com/recherche-emploi?skwd=analyste&scty=Laurentides",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Jobillico analyste Laurentides",
-   "titre": "Carrières à Québec",
-   "url": "https://www.jobillico.com/fr/employeurs/jobillico-inc/voir-liste-emplois",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
    "source": "Jobillico conseiller Laurentides",
    "titre": "Guide carrière",
    "url": "https://www.jobillico.com/guide-carriere",
@@ -3636,31 +3601,94 @@
    "vuLe": "2026-10-19"
   },
   {
+   "source": "Jobillico analyste Laurentides",
+   "titre": "Guide carrière",
+   "url": "https://www.jobillico.com/guide-carriere",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Jobillico analyste Laurentides",
+   "titre": "Afficher les emplois en télétravail",
+   "url": "https://www.jobillico.com/recherche-emploi?skwd=analyste&scty=&icty=0&ipc=0&flat=0&flng=0&sjdpl=&mfil=40&sdl=&sil=&imc1=1048576&imc2=0",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Jobillico analyste Laurentides",
+   "titre": "Postuler maintenant",
+   "url": "https://www.jobillico.com/recherche-emploi?skwd=analyste&scty=Laurentides",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Jobillico analyste Laurentides",
+   "titre": "Carrières à Québec",
+   "url": "https://www.jobillico.com/fr/employeurs/jobillico-inc/voir-liste-emplois",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
    "source": "Jobillico coût de revient",
    "titre": "Commis de cour",
-   "url": "https://www.jobillico.com/fr/offre-d-emploi/transdiff-jdh-peterbilt/commis-de-cour/17586672?lshs=96dbd065ad978e12f0a7f3697b393de2fa934f2e6910ef312df9667d1fc26eb4&upg=1&lijn=17586672&lijp=29790453&lirk=8&lids=0&lisp=0&liet=2",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/materiaux-audet/commis-de-cour/17472528?lshs=6227c982a80af7f479d89d82966a7609955dffc66fdee97ce5ff162e98d1f533&upg=1&lijn=17472528&lijp=29716569&lirk=6&lids=0&lisp=0&liet=2",
    "raison": "titre métier/technique",
    "vuLe": "2026-10-19"
   },
   {
    "source": "Jobillico coût de revient",
    "titre": "Commis de cour",
-   "url": "https://www.jobillico.com/fr/offre-d-emploi/real-huot-inc.srxztw/commis-de-cour/16802217?lshs=96dbd065ad978e12f0a7f3697b393de2fa934f2e6910ef312df9667d1fc26eb4&upg=1&lijn=16802217&lijp=29771442&lirk=10&lids=0&lisp=0&liet=2",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/le-groupe-jld-lague/commis-de-cour/17558487?lshs=6227c982a80af7f479d89d82966a7609955dffc66fdee97ce5ff162e98d1f533&upg=1&lijn=17558487&lijp=29737755&lirk=8&lids=0&lisp=0&liet=2",
    "raison": "titre métier/technique",
    "vuLe": "2026-10-19"
   },
   {
    "source": "Jobillico coût de revient",
    "titre": "Commis de cour",
-   "url": "https://www.jobillico.com/fr/offre-d-emploi/le-groupe-jld-lague/commis-de-cour/17558487?lshs=96dbd065ad978e12f0a7f3697b393de2fa934f2e6910ef312df9667d1fc26eb4&upg=1&lijn=17558487&lijp=29737755&lirk=11&lids=0&lisp=0&liet=2",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/transdiff-jdh-peterbilt/commis-de-cour/17586672?lshs=6227c982a80af7f479d89d82966a7609955dffc66fdee97ce5ff162e98d1f533&upg=1&lijn=17586672&lijp=29790453&lirk=11&lids=0&lisp=0&liet=2",
    "raison": "titre métier/technique",
    "vuLe": "2026-10-19"
   },
   {
    "source": "Jobillico coût de revient",
    "titre": "Commis de cour",
-   "url": "https://www.jobillico.com/fr/offre-d-emploi/materiaux-audet/commis-de-cour/17472528?lshs=96dbd065ad978e12f0a7f3697b393de2fa934f2e6910ef312df9667d1fc26eb4&upg=1&lijn=17472528&lijp=29716569&lirk=12&lids=0&lisp=0&liet=2",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/real-huot-inc.srxztw/commis-de-cour/16802217?lshs=6227c982a80af7f479d89d82966a7609955dffc66fdee97ce5ff162e98d1f533&upg=1&lijn=16802217&lijp=29771442&lirk=12&lids=0&lisp=0&liet=2",
    "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Laurentides International (carrières)",
+   "titre": "Recrutement de professionnels en exportation",
+   "url": "https://www.laurentidesinternational.com/services/recrutement-de-professionnels-en-exportation",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Jobillico prix de revient Laurentides",
+   "titre": "Guide carrière",
+   "url": "https://www.jobillico.com/guide-carriere",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Jobillico prix de revient Laurentides",
+   "titre": "Afficher les emplois en télétravail",
+   "url": "https://www.jobillico.com/recherche-emploi?skwd=prix%20de%20revient&scty=&icty=0&ipc=0&flat=0&flng=0&sjdpl=&mfil=40&sdl=&sil=&imc1=1048576&imc2=0",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Jobillico prix de revient Laurentides",
+   "titre": "Postuler maintenant",
+   "url": "https://www.jobillico.com/recherche-emploi?skwd=prix+de+revient&scty=Laurentides",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Jobillico prix de revient Laurentides",
+   "titre": "Carrières à Québec",
+   "url": "https://www.jobillico.com/fr/employeurs/jobillico-inc/voir-liste-emplois",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
    "vuLe": "2026-10-19"
   },
   {
@@ -3766,41 +3794,6 @@
    "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Machine operators and inspectors, electrical apparatus manufacturing",
    "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=94205&sort=M%23results-list-content",
    "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Laurentides International (carrières)",
-   "titre": "Recrutement de professionnels en exportation",
-   "url": "https://www.laurentidesinternational.com/services/recrutement-de-professionnels-en-exportation",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Jobillico prix de revient Laurentides",
-   "titre": "Guide carrière",
-   "url": "https://www.jobillico.com/guide-carriere",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Jobillico prix de revient Laurentides",
-   "titre": "Afficher les emplois en télétravail",
-   "url": "https://www.jobillico.com/recherche-emploi?skwd=prix%20de%20revient&scty=&icty=0&ipc=0&flat=0&flng=0&sjdpl=&mfil=40&sdl=&sil=&imc1=1048576&imc2=0",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Jobillico prix de revient Laurentides",
-   "titre": "Postuler maintenant",
-   "url": "https://www.jobillico.com/recherche-emploi?skwd=prix+de+revient&scty=Laurentides",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Jobillico prix de revient Laurentides",
-   "titre": "Carrières à Québec",
-   "url": "https://www.jobillico.com/fr/employeurs/jobillico-inc/voir-liste-emplois",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
    "vuLe": "2026-10-19"
   }
  ]
