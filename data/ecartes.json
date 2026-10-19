@@ -1,26 +1,12 @@
 {
  "date": "2026-10-19",
- "total": 544,
+ "total": 543,
  "ecartes": [
   {
    "source": "Guichet-Emplois développement économique Montréal",
    "titre": "Jobillico marketing project officer - market research October 08, 2026 Altitude ressources humaines inc. Location Victoriaville (QC) Salary $33.97 to $43.00 hourly Jobillico Job number: 17596098",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50452736;jsessionid=FB46D0B459DB942D4347ED79C5009479.jobsearch75?source=searchresults",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50452736;jsessionid=7CC9D393BA2266D40D6DD53E4C1B8081.jobsearch76?source=searchresults",
    "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Eluta commissaire Québec",
-   "titre": "Internships & Student (1)",
-   "url": "https://www.eluta.ca/search?q=commissaire&l=Qu%C3%A9bec",
-   "raison": "exclusion (stage/étudiant/ancien employeur)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Eluta commissaire Québec",
-   "titre": "OFFRE DE STAGE - Stagiaire en évaluation de la performance",
-   "url": "https://www.eluta.ca/search?q=commissaire&l=Qu%C3%A9bec",
-   "raison": "exclusion (stage/étudiant/ancien employeur)",
    "vuLe": "2026-10-19"
   },
   {
@@ -38,16 +24,30 @@
    "vuLe": "2026-10-19"
   },
   {
+   "source": "Eluta commissaire Québec",
+   "titre": "Internships & Student (1)",
+   "url": "https://www.eluta.ca/search?q=commissaire&l=Qu%C3%A9bec",
+   "raison": "exclusion (stage/étudiant/ancien employeur)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Eluta commissaire Québec",
+   "titre": "OFFRE DE STAGE - Stagiaire en évaluation de la performance",
+   "url": "https://www.eluta.ca/search?q=commissaire&l=Qu%C3%A9bec",
+   "raison": "exclusion (stage/étudiant/ancien employeur)",
+   "vuLe": "2026-10-19"
+  },
+  {
    "source": "Jobillico commissaire",
    "titre": "Claude Grenier Ressources Humaines inc.",
-   "url": "https://www.jobillico.com/voir-entreprise/claude-grenier-ressources-humaines-inc-zyzeqn?lshs=939a62c3de856c8e6fabc8cd3d7ae48386c863c55afe900b8cad2ca0dd464acb&upg=1&lijn=16110856&lijp=29836104&lirk=1&lids=0&lisp=0&liet=8",
+   "url": "https://www.jobillico.com/voir-entreprise/claude-grenier-ressources-humaines-inc-zyzeqn?lshs=e64c0bf19fb5fb45831d244982a9214a21f0defd932258a80fde3a7a75bcced0&upg=1&lijn=16110856&lijp=29836104&lirk=1&lids=0&lisp=0&liet=8",
    "raison": "titre métier/technique",
    "vuLe": "2026-10-19"
   },
   {
    "source": "Jobillico commissaire",
    "titre": "Claude Grenier Ressources Humaines inc.",
-   "url": "https://www.jobillico.com/voir-entreprise/claude-grenier-ressources-humaines-inc-zyzeqn?lshs=939a62c3de856c8e6fabc8cd3d7ae48386c863c55afe900b8cad2ca0dd464acb&upg=1&lijn=17531374&lijp=29836101&lirk=2&lids=0&lisp=0&liet=8",
+   "url": "https://www.jobillico.com/voir-entreprise/claude-grenier-ressources-humaines-inc-zyzeqn?lshs=e64c0bf19fb5fb45831d244982a9214a21f0defd932258a80fde3a7a75bcced0&upg=1&lijn=17531374&lijp=29836101&lirk=2&lids=0&lisp=0&liet=8",
    "raison": "titre métier/technique",
    "vuLe": "2026-10-19"
   },
@@ -68,7 +68,7 @@
   {
    "source": "Jobillico développement économique Laurentides",
    "titre": "Claude Grenier Ressources Humaines inc.",
-   "url": "https://www.jobillico.com/voir-entreprise/claude-grenier-ressources-humaines-inc-zyzeqn?lshs=37cce6859c43183c45f0bcc221ef968c10afd495c60f569442c4e013783a0423&upg=1&lijn=17627364&lijp=29857155&lirk=7&lids=0&lisp=0&liet=8",
+   "url": "https://www.jobillico.com/voir-entreprise/claude-grenier-ressources-humaines-inc-zyzeqn?lshs=87ce2e8372163fc81296fa7ef45951d174a8af55689b3afd04945f6702782749&upg=1&lijn=17627364&lijp=29857155&lirk=5&lids=0&lisp=0&liet=8",
    "raison": "titre métier/technique (Laurentides)",
    "vuLe": "2026-10-19"
   },
@@ -97,6 +97,13 @@
    "source": "RIMQ emplois municipal",
    "titre": "Mécanicien de machinerie lourde",
    "url": "https://rimq.qc.ca/offre/emplois/municipal/490343/ville-de-lac-brome/professionnels/estrie/mecanicien-de-machinerie-lourde.html",
+   "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "RIMQ emplois municipal",
+   "titre": "Chauffeur et opérateur de véhicules motorisés, classe 3 Municipalité de Val-des-Lacs",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/491209/municipalite-de-val-des-lacs/postes-de-soutien/centre-du-quebec/chauffeur-et-operateur-de-vehicules-motorises-classe-3.html",
    "raison": "titre métier/technique",
    "vuLe": "2026-10-19"
   },
@@ -132,13 +139,6 @@
    "source": "RIMQ emplois municipal",
    "titre": "Préposé(e) au soutien administratif Ville de Montréal",
    "url": "https://rimq.qc.ca/offre/emplois/municipal/491072/ville-de-montreal/postes-de-soutien/montreal/prepose-e-au-soutien-administratif.html",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "RIMQ emplois municipal",
-   "titre": "Ingénieur(e) – Géotechnique Ville de Montréal",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/491069/ville-de-montreal/postes-techniques/montreal/ingenieur-e-geotechnique.html",
    "raison": "titre métier/technique",
    "vuLe": "2026-10-19"
   },
@@ -192,6 +192,13 @@
    "vuLe": "2026-10-19"
   },
   {
+   "source": "APDEQ",
+   "titre": "Technicien·ne comptable",
+   "url": "https://apdeq.qc.ca/offre-demploi/technicien%c2%b7ne-comptable/",
+   "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
    "source": "FQM",
    "titre": "Professionnel(le) ou ingénieur(e) en gestion de... Ingénierie, infrastructures et transition climatique · Bureau de Québec - Siège social · Hybride",
    "url": "https://carriere.fqm.ca/jobs/8474222-professionnel-le-ou-ingenieur-e-en-gestion-des-actifs",
@@ -237,13 +244,6 @@
    "source": "FQM",
    "titre": "Ressources humaines et relations du travail (RH/RT)",
    "url": "https://fqm.ca/rhrt/",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "APDEQ",
-   "titre": "Technicien·ne comptable",
-   "url": "https://apdeq.qc.ca/offre-demploi/technicien%c2%b7ne-comptable/",
    "raison": "titre métier/technique",
    "vuLe": "2026-10-19"
   },
@@ -661,13 +661,6 @@
    "vuLe": "2026-10-19"
   },
   {
-   "source": "Desjardins carrières",
-   "titre": "Apply for a student job or internship",
-   "url": "https://desjardins-workplace.relevance.studio/en/students-and-interns",
-   "raison": "exclusion (stage/étudiant/ancien employeur)",
-   "vuLe": "2026-10-19"
-  },
-  {
    "source": "Collectif Récolte (offres sur Grenier)",
    "titre": "Ressources humaines",
    "url": "https://www.grenier.qc.ca/chroniques/ressources-humaines",
@@ -685,6 +678,13 @@
    "source": "BDC",
    "titre": "Student jobs",
    "url": "https://www.bdc.ca/en/careers/students",
+   "raison": "exclusion (stage/étudiant/ancien employeur)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Desjardins carrières",
+   "titre": "Apply for a student job or internship",
+   "url": "https://desjardins-workplace.relevance.studio/en/students-and-interns",
    "raison": "exclusion (stage/étudiant/ancien employeur)",
    "vuLe": "2026-10-19"
   },
@@ -707,20 +707,6 @@
    "titre": "Service de paie",
    "url": "https://www.apchq.com/nos-services/relations-du-travail/paie/service-de-paie/",
    "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Banque Nationale",
-   "titre": "Étudiant·e·s",
-   "url": "https://emplois.bnc.ca/fr_CA/careers/studentsandintership",
-   "raison": "exclusion (stage/étudiant/ancien employeur)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Banque Nationale",
-   "titre": "Students and internships",
-   "url": "https://emplois.bnc.ca/en_CA/careers/studentsandintership",
-   "raison": "exclusion (stage/étudiant/ancien employeur)",
    "vuLe": "2026-10-19"
   },
   {
@@ -749,6 +735,20 @@
    "titre": "Lexique visuel de charpenterie-menuiserie",
    "url": "https://www.ccq.org/fr-CA/formation-perfectionnement/lexique-charpenterie-menuiserie",
    "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Banque Nationale",
+   "titre": "Étudiant·e·s",
+   "url": "https://emplois.bnc.ca/fr_CA/careers/studentsandintership",
+   "raison": "exclusion (stage/étudiant/ancien employeur)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Banque Nationale",
+   "titre": "Students and internships",
+   "url": "https://emplois.bnc.ca/en_CA/careers/studentsandintership",
+   "raison": "exclusion (stage/étudiant/ancien employeur)",
    "vuLe": "2026-10-19"
   },
   {
@@ -941,76 +941,6 @@
    "vuLe": "2026-10-19"
   },
   {
-   "source": "Ville de Mirabel",
-   "titre": "Appels d'offres et contrats",
-   "url": "https://www.mirabel.ca/appels-offres-listes-contrats",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Ville de Mirabel",
-   "titre": "Les Portes découvertes des ressources humaines",
-   "url": "https://www.mirabel.ca/evenements/les-portes-decouvertes-des-ressources-humaines",
-   "raison": "titre métier/technique (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Ville de Mirabel",
-   "titre": "Formulaire – Programme d'échange pour emplois d'été (Châlons-en-Champagne)",
-   "url": "https://www.mirabel.ca/uploads/3._Culture_loisirs/3.3_Tourisme/offre-de-service-08022018155934.pdf",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Ville de Mirabel",
-   "titre": "Événements 1",
-   "url": "https://www.mirabel.ca/recherche?keyword=Emplois",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Ville de Mirabel",
-   "titre": "Documents et liens 1",
-   "url": "https://www.mirabel.ca/recherche?keyword=Emplois",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "MRC des Pays-d'en-Haut",
-   "titre": "Technicien(ne) en maintenance des équipements",
-   "url": "https://lespaysdenhaut.com/la-mrc/emplois/",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "MRC des Pays-d'en-Haut",
-   "titre": "Ressources humaines",
-   "url": "https://lespaysdenhaut.com/category/ressources-humaines/",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Ville de Saint-Eustache emplois",
-   "titre": "Contrats et appels d'offres",
-   "url": "https://www.saint-eustache.ca/ville/administration/contrats-et-appels-doffres",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Ville de Saint-Eustache emplois",
-   "titre": "Consultez la Politique de dotation des ressources humaines",
-   "url": "https://www.saint-eustache.ca/ville/vie-democratique/politiques-et-codes-dethique",
-   "raison": "titre métier/technique (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Ville de Saint-Eustache emplois",
-   "titre": "Le Service de police recrute! Joignez-vous à notre équipe",
-   "url": "https://www.saint-eustache.ca/carriere-police-saint-eustache",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
    "source": "Ville de Saint-Jérôme",
    "titre": "Voir le poste",
    "url": "https://www.vsj.ca/emplois/technicien-juridique-temporaire-2/",
@@ -1064,6 +994,76 @@
    "titre": "S’inscrire à la banque",
    "url": "https://www.vsj.ca/emplois/journaliers-temporaires/",
    "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Ville de Mirabel",
+   "titre": "Appels d'offres et contrats",
+   "url": "https://www.mirabel.ca/appels-offres-listes-contrats",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Ville de Mirabel",
+   "titre": "Les Portes découvertes des ressources humaines",
+   "url": "https://www.mirabel.ca/evenements/les-portes-decouvertes-des-ressources-humaines",
+   "raison": "titre métier/technique (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Ville de Mirabel",
+   "titre": "Formulaire – Programme d'échange pour emplois d'été (Châlons-en-Champagne)",
+   "url": "https://www.mirabel.ca/uploads/3._Culture_loisirs/3.3_Tourisme/offre-de-service-08022018155934.pdf",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Ville de Mirabel",
+   "titre": "Événements 1",
+   "url": "https://www.mirabel.ca/recherche?keyword=Emplois",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Ville de Mirabel",
+   "titre": "Documents et liens 1",
+   "url": "https://www.mirabel.ca/recherche?keyword=Emplois",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Ville de Saint-Eustache emplois",
+   "titre": "Contrats et appels d'offres",
+   "url": "https://www.saint-eustache.ca/ville/administration/contrats-et-appels-doffres",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Ville de Saint-Eustache emplois",
+   "titre": "Consultez la Politique de dotation des ressources humaines",
+   "url": "https://www.saint-eustache.ca/ville/vie-democratique/politiques-et-codes-dethique",
+   "raison": "titre métier/technique (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Ville de Saint-Eustache emplois",
+   "titre": "Le Service de police recrute! Joignez-vous à notre équipe",
+   "url": "https://www.saint-eustache.ca/carriere-police-saint-eustache",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "MRC des Pays-d'en-Haut",
+   "titre": "Technicien(ne) en maintenance des équipements",
+   "url": "https://lespaysdenhaut.com/la-mrc/emplois/",
+   "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "MRC des Pays-d'en-Haut",
+   "titre": "Ressources humaines",
+   "url": "https://lespaysdenhaut.com/category/ressources-humaines/",
+   "raison": "titre métier/technique",
    "vuLe": "2026-10-19"
   },
   {
@@ -1151,83 +1151,6 @@
    "vuLe": "2026-10-19"
   },
   {
-   "source": "Ville de Mont-Tremblant",
-   "titre": "Avis publics",
-   "url": "https://vdmt.ca/informations-municipales/administration-et-finances/avis-publics-et-appels-doffres",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Ville de Mont-Tremblant",
-   "titre": "Offres d'emploi",
-   "url": "https://vdmt.ca/emplois",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Ville de Mont-Tremblant",
-   "titre": "Avis publics, appels d’offres et contrats",
-   "url": "https://vdmt.ca/informations-municipales/administration-et-finances/avis-publics-et-appels-doffres",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Ville de Mont-Tremblant",
-   "titre": "Programmes pour jeunes et étudiants",
-   "url": "https://vdmt.ca/informations-municipales/programmes-municipaux-et-subventions/programmes-pour-jeunes",
-   "raison": "exclusion (stage/étudiant/ancien employeur)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Ville de Mont-Tremblant",
-   "titre": "Horaire modulable - Service de la culture, des loisirs et de la vie communautaire Préposé(e) aux installations récréatives En savoir plus",
-   "url": "https://vdmt.ca/emplois/offres-demplois-disponibles/preposee-aux-installations-recreatives-1",
-   "raison": "titre métier/technique (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Ville de Mont-Tremblant",
-   "titre": "Nouveau! Service de sécurité incendie Mont-Tremblant Pompier / pompière (poste temps partiel sur appel) En savoir plus",
-   "url": "https://vdmt.ca/emplois/offres-demplois-disponibles/pompier-pompiere",
-   "raison": "titre métier/technique (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Ville de Mont-Tremblant",
-   "titre": "Nouveau! Poste temporaire - Service des infrastructures Préposé(e) aux patinoires En savoir plus",
-   "url": "https://vdmt.ca/emplois/offres-demplois-disponibles/preposee-aux-patinoires",
-   "raison": "titre métier/technique (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Ville de Mont-Tremblant",
-   "titre": "Fermer la rubrique",
-   "url": "https://vdmt.ca/emplois",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Ville de Mont-Tremblant",
-   "titre": "Candidature spontanée",
-   "url": "https://vdmt.ca/emplois",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Ville de Boisbriand",
-   "titre": "Site carrière par Teamtailor",
-   "url": "https://www.teamtailor.com/?utm_campaign=poweredby&utm_content=emploi.boisbriand.ca&utm_medium=referral&utm_source=career-site",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Ville de Blainville travailler",
-   "titre": "Remplissez le formulaire",
-   "url": "https://blainville.ca/ville/administration-municipale/formulaire-question-recrutement",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
    "source": "Ville de Sainte-Thérèse",
    "titre": "Appels d'offres et avis publics",
    "url": "https://www.sainte-therese.ca/ville/administration/appels-doffres-et-avis-publics",
@@ -1291,6 +1214,83 @@
    "vuLe": "2026-10-19"
   },
   {
+   "source": "Ville de Blainville travailler",
+   "titre": "Remplissez le formulaire",
+   "url": "https://blainville.ca/ville/administration-municipale/formulaire-question-recrutement",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Ville de Boisbriand",
+   "titre": "Site carrière par Teamtailor",
+   "url": "https://www.teamtailor.com/?utm_campaign=poweredby&utm_content=emploi.boisbriand.ca&utm_medium=referral&utm_source=career-site",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Ville de Mont-Tremblant",
+   "titre": "Avis publics",
+   "url": "https://vdmt.ca/informations-municipales/administration-et-finances/avis-publics-et-appels-doffres",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Ville de Mont-Tremblant",
+   "titre": "Offres d'emploi",
+   "url": "https://vdmt.ca/emplois",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Ville de Mont-Tremblant",
+   "titre": "Avis publics, appels d’offres et contrats",
+   "url": "https://vdmt.ca/informations-municipales/administration-et-finances/avis-publics-et-appels-doffres",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Ville de Mont-Tremblant",
+   "titre": "Programmes pour jeunes et étudiants",
+   "url": "https://vdmt.ca/informations-municipales/programmes-municipaux-et-subventions/programmes-pour-jeunes",
+   "raison": "exclusion (stage/étudiant/ancien employeur)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Ville de Mont-Tremblant",
+   "titre": "Horaire modulable - Service de la culture, des loisirs et de la vie communautaire Préposé(e) aux installations récréatives En savoir plus",
+   "url": "https://vdmt.ca/emplois/offres-demplois-disponibles/preposee-aux-installations-recreatives-1",
+   "raison": "titre métier/technique (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Ville de Mont-Tremblant",
+   "titre": "Nouveau! Service de sécurité incendie Mont-Tremblant Pompier / pompière (poste temps partiel sur appel) En savoir plus",
+   "url": "https://vdmt.ca/emplois/offres-demplois-disponibles/pompier-pompiere",
+   "raison": "titre métier/technique (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Ville de Mont-Tremblant",
+   "titre": "Nouveau! Poste temporaire - Service des infrastructures Préposé(e) aux patinoires En savoir plus",
+   "url": "https://vdmt.ca/emplois/offres-demplois-disponibles/preposee-aux-patinoires",
+   "raison": "titre métier/technique (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Ville de Mont-Tremblant",
+   "titre": "Fermer la rubrique",
+   "url": "https://vdmt.ca/emplois",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Ville de Mont-Tremblant",
+   "titre": "Candidature spontanée",
+   "url": "https://vdmt.ca/emplois",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
    "source": "Ville de Sainte-Adèle",
    "titre": "Offres d'emplois",
    "url": "https://jobs.glowinthecloud.com/vdsa-emploi",
@@ -1330,6 +1330,13 @@
    "titre": "Formulaire de demande d'emploi",
    "url": "https://www.piedmont.ca/fichiersUpload/fichiers/20260807112737-formulaire-demande-d-emploi-2026.pdf",
    "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Municipalité de Morin-Heights",
+   "titre": "Poste temporaire 6 mois - journalier-chauffeur-opérateur",
+   "url": "https://www.morinheights.com/IMG/pdf/20261001_offre_d_emploi_-_journalier-chauffeur-operateur-francais.pdf",
+   "raison": "titre métier/technique (Laurentides)",
    "vuLe": "2026-10-19"
   },
   {
@@ -1473,9 +1480,16 @@
    "vuLe": "2026-10-19"
   },
   {
-   "source": "Municipalité de Morin-Heights",
-   "titre": "Poste temporaire 6 mois - journalier-chauffeur-opérateur",
-   "url": "https://www.morinheights.com/IMG/pdf/20261001_offre_d_emploi_-_journalier-chauffeur-operateur-francais.pdf",
+   "source": "Ville de Saint-Sauveur",
+   "titre": "Journalier(ère) opérateur(rice)",
+   "url": "https://jobs.glowinthecloud.com/ville-de-saint-sauveur/20260513001",
+   "raison": "titre métier/technique (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Ville de Saint-Sauveur",
+   "titre": "Journalier(ère)s parcs et espaces verts",
+   "url": "https://jobs.glowinthecloud.com/ville-de-saint-sauveur/20260722001",
    "raison": "titre métier/technique (Laurentides)",
    "vuLe": "2026-10-19"
   },
@@ -1504,20 +1518,6 @@
    "source": "Ville de Prévost",
    "titre": "Journalier - Saisonnier - Banque de candidature En savoir plus",
    "url": "https://www.ville.prevost.qc.ca/emplois/journalier-banque-de-candidatures",
-   "raison": "titre métier/technique (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Ville de Saint-Sauveur",
-   "titre": "Journalier(ère) opérateur(rice)",
-   "url": "https://jobs.glowinthecloud.com/ville-de-saint-sauveur/20260513001",
-   "raison": "titre métier/technique (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Ville de Saint-Sauveur",
-   "titre": "Journalier(ère)s parcs et espaces verts",
-   "url": "https://jobs.glowinthecloud.com/ville-de-saint-sauveur/20260722001",
    "raison": "titre métier/technique (Laurentides)",
    "vuLe": "2026-10-19"
   },
@@ -1609,6 +1609,13 @@
    "source": "Saint-Colomban",
    "titre": "Poste cadre temporaire à temps plein Superviseur au déneigement",
    "url": "https://st-colomban.qc.ca/carrieres/superviseur-au-deneigement",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Municipalité de Labelle",
+   "titre": "Poste à temps partiel saisonnier Surveillant(e) de la patinoire extérieure et du dôme En savoir plus",
+   "url": "https://municipalite.labelle.qc.ca/emplois/surveillante-de-la-patinoire-exterieure-et-du-dome",
    "raison": "titre sans mot-clé reconnu (Laurentides)",
    "vuLe": "2026-10-19"
   },
@@ -1764,6 +1771,20 @@
    "titre": "Municipalités",
    "url": "https://mrclaurentides.qc.ca/caravane-de-lemploi/",
    "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Ville de Mont-Laurier",
+   "titre": "SURVEILLANTS.ES-SAUVETEURS.EUSES ET MONITEURS.TRICES AQUATIQUES (2026-24) En savoir plus",
+   "url": "https://www.villemontlaurier.qc.ca/emplois/emploi/surveillantses-sauveteurseuses-et-moniteurstrices-aquatiques-2026-24",
+   "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Ville de Mont-Laurier",
+   "titre": "JOURNALIER, JOURNALIÈRE TEMPORAIRE 2026-29 En savoir plus",
+   "url": "https://www.villemontlaurier.qc.ca/emplois/emploi/journalier-journaliere-temporaire-2026-29",
+   "raison": "titre métier/technique",
    "vuLe": "2026-10-19"
   },
   {
@@ -2502,27 +2523,6 @@
    "vuLe": "2026-10-19"
   },
   {
-   "source": "Municipalité de Labelle",
-   "titre": "Poste à temps partiel saisonnier Surveillant(e) de la patinoire extérieure et du dôme En savoir plus",
-   "url": "https://municipalite.labelle.qc.ca/emplois/surveillante-de-la-patinoire-exterieure-et-du-dome",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Ville de Mont-Laurier",
-   "titre": "SURVEILLANTS.ES-SAUVETEURS.EUSES ET MONITEURS.TRICES AQUATIQUES (2026-24) En savoir plus",
-   "url": "https://www.villemontlaurier.qc.ca/emplois/emploi/surveillantses-sauveteurseuses-et-moniteurstrices-aquatiques-2026-24",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Ville de Mont-Laurier",
-   "titre": "JOURNALIER, JOURNALIÈRE TEMPORAIRE 2026-29 En savoir plus",
-   "url": "https://www.villemontlaurier.qc.ca/emplois/emploi/journalier-journaliere-temporaire-2026-29",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
    "source": "Municipalité d'Oka",
    "titre": "Préposée ou préposé à l’entretien des parcs et espaces verts – Patinoires",
    "url": "https://municipalite.oka.qc.ca/emplois/preposee-ou-prepose-a-lentretien-des-parcs-et-espaces-verts-patinoires/",
@@ -2534,6 +2534,20 @@
    "titre": "Préposée ou préposé à l’entretien des parcs et espaces verts",
    "url": "https://municipalite.oka.qc.ca/emplois/preposee-ou-prepose-a-lentretien-des-parcs-et-espaces-verts-2026/",
    "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Tourisme Mont-Tremblant (emplois)",
+   "titre": "Caravane de l'emploi",
+   "url": "https://mrclaurentides.qc.ca/caravane-de-lemploi/",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Tourisme Mont-Tremblant (emplois)",
+   "titre": "MRC des Laurentides",
+   "url": "https://mrclaurentides.qc.ca/setablir/",
+   "raison": "exclusion (stage/étudiant/ancien employeur)",
    "vuLe": "2026-10-19"
   },
   {
@@ -2575,6 +2589,27 @@
    "source": "Santé Québec Laurentides carrières",
    "titre": "Postes d'encadrement",
    "url": "https://laurentides.carrieresante.gouv.qc.ca/postes-dencadrement/",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Santé Québec Laurentides carrières",
+   "titre": "Psychoéducateur(-trice) | Remplacement | Suivi d’intensité variable (SIV)",
+   "url": "https://laurentides.carrieresante.gouv.qc.ca/poste/psychoeducateur-trice-remplacement-suivi-dintensite-variable-siv-2/",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Santé Québec Laurentides carrières",
+   "titre": "7 jours restants TC - Temps complet Ste-Thérèse / Blainville / Rosemère / Ste-Anne-des-Plaines",
+   "url": "https://laurentides.carrieresante.gouv.qc.ca/poste/psychoeducateur-trice-remplacement-suivi-dintensite-variable-siv-2/",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Santé Québec Laurentides carrières",
+   "titre": "Voir l'offre",
+   "url": "https://laurentides.carrieresante.gouv.qc.ca/poste/psychoeducateur-trice-remplacement-suivi-dintensite-variable-siv-2/",
    "raison": "titre sans mot-clé reconnu (Laurentides)",
    "vuLe": "2026-10-19"
   },
@@ -2748,27 +2783,6 @@
   },
   {
    "source": "Santé Québec Laurentides carrières",
-   "titre": "Technologue en physiothérapie | Remplacement – Clinique externe de physiothérapie",
-   "url": "https://laurentides.carrieresante.gouv.qc.ca/poste/technologue-en-physiotherapie-remplacement-clinique-externe-de-physiotherapie/",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Santé Québec Laurentides carrières",
-   "titre": "20 jours restants TPO - Temps partiel occasionnel Ste-Agathe-des-Monts",
-   "url": "https://laurentides.carrieresante.gouv.qc.ca/poste/technologue-en-physiotherapie-remplacement-clinique-externe-de-physiotherapie/",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Santé Québec Laurentides carrières",
-   "titre": "Voir l'offre",
-   "url": "https://laurentides.carrieresante.gouv.qc.ca/poste/technologue-en-physiotherapie-remplacement-clinique-externe-de-physiotherapie/",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Santé Québec Laurentides carrières",
    "titre": "Recrutement international",
    "url": "https://www.santelaurentides.gouv.qc.ca/carriere/recrutement-international/",
    "raison": "titre sans mot-clé reconnu (Laurentides)",
@@ -2838,17 +2852,31 @@
    "vuLe": "2026-10-19"
   },
   {
-   "source": "Tourisme Mont-Tremblant (emplois)",
-   "titre": "Caravane de l'emploi",
-   "url": "https://mrclaurentides.qc.ca/caravane-de-lemploi/",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "source": "CSS de la Seigneurie-des-Mille-Îles",
+   "titre": "Charpenterie-menuiserie En savoir plus",
+   "url": "https://perdspastontemps.com/programmes/charpenterie-menuiserie/",
+   "raison": "titre métier/technique",
    "vuLe": "2026-10-19"
   },
   {
-   "source": "Tourisme Mont-Tremblant (emplois)",
-   "titre": "MRC des Laurentides",
-   "url": "https://mrclaurentides.qc.ca/setablir/",
-   "raison": "exclusion (stage/étudiant/ancien employeur)",
+   "source": "CSS de la Seigneurie-des-Mille-Îles",
+   "titre": "Electricien.ne en systèmes de sécurité En savoir plus",
+   "url": "https://perdspastontemps.com/programmes/installation-et-entretien-de-systemes-de-securite/",
+   "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CSS de la Seigneurie-des-Mille-Îles",
+   "titre": "Santé, assistance et soins infirmiers En savoir plus",
+   "url": "https://perdspastontemps.com/programmes/sante-assistance-et-soins-infirmiers/",
+   "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CSS de la Seigneurie-des-Mille-Îles",
+   "titre": "Intranet – Ressources humaines",
+   "url": "https://cssmi.sharepoint.com/sites/SRH",
+   "raison": "titre métier/technique",
    "vuLe": "2026-10-19"
   },
   {
@@ -2968,160 +2996,6 @@
    "titre": "Service d’aide à l’intégration des étudiants (SAIDE)",
    "url": "https://www.cstj.qc.ca/services-aux-etudiants/aide-a-la-reussite/saide/",
    "raison": "exclusion (stage/étudiant/ancien employeur)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CSS de la Seigneurie-des-Mille-Îles",
-   "titre": "Charpenterie-menuiserie En savoir plus",
-   "url": "https://perdspastontemps.com/programmes/charpenterie-menuiserie/",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CSS de la Seigneurie-des-Mille-Îles",
-   "titre": "Electricien.ne en systèmes de sécurité En savoir plus",
-   "url": "https://perdspastontemps.com/programmes/installation-et-entretien-de-systemes-de-securite/",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CSS de la Seigneurie-des-Mille-Îles",
-   "titre": "Santé, assistance et soins infirmiers En savoir plus",
-   "url": "https://perdspastontemps.com/programmes/sante-assistance-et-soins-infirmiers/",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CSS de la Seigneurie-des-Mille-Îles",
-   "titre": "Intranet – Ressources humaines",
-   "url": "https://cssmi.sharepoint.com/sites/SRH",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CDCQ emplois",
-   "titre": "STAGE POUR ÉTUDIANT.E.S – TGMC Technique génie matériaux composites – Été 2026 – actuellement comblé",
-   "url": "https://www.cdcq.qc.ca/wp-content/uploads/2026/04/Offre_stage_TGMC_Ete_2026-V01.pdf",
-   "raison": "exclusion (stage/étudiant/ancien employeur)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CDCQ emplois",
-   "titre": "STAGE POUR ÉTUDIANT.E.S – TCG Technique comptabilité gestion – Été 2026 – actuellement comblé",
-   "url": "https://www.cdcq.qc.ca/wp-content/uploads/2026/04/Offre_stage_TCG_Ete_2026-V01.pdf",
-   "raison": "exclusion (stage/étudiant/ancien employeur)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CDCQ emplois",
-   "titre": "STAGE POUR ÉTUDIANT.E.S – TIM Technique intégration multimédia – Été 2026 – actuellement comblé",
-   "url": "https://www.cdcq.qc.ca/wp-content/uploads/2026/04/Offre_stage_TIM_Ete_2026-V01.pdf",
-   "raison": "exclusion (stage/étudiant/ancien employeur)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CDCQ emplois",
-   "titre": "STAGE POUR ÉTUDIANT.E.S – TGM Technique de génie mécanique – Été 2026 – actuellement comblé",
-   "url": "https://www.cdcq.qc.ca/wp-content/uploads/2026/04/Offre_stage_TGM_Ete_2026-V01-7.pdf",
-   "raison": "exclusion (stage/étudiant/ancien employeur)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CDCQ emplois",
-   "titre": "STAGE POUR ÉTUDIANT.E.S – SN Sciences de la nature – Été 2026 – actuellement comblé",
-   "url": "https://www.cdcq.qc.ca/wp-content/uploads/2026/04/Offre_stage_SN_Ete_2026-V01.pdf",
-   "raison": "exclusion (stage/étudiant/ancien employeur)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CDCQ emplois",
-   "titre": "Cégep de Saint-Jérôme sous la rubrique emploi",
-   "url": "https://www.cstj.qc.ca/listes-des-emplois-disponibles/",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CDCQ emplois",
-   "titre": "Technicien_ne en administration (S2325_TAD_01434)",
-   "url": "https://www.cdcq.qc.ca/wp-content/uploads/2023/10/Technicien-ne-en-administration_oct.2023_S2325_TAD_01434.pdf",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CDCQ emplois",
-   "titre": "Technicien_ne en administration (S2306_TAD_01268)",
-   "url": "https://www.cdcq.qc.ca/wp-content/uploads/2023/09/Technicien-ne-en-adminstration_sept_23_S2306_TAD_01268-1-1.pdf",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CDCQ emplois",
-   "titre": "Étudiant en TGMC (temps partiel hiver 2023)",
-   "url": "https://www.cdcq.qc.ca/wp-content/uploads/2023/01/CDCQ_Offre_emploi_etudiants_TGM_TGMC_20230131.pdf",
-   "raison": "exclusion (stage/étudiant/ancien employeur)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CDCQ emplois",
-   "titre": "Étudiant en science de la nature (temps partiel hiver 2023)",
-   "url": "https://www.cdcq.qc.ca/wp-content/uploads/2023/01/CDCQ_Offre_emploi_etudiants_Sc_Nat_20230127.pdf",
-   "raison": "exclusion (stage/étudiant/ancien employeur)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CDCQ emplois",
-   "titre": "Étudiant en TGMC (temps partiel hiver 2023)",
-   "url": "https://www.cdcq.qc.ca/wp-content/uploads/2023/01/CDCQ_Offre_emploi_etudiants_TGMC_20221216.pdf",
-   "raison": "exclusion (stage/étudiant/ancien employeur)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CDCQ emplois",
-   "titre": "Étudiant en science de la nature (temps partiel hiver 2023)",
-   "url": "https://www.cdcq.qc.ca/wp-content/uploads/2023/01/CDCQ_Offre_emploi_etudiants_Sc_Nat_20221216.pdf",
-   "raison": "exclusion (stage/étudiant/ancien employeur)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CDCQ emplois",
-   "titre": "Technicien(ne) en administration, Concours S3921-TAD 01268",
-   "url": "https://www.cdcq.qc.ca/wp-content/uploads/2021/09/S3921-TAD_01268.pdf",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CDCQ emplois",
-   "titre": "Technicien(ne) en matériaux composites (Concours 41.19-TTP)",
-   "url": "https://www.cstj.qc.ca/wp-content/uploads/2019/08/TTP_CDCQ_S41.19-TTP_ao%C3%BBt2019.pdf",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CDCQ emplois",
-   "titre": "Technicien(ne) en matériaux composites (Concours 17.19-TTP)",
-   "url": "https://www.cstj.qc.ca/wp-content/uploads/2019/04/TTP_CDCQ_17.19-TTPAtelier_avril_2019.pdf",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CDCQ emplois",
-   "titre": "Technicien(ne) en matériaux composites (Concours 18.19-TTP)",
-   "url": "https://www.cstj.qc.ca/wp-content/uploads/2019/04/TTP_CDCQ_18.19-TTPlaboratoire_rempl_F_Lapierre_avril_2019.pdf",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CDCQ emplois",
-   "titre": "Technicien(ne) en matériaux composites (Concours 19.19-TTP)",
-   "url": "https://www.cstj.qc.ca/wp-content/uploads/2019/04/TTP_CDCQ_19.19-TTPlaboratoire_atelier_avril_2019.pdf",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "CDCQ emplois",
-   "titre": "Technicien(ne) en génie mécanique (Concours 20.19-TTP)",
-   "url": "https://www.cstj.qc.ca/wp-content/uploads/2019/05/TTP_CDCQ_20.19-TTP_avril2019.pdf",
-   "raison": "titre métier/technique",
    "vuLe": "2026-10-19"
   },
   {
@@ -3248,6 +3122,132 @@
    "titre": "Fonds étudiant",
    "url": "https://fondsetudiant.com/",
    "raison": "exclusion (stage/étudiant/ancien employeur)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CDCQ emplois",
+   "titre": "STAGE POUR ÉTUDIANT.E.S – TGMC Technique génie matériaux composites – Été 2026 – actuellement comblé",
+   "url": "https://www.cdcq.qc.ca/wp-content/uploads/2026/04/Offre_stage_TGMC_Ete_2026-V01.pdf",
+   "raison": "exclusion (stage/étudiant/ancien employeur)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CDCQ emplois",
+   "titre": "STAGE POUR ÉTUDIANT.E.S – TCG Technique comptabilité gestion – Été 2026 – actuellement comblé",
+   "url": "https://www.cdcq.qc.ca/wp-content/uploads/2026/04/Offre_stage_TCG_Ete_2026-V01.pdf",
+   "raison": "exclusion (stage/étudiant/ancien employeur)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CDCQ emplois",
+   "titre": "STAGE POUR ÉTUDIANT.E.S – TIM Technique intégration multimédia – Été 2026 – actuellement comblé",
+   "url": "https://www.cdcq.qc.ca/wp-content/uploads/2026/04/Offre_stage_TIM_Ete_2026-V01.pdf",
+   "raison": "exclusion (stage/étudiant/ancien employeur)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CDCQ emplois",
+   "titre": "STAGE POUR ÉTUDIANT.E.S – TGM Technique de génie mécanique – Été 2026 – actuellement comblé",
+   "url": "https://www.cdcq.qc.ca/wp-content/uploads/2026/04/Offre_stage_TGM_Ete_2026-V01-7.pdf",
+   "raison": "exclusion (stage/étudiant/ancien employeur)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CDCQ emplois",
+   "titre": "STAGE POUR ÉTUDIANT.E.S – SN Sciences de la nature – Été 2026 – actuellement comblé",
+   "url": "https://www.cdcq.qc.ca/wp-content/uploads/2026/04/Offre_stage_SN_Ete_2026-V01.pdf",
+   "raison": "exclusion (stage/étudiant/ancien employeur)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CDCQ emplois",
+   "titre": "Cégep de Saint-Jérôme sous la rubrique emploi",
+   "url": "https://www.cstj.qc.ca/listes-des-emplois-disponibles/",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CDCQ emplois",
+   "titre": "Technicien_ne en administration (S2325_TAD_01434)",
+   "url": "https://www.cdcq.qc.ca/wp-content/uploads/2023/10/Technicien-ne-en-administration_oct.2023_S2325_TAD_01434.pdf",
+   "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CDCQ emplois",
+   "titre": "Technicien_ne en administration (S2306_TAD_01268)",
+   "url": "https://www.cdcq.qc.ca/wp-content/uploads/2023/09/Technicien-ne-en-adminstration_sept_23_S2306_TAD_01268-1-1.pdf",
+   "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CDCQ emplois",
+   "titre": "Étudiant en TGMC (temps partiel hiver 2023)",
+   "url": "https://www.cdcq.qc.ca/wp-content/uploads/2023/01/CDCQ_Offre_emploi_etudiants_TGM_TGMC_20230131.pdf",
+   "raison": "exclusion (stage/étudiant/ancien employeur)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CDCQ emplois",
+   "titre": "Étudiant en science de la nature (temps partiel hiver 2023)",
+   "url": "https://www.cdcq.qc.ca/wp-content/uploads/2023/01/CDCQ_Offre_emploi_etudiants_Sc_Nat_20230127.pdf",
+   "raison": "exclusion (stage/étudiant/ancien employeur)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CDCQ emplois",
+   "titre": "Étudiant en TGMC (temps partiel hiver 2023)",
+   "url": "https://www.cdcq.qc.ca/wp-content/uploads/2023/01/CDCQ_Offre_emploi_etudiants_TGMC_20221216.pdf",
+   "raison": "exclusion (stage/étudiant/ancien employeur)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CDCQ emplois",
+   "titre": "Étudiant en science de la nature (temps partiel hiver 2023)",
+   "url": "https://www.cdcq.qc.ca/wp-content/uploads/2023/01/CDCQ_Offre_emploi_etudiants_Sc_Nat_20221216.pdf",
+   "raison": "exclusion (stage/étudiant/ancien employeur)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CDCQ emplois",
+   "titre": "Technicien(ne) en administration, Concours S3921-TAD 01268",
+   "url": "https://www.cdcq.qc.ca/wp-content/uploads/2021/09/S3921-TAD_01268.pdf",
+   "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CDCQ emplois",
+   "titre": "Technicien(ne) en matériaux composites (Concours 41.19-TTP)",
+   "url": "https://www.cstj.qc.ca/wp-content/uploads/2019/08/TTP_CDCQ_S41.19-TTP_ao%C3%BBt2019.pdf",
+   "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CDCQ emplois",
+   "titre": "Technicien(ne) en matériaux composites (Concours 17.19-TTP)",
+   "url": "https://www.cstj.qc.ca/wp-content/uploads/2019/04/TTP_CDCQ_17.19-TTPAtelier_avril_2019.pdf",
+   "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CDCQ emplois",
+   "titre": "Technicien(ne) en matériaux composites (Concours 18.19-TTP)",
+   "url": "https://www.cstj.qc.ca/wp-content/uploads/2019/04/TTP_CDCQ_18.19-TTPlaboratoire_rempl_F_Lapierre_avril_2019.pdf",
+   "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CDCQ emplois",
+   "titre": "Technicien(ne) en matériaux composites (Concours 19.19-TTP)",
+   "url": "https://www.cstj.qc.ca/wp-content/uploads/2019/04/TTP_CDCQ_19.19-TTPlaboratoire_atelier_avril_2019.pdf",
+   "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "CDCQ emplois",
+   "titre": "Technicien(ne) en génie mécanique (Concours 20.19-TTP)",
+   "url": "https://www.cstj.qc.ca/wp-content/uploads/2019/05/TTP_CDCQ_20.19-TTP_avril2019.pdf",
+   "raison": "titre métier/technique",
    "vuLe": "2026-10-19"
   },
   {
@@ -3433,6 +3433,34 @@
    "vuLe": "2026-10-19"
   },
   {
+   "source": "Jobillico économie circulaire",
+   "titre": "Aide-mécanicien",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/umatek/aide-mecanicien/12815779?lshs=b05747e87e36906da5dafc487dfba341cccc7dbd0f9b9c8bfbd329ceff73fa7b&upg=1&lijn=12815779&lijp=29808648&lirk=3&lids=0&lisp=0&liet=2",
+   "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Jobillico économie circulaire",
+   "titre": "Journalier",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/lynx-rh.aVpjSw/journalier/17516742?lshs=b05747e87e36906da5dafc487dfba341cccc7dbd0f9b9c8bfbd329ceff73fa7b&upg=1&lijn=17516742&lijp=29800995&lirk=6&lids=0&lisp=0&liet=2",
+   "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Jobillico économie circulaire",
+   "titre": "Technicien qualité /42H semaine",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/ecofibfxaxnn/technicien-qualite-42h-semaine/12772024?lshs=b05747e87e36906da5dafc487dfba341cccc7dbd0f9b9c8bfbd329ceff73fa7b&upg=1&lijn=12772024&lijp=29842812&lirk=8&lids=0&lisp=0&liet=2",
+   "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Jobillico économie circulaire",
+   "titre": "Boulanger Gauthier Partenaires RH inc.",
+   "url": "https://www.jobillico.com/voir-entreprise/boulanger-gauthier-partenaires-rh-inc?lshs=b05747e87e36906da5dafc487dfba341cccc7dbd0f9b9c8bfbd329ceff73fa7b&upg=1&lijn=17589846&lijp=29795976&lirk=9&lids=0&lisp=0&liet=8",
+   "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
    "source": "Guichet-Emplois économie circulaire Québec",
    "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Electricians (except industrial and power system)",
    "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=72200&sort=M%23results-list-content",
@@ -3538,34 +3566,6 @@
    "vuLe": "2026-10-19"
   },
   {
-   "source": "Jobillico économie circulaire",
-   "titre": "Aide-mécanicien",
-   "url": "https://www.jobillico.com/fr/offre-d-emploi/umatek/aide-mecanicien/12815779?lshs=7e8741c8b4cb86e050b66e71fcc858dcc50fd5cc62e1f1fd03ee752c84213ab8&upg=1&lijn=12815779&lijp=29808648&lirk=3&lids=0&lisp=0&liet=2",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Jobillico économie circulaire",
-   "titre": "Journalier",
-   "url": "https://www.jobillico.com/fr/offre-d-emploi/lynx-rh.aVpjSw/journalier/17516742?lshs=7e8741c8b4cb86e050b66e71fcc858dcc50fd5cc62e1f1fd03ee752c84213ab8&upg=1&lijn=17516742&lijp=29800995&lirk=6&lids=0&lisp=0&liet=2",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Jobillico économie circulaire",
-   "titre": "Technicien qualité /42H semaine",
-   "url": "https://www.jobillico.com/fr/offre-d-emploi/ecofibfxaxnn/technicien-qualite-42h-semaine/12772024?lshs=7e8741c8b4cb86e050b66e71fcc858dcc50fd5cc62e1f1fd03ee752c84213ab8&upg=1&lijn=12772024&lijp=29842812&lirk=8&lids=0&lisp=0&liet=2",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Jobillico économie circulaire",
-   "titre": "Boulanger Gauthier Partenaires RH inc.",
-   "url": "https://www.jobillico.com/voir-entreprise/boulanger-gauthier-partenaires-rh-inc?lshs=7e8741c8b4cb86e050b66e71fcc858dcc50fd5cc62e1f1fd03ee752c84213ab8&upg=1&lijn=17589846&lijp=29795976&lirk=9&lids=0&lisp=0&liet=8",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
    "source": "Eluta conseiller Laurentides",
    "titre": "Internships & Student (53)",
    "url": "https://www.eluta.ca/search?q=conseiller&l=Laurentides%2C+QC",
@@ -3577,34 +3577,6 @@
    "titre": "Internships & Student (44)",
    "url": "https://www.eluta.ca/search?q=analyste&l=Laurentides%2C+QC",
    "raison": "exclusion (stage/étudiant/ancien employeur)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Jobillico conseiller Laurentides",
-   "titre": "Guide carrière",
-   "url": "https://www.jobillico.com/guide-carriere",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Jobillico conseiller Laurentides",
-   "titre": "Afficher les emplois en télétravail",
-   "url": "https://www.jobillico.com/recherche-emploi?skwd=conseiller&scty=&icty=0&ipc=0&flat=0&flng=0&sjdpl=&mfil=40&sdl=&sil=&imc1=1048576&imc2=0",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Jobillico conseiller Laurentides",
-   "titre": "Postuler maintenant",
-   "url": "https://www.jobillico.com/recherche-emploi?skwd=conseiller&scty=Laurentides",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Jobillico conseiller Laurentides",
-   "titre": "Carrières à Québec",
-   "url": "https://www.jobillico.com/fr/employeurs/jobillico-inc/voir-liste-emplois",
-   "raison": "titre sans mot-clé reconnu (Laurentides)",
    "vuLe": "2026-10-19"
   },
   {
@@ -3636,45 +3608,59 @@
    "vuLe": "2026-10-19"
   },
   {
-   "source": "Jobillico coût de revient",
-   "titre": "Journalier-opérateur, déneigement de nuit",
-   "url": "https://www.jobillico.com/fr/offre-d-emploi/ville-de-beaupre-yxskgn/journalier-operateur-deneigement-de-nuit/17547186?lshs=e335bd5dc09ace13ce8f03a2f3c38461101632ce2ea2b38dd56cd6e82c73e1b1&upg=1&lijn=17547186&lijp=29718834&lirk=-2&lids=1&lisp=1&liet=2",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Jobillico coût de revient",
-   "titre": "Commis de cour",
-   "url": "https://www.jobillico.com/fr/offre-d-emploi/transdiff-jdh-peterbilt/commis-de-cour/17586672?lshs=e335bd5dc09ace13ce8f03a2f3c38461101632ce2ea2b38dd56cd6e82c73e1b1&upg=1&lijn=17586672&lijp=29790453&lirk=8&lids=0&lisp=0&liet=2",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Jobillico coût de revient",
-   "titre": "Commis de cour",
-   "url": "https://www.jobillico.com/fr/offre-d-emploi/real-huot-inc.srxztw/commis-de-cour/16802217?lshs=e335bd5dc09ace13ce8f03a2f3c38461101632ce2ea2b38dd56cd6e82c73e1b1&upg=1&lijn=16802217&lijp=29771442&lirk=10&lids=0&lisp=0&liet=2",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Jobillico coût de revient",
-   "titre": "Commis de cour",
-   "url": "https://www.jobillico.com/fr/offre-d-emploi/le-groupe-jld-lague/commis-de-cour/17558487?lshs=e335bd5dc09ace13ce8f03a2f3c38461101632ce2ea2b38dd56cd6e82c73e1b1&upg=1&lijn=17558487&lijp=29737755&lirk=11&lids=0&lisp=0&liet=2",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Jobillico coût de revient",
-   "titre": "Commis de cour",
-   "url": "https://www.jobillico.com/fr/offre-d-emploi/materiaux-audet/commis-de-cour/17472528?lshs=e335bd5dc09ace13ce8f03a2f3c38461101632ce2ea2b38dd56cd6e82c73e1b1&upg=1&lijn=17472528&lijp=29716569&lirk=12&lids=0&lisp=0&liet=2",
-   "raison": "titre métier/technique",
-   "vuLe": "2026-10-19"
-  },
-  {
-   "source": "Laurentides International (carrières)",
-   "titre": "Recrutement de professionnels en exportation",
-   "url": "https://www.laurentidesinternational.com/services/recrutement-de-professionnels-en-exportation",
+   "source": "Jobillico conseiller Laurentides",
+   "titre": "Guide carrière",
+   "url": "https://www.jobillico.com/guide-carriere",
    "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Jobillico conseiller Laurentides",
+   "titre": "Afficher les emplois en télétravail",
+   "url": "https://www.jobillico.com/recherche-emploi?skwd=conseiller&scty=&icty=0&ipc=0&flat=0&flng=0&sjdpl=&mfil=40&sdl=&sil=&imc1=1048576&imc2=0",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Jobillico conseiller Laurentides",
+   "titre": "Postuler maintenant",
+   "url": "https://www.jobillico.com/recherche-emploi?skwd=conseiller&scty=Laurentides",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Jobillico conseiller Laurentides",
+   "titre": "Carrières à Québec",
+   "url": "https://www.jobillico.com/fr/employeurs/jobillico-inc/voir-liste-emplois",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Jobillico coût de revient",
+   "titre": "Commis de cour",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/transdiff-jdh-peterbilt/commis-de-cour/17586672?lshs=96dbd065ad978e12f0a7f3697b393de2fa934f2e6910ef312df9667d1fc26eb4&upg=1&lijn=17586672&lijp=29790453&lirk=8&lids=0&lisp=0&liet=2",
+   "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Jobillico coût de revient",
+   "titre": "Commis de cour",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/real-huot-inc.srxztw/commis-de-cour/16802217?lshs=96dbd065ad978e12f0a7f3697b393de2fa934f2e6910ef312df9667d1fc26eb4&upg=1&lijn=16802217&lijp=29771442&lirk=10&lids=0&lisp=0&liet=2",
+   "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Jobillico coût de revient",
+   "titre": "Commis de cour",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/le-groupe-jld-lague/commis-de-cour/17558487?lshs=96dbd065ad978e12f0a7f3697b393de2fa934f2e6910ef312df9667d1fc26eb4&upg=1&lijn=17558487&lijp=29737755&lirk=11&lids=0&lisp=0&liet=2",
+   "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Jobillico coût de revient",
+   "titre": "Commis de cour",
+   "url": "https://www.jobillico.com/fr/offre-d-emploi/materiaux-audet/commis-de-cour/17472528?lshs=96dbd065ad978e12f0a7f3697b393de2fa934f2e6910ef312df9667d1fc26eb4&upg=1&lijn=17472528&lijp=29716569&lirk=12&lids=0&lisp=0&liet=2",
+   "raison": "titre métier/technique",
    "vuLe": "2026-10-19"
   },
   {
@@ -3780,6 +3766,13 @@
    "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Machine operators and inspectors, electrical apparatus manufacturing",
    "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=94205&sort=M%23results-list-content",
    "raison": "titre métier/technique",
+   "vuLe": "2026-10-19"
+  },
+  {
+   "source": "Laurentides International (carrières)",
+   "titre": "Recrutement de professionnels en exportation",
+   "url": "https://www.laurentidesinternational.com/services/recrutement-de-professionnels-en-exportation",
+   "raison": "titre sans mot-clé reconnu (Laurentides)",
    "vuLe": "2026-10-19"
   },
   {
