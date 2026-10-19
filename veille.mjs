@@ -219,11 +219,20 @@ async function enrich(n) {
         e.emp = e.emp || (o.hiringOrganization && (o.hiringOrganization.name || o.hiringOrganization)) || undefined;
         const loc = [].concat(o.jobLocation || [])[0]; const a = loc && loc.address; if (a) e.lieu = e.lieu || [a.addressLocality, a.addressRegion].filter(Boolean).join(', ');
         const bs = o.baseSalary && o.baseSalary.value; if (bs) e.sal = e.sal || [bs.minValue, bs.maxValue, bs.value].filter(x => x !== undefined && typeof x !== 'object').join('–') + ' ' + (bs.unitText || '');
-        e.echeance = e.echeance || o.validThrough; e.titreOffre = e.titreOffre || o.title;
+        e.echeance = e.echeance || o.validThrough; e.titreOffre = e.titreOffre || o.title; e._jlt = e._jlt || o.jobLocationType;
         if (o.description) e.apercu = e.apercu || cheerio.load('<div>' + o.description + '</div>')('div').text().replace(/\s+/g, ' ').trim().slice(0, 350);
       } } catch {} });
     if (!e.apercu) { const d = $('meta[property="og:description"]').attr('content') || $('meta[name="description"]').attr('content'); if (d) e.apercu = d.replace(/\s+/g, ' ').trim().slice(0, 350); }
     const body = $('body').text().replace(/\s+/g, ' ');
+    { // Télétravail: classement par texte intégral de l'offre (sans jetons)
+      const hay = ((e.apercu || '') + ' ' + body).slice(0, 80000);
+      const full = /(100\s?%\s*(en\s*)?(t[ée]l[ée]travail|remote|[àa] distance)|t[ée]l[ée]travail\s*(complet|total|int[ée]gral|à 100)|enti[èe]rement\s*(en\s*)?(t[ée]l[ée]travail|[àa] distance|virtuel)|(fully|completely|entirely)\s*remote|100\s?%\s*remote|remote\s*(position|role)|poste\s*(en\s*)?(t[ée]l[ée]travail|[àa] distance))/i;
+      const hyb = /(hybride|hybrid|\d\s*jours?\s*(par\s*semaine\s*)?(au bureau|en pr[ée]sentiel|sur place)|(au bureau|sur place)\s*\d\s*jours?|t[ée]l[ée]travail\s*(partiel|occasionnel|flexible|possible|\d)|pr[ée]sence\s*(au bureau\s*)?(requise|obligatoire))/i;
+      const any = /(t[ée]l[ée]travail|remote|[àa] distance|work from home|travail [àa] domicile)/i;
+      const f = full.test(hay), h = hyb.test(hay), t = e._jlt === 'TELECOMMUTE';
+      e.tele = (t && !h) ? 'complet' : (f && h) ? 'incertain' : h ? 'hybride' : f ? 'complet' : any.test(hay) ? 'incertain' : 'aucune';
+      delete e._jlt;
+    }
     if (!e.sal) { const m = body.match(/\d{2,3}[  ]?\d{3}\s*\$?\s*(?:à|-|–)\s*\d{2,3}[  ]?\d{3}\s*\$|\d{2,3}[,.]\d{2}\s*\$?\s*(?:à|-|–)\s*\d{2,3}[,.]\d{2}\s*\$|salaire[^.]{0,80}\d[^.]{0,60}\$/i); if (m) e.sal = m[0].slice(0, 90); }
     if (!e.echeance) { const m = body.match(/(?:date limite|fin d.affichage|jusqu.au|closing date|date de cl[ôo]ture)[^.]{0,60}/i); if (m) e.echeance = m[0].slice(0, 80); }
     if (!e.apercu) e.apercu = body.slice(0, 250);
