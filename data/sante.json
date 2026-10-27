@@ -1,9 +1,9 @@
 {
- "date": "2026-10-26",
+ "date": "2026-10-27",
  "statuts": {
-  "ok": 95,
+  "ok": 96,
   "aucun poste": 38,
-  "vide": 15,
+  "vide": 14,
   "echec": 3
  },
  "sources": {
@@ -11,18 +11,9 @@
    "type": "S",
    "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=commissaire&locationstring=Laurentides%2C+QC&sort=D",
    "method": "fetch",
-   "liensLus": 90,
-   "retenus": 6,
-   "nouveaux": 0,
-   "status": "ok"
-  },
-  "Guichet-Emplois développement économique Montréal": {
-   "type": "S",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Montr%C3%A9al%2C+QC&sort=D",
-   "method": "fetch",
-   "liensLus": 147,
-   "retenus": 14,
-   "nouveaux": 3,
+   "liensLus": 86,
+   "retenus": 5,
+   "nouveaux": 2,
    "status": "ok"
   },
   "Guichet-Emplois développement économique Laurentides": {
@@ -30,7 +21,16 @@
    "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Laurentides%2C+QC&sort=D",
    "method": "fetch",
    "liensLus": 147,
-   "retenus": 15,
+   "retenus": 14,
+   "nouveaux": 1,
+   "status": "ok"
+  },
+  "Guichet-Emplois développement économique Montréal": {
+   "type": "S",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=d%C3%A9veloppement+%C3%A9conomique&locationstring=Montr%C3%A9al%2C+QC&sort=D",
+   "method": "fetch",
+   "liensLus": 147,
+   "retenus": 13,
    "nouveaux": 0,
    "status": "ok"
   },
@@ -39,8 +39,17 @@
    "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller&locationstring=Laurentides%2C+QC&sort=D",
    "method": "fetch",
    "liensLus": 147,
-   "retenus": 21,
-   "nouveaux": 19,
+   "retenus": 24,
+   "nouveaux": 24,
+   "status": "ok"
+  },
+  "Guichet-Emplois chargé de projet Laurentides": {
+   "type": "S",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=charg%C3%A9+de+projet&locationstring=Laurentides%2C+QC&sort=D",
+   "method": "fetch",
+   "liensLus": 147,
+   "retenus": 22,
+   "nouveaux": 2,
    "status": "ok"
   },
   "Guichet-Emplois agroalimentaire Québec": {
@@ -49,15 +58,6 @@
    "method": "fetch",
    "liensLus": 66,
    "retenus": 5,
-   "nouveaux": 0,
-   "status": "ok"
-  },
-  "Guichet-Emplois chargé de projet Laurentides": {
-   "type": "S",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=charg%C3%A9+de+projet&locationstring=Laurentides%2C+QC&sort=D",
-   "method": "fetch",
-   "liensLus": 154,
-   "retenus": 22,
    "nouveaux": 0,
    "status": "ok"
   },
@@ -70,31 +70,31 @@
    "nouveaux": 0,
    "status": "aucun poste"
   },
-  "Eluta développement économique Laurentides": {
+  "Jobillico développement économique Laurentides": {
    "type": "S",
-   "url": "https://www.eluta.ca/search?q=d%C3%A9veloppement+%C3%A9conomique&l=Laurentides%2C+QC",
+   "url": "https://www.jobillico.com/recherche-emploi?skwd=d%C3%A9veloppement+%C3%A9conomique&scty=Laurentides",
    "method": "fetch",
-   "liensLus": 75,
-   "retenus": 8,
-   "nouveaux": 0,
+   "liensLus": 139,
+   "retenus": 12,
+   "nouveaux": 12,
    "status": "ok"
   },
   "Jobillico commissaire": {
    "type": "S",
    "url": "https://www.jobillico.com/recherche-emploi?skwd=commissaire&scty=Qu%C3%A9bec",
    "method": "fetch",
-   "liensLus": 95,
-   "retenus": 4,
-   "nouveaux": 3,
+   "liensLus": 92,
+   "retenus": 2,
+   "nouveaux": 2,
    "status": "ok"
   },
-  "Jobillico développement économique Laurentides": {
+  "Eluta développement économique Laurentides": {
    "type": "S",
-   "url": "https://www.jobillico.com/recherche-emploi?skwd=d%C3%A9veloppement+%C3%A9conomique&scty=Laurentides",
+   "url": "https://www.eluta.ca/search?q=d%C3%A9veloppement+%C3%A9conomique&l=Laurentides%2C+QC",
    "method": "fetch",
-   "liensLus": 132,
-   "retenus": 12,
-   "nouveaux": 11,
+   "liensLus": 74,
+   "retenus": 8,
+   "nouveaux": 1,
    "status": "ok"
   },
   "Isarta emplois": {
@@ -124,20 +124,20 @@
    "nouveaux": 0,
    "status": "ok"
   },
+  "Talent.com développement économique Laurentides": {
+   "type": "S",
+   "url": "https://ca.talent.com/jobs?k=d%C3%A9veloppement+%C3%A9conomique&l=Laurentides%2C+QC",
+   "method": "navigateur",
+   "liensLus": 32,
+   "retenus": 0,
+   "nouveaux": 0,
+   "status": "aucun poste"
+  },
   "SimplyHired développement économique": {
    "type": "S",
    "url": "https://www.simplyhired.ca/search?q=d%C3%A9veloppement+%C3%A9conomique&l=Laurentides%2C+QC",
    "method": "navigateur",
    "liensLus": 2,
-   "retenus": 0,
-   "nouveaux": 0,
-   "status": "aucun poste"
-  },
-  "Talent.com développement économique Laurentides": {
-   "type": "S",
-   "url": "https://ca.talent.com/jobs?k=d%C3%A9veloppement+%C3%A9conomique&l=Laurentides%2C+QC",
-   "method": "navigateur",
-   "liensLus": 31,
    "retenus": 0,
    "nouveaux": 0,
    "status": "aucun poste"
@@ -148,14 +148,14 @@
    "method": "fetch",
    "liensLus": 278,
    "retenus": 31,
-   "nouveaux": 0,
+   "nouveaux": 9,
    "status": "ok"
   },
   "Talent.com commissaire Montréal": {
    "type": "S",
    "url": "https://ca.talent.com/jobs?k=commissaire+d%C3%A9veloppement+%C3%A9conomique&l=Montr%C3%A9al%2C+QC",
    "method": "navigateur",
-   "liensLus": 33,
+   "liensLus": 34,
    "retenus": 0,
    "nouveaux": 0,
    "status": "aucun poste"
@@ -168,32 +168,6 @@
    "retenus": 0,
    "nouveaux": 0,
    "status": "aucun poste"
-  },
-  "Chantier de l'économie sociale": {
-   "type": "D",
-   "url": "https://chantier.qc.ca",
-   "decouverts": [
-    "https://chantier.qc.ca/decouvrez-leconomie-sociale/offres-demploi/"
-   ],
-   "method": "fetch",
-   "liensLus": 110,
-   "retenus": 9,
-   "nouveaux": 0,
-   "status": "ok"
-  },
-  "APDEQ": {
-   "type": "D",
-   "url": "https://apdeq.qc.ca",
-   "decouverts": [
-    "https://apdeq.qc.ca/offres-demploi-en-developpement-economique/",
-    "https://zone.apdeq.qc.ca/civicrm/contribute/transact?reset=1&id=13",
-    "https://apdeq.qc.ca/service-daffichage-et-de-diffusion-doffres-demploi-3/"
-   ],
-   "method": "fetch",
-   "liensLus": 329,
-   "retenus": 8,
-   "nouveaux": 0,
-   "status": "ok"
   },
   "FQM": {
    "type": "D",
@@ -208,14 +182,31 @@
    "nouveaux": 0,
    "status": "ok"
   },
-  "Québec municipal emplois": {
-   "type": "P",
-   "url": "https://www.quebecmunicipal.qc.ca/emplois/",
-   "method": "navigateur",
-   "liensLus": 37,
-   "retenus": 0,
+  "APDEQ": {
+   "type": "D",
+   "url": "https://apdeq.qc.ca",
+   "decouverts": [
+    "https://apdeq.qc.ca/offres-demploi-en-developpement-economique/",
+    "https://zone.apdeq.qc.ca/civicrm/contribute/transact?reset=1&id=13",
+    "https://apdeq.qc.ca/service-daffichage-et-de-diffusion-doffres-demploi-3/"
+   ],
+   "method": "fetch",
+   "liensLus": 333,
+   "retenus": 9,
+   "nouveaux": 1,
+   "status": "ok"
+  },
+  "Chantier de l'économie sociale": {
+   "type": "D",
+   "url": "https://chantier.qc.ca",
+   "decouverts": [
+    "https://chantier.qc.ca/decouvrez-leconomie-sociale/offres-demploi/"
+   ],
+   "method": "fetch",
+   "liensLus": 110,
+   "retenus": 9,
    "nouveaux": 0,
-   "status": "aucun poste"
+   "status": "ok"
   },
   "Emploi Cégep": {
    "type": "D",
@@ -230,6 +221,15 @@
    "retenus": 8,
    "nouveaux": 0,
    "status": "ok"
+  },
+  "Québec municipal emplois": {
+   "type": "P",
+   "url": "https://www.quebecmunicipal.qc.ca/emplois/",
+   "method": "navigateur",
+   "liensLus": 37,
+   "retenus": 0,
+   "nouveaux": 0,
+   "status": "aucun poste"
   },
   "Investissement Québec carrières": {
    "type": "P",
@@ -282,26 +282,21 @@
    "status": "vide",
    "reprise": true
   },
-  "Carrières gouvernement du Québec": {
-   "type": "D",
-   "url": "https://www.carrieres.gouv.qc.ca",
-   "decouverts": [
-    "https://www.quebec.ca/gouvernement/travailler-gouvernement",
-    "https://emplois.carrieres.gouv.qc.ca/plateforme-emploi",
-    "https://www.quebec.ca/gouvernement/travailler-gouvernement/emplois-fonction-publique/emplois-etudiants-stages"
-   ],
-   "method": "fetch+navigateur",
-   "liensLus": 157,
-   "retenus": 0,
-   "nouveaux": 0,
-   "status": "aucun poste"
-  },
   "Groupe AGECO carrières": {
    "type": "P",
    "url": "https://ageco.ca/carrieres/",
    "method": "fetch",
    "liensLus": 46,
    "retenus": 7,
+   "nouveaux": 0,
+   "status": "ok"
+  },
+  "La Tablée des Chefs carrières": {
+   "type": "P",
+   "url": "https://www.tableedeschefs.org/fr/carrieres",
+   "method": "fetch",
+   "liensLus": 71,
+   "retenus": 1,
    "nouveaux": 0,
    "status": "ok"
   },
@@ -314,15 +309,6 @@
    "nouveaux": 0,
    "status": "aucun poste"
   },
-  "La Tablée des Chefs carrières": {
-   "type": "P",
-   "url": "https://www.tableedeschefs.org/fr/carrieres",
-   "method": "fetch",
-   "liensLus": 72,
-   "retenus": 1,
-   "nouveaux": 0,
-   "status": "ok"
-  },
   "La cantine pour tous": {
    "type": "D",
    "url": "https://lacantinepourtous.org",
@@ -331,6 +317,20 @@
    ],
    "method": "fetch",
    "liensLus": 84,
+   "retenus": 0,
+   "nouveaux": 0,
+   "status": "aucun poste"
+  },
+  "Montréal International": {
+   "type": "D",
+   "url": "https://www.montrealinternational.com",
+   "decouverts": [
+    "https://www.montrealinternational.com/fr/recruter/talents-internationaux-qualifies/",
+    "https://www.montrealinternational.com/fr/recruter/limmigration-decodee/",
+    "https://www.montrealinternational.com/fr/travailler/"
+   ],
+   "method": "fetch",
+   "liensLus": 178,
    "retenus": 0,
    "nouveaux": 0,
    "status": "aucun poste"
@@ -373,20 +373,6 @@
    "nouveaux": 0,
    "status": "ok"
   },
-  "Montréal International": {
-   "type": "D",
-   "url": "https://www.montrealinternational.com",
-   "decouverts": [
-    "https://www.montrealinternational.com/fr/recruter/talents-internationaux-qualifies/",
-    "https://www.montrealinternational.com/fr/recruter/limmigration-decodee/",
-    "https://www.montrealinternational.com/fr/travailler/"
-   ],
-   "method": "fetch",
-   "liensLus": 178,
-   "retenus": 0,
-   "nouveaux": 0,
-   "status": "aucun poste"
-  },
   "FCEI": {
    "type": "D",
    "url": "https://www.cfib-fcei.ca",
@@ -403,9 +389,9 @@
    "type": "W",
    "url": "upa;wd10;Externe",
    "method": "api Workday",
-   "liensLus": 4,
-   "retenus": 3,
-   "nouveaux": 1,
+   "liensLus": 3,
+   "retenus": 2,
+   "nouveaux": 0,
    "status": "ok"
   },
   "Conseil de la transformation alimentaire du Québec": {
@@ -415,15 +401,6 @@
    "status": "vide",
    "note": "aucune page carrières/emploi trouvée sur la page d'accueil (fetch)",
    "reprise": true
-  },
-  "Connexion Laurentides offres d'emploi": {
-   "type": "P",
-   "url": "https://www.connexionlaurentides.com/offres-demploi/",
-   "method": "fetch",
-   "liensLus": 223,
-   "retenus": 5,
-   "nouveaux": 0,
-   "status": "ok"
   },
   "UPA travailler à l'UPA": {
    "type": "P",
@@ -448,18 +425,6 @@
    "nouveaux": 0,
    "status": "ok"
   },
-  "BDC": {
-   "type": "D",
-   "url": "https://www.bdc.ca",
-   "decouverts": [
-    "https://www.bdc.ca/en/careers"
-   ],
-   "method": "fetch",
-   "liensLus": 199,
-   "retenus": 2,
-   "nouveaux": 0,
-   "status": "ok"
-  },
   "APMQ (Mangez Québec)": {
    "type": "D",
    "url": "https://www.mangezquebec.com",
@@ -467,6 +432,27 @@
    "status": "vide",
    "note": "aucune page carrières/emploi trouvée sur la page d'accueil (fetch)",
    "reprise": true
+  },
+  "BDC": {
+   "type": "D",
+   "url": "https://www.bdc.ca",
+   "decouverts": [
+    "https://www.bdc.ca/en/careers"
+   ],
+   "method": "fetch",
+   "liensLus": 197,
+   "retenus": 2,
+   "nouveaux": 0,
+   "status": "ok"
+  },
+  "Connexion Laurentides offres d'emploi": {
+   "type": "P",
+   "url": "https://www.connexionlaurentides.com/offres-demploi/",
+   "method": "fetch",
+   "liensLus": 223,
+   "retenus": 5,
+   "nouveaux": 0,
+   "status": "ok"
   },
   "FAC carrières": {
    "type": "P",
@@ -476,15 +462,6 @@
    "retenus": 0,
    "nouveaux": 0,
    "status": "aucun poste"
-  },
-  "Fonds de solidarité FTQ carrières": {
-   "type": "P",
-   "url": "https://www.fondsftq.com/fr-ca/carrieres",
-   "method": "fetch",
-   "liensLus": 526,
-   "retenus": 2,
-   "nouveaux": 0,
-   "status": "ok"
   },
   "Banque Nationale": {
    "type": "D",
@@ -500,16 +477,26 @@
    "nouveaux": 0,
    "status": "ok"
   },
-  "Sollio Groupe Coopératif": {
+  "BMO": {
    "type": "D",
-   "url": "https://sollio.coop",
+   "url": "https://jobs.bmo.com",
    "decouverts": [
-    "https://sollio.coop/fr/carrieres",
-    "https://carrieres.sollio.coop/"
+    "https://jobs.bmo.com/us/en/home",
+    "https://jobs.bmo.com/us/en/search-results",
+    "https://jobs.bmo.com/us/en/campus"
    ],
+   "method": "fetch+navigateur",
+   "liensLus": 103,
+   "retenus": 13,
+   "nouveaux": 4,
+   "status": "ok"
+  },
+  "Fonds de solidarité FTQ carrières": {
+   "type": "P",
+   "url": "https://www.fondsftq.com/fr-ca/carrieres",
    "method": "fetch",
-   "liensLus": 105,
-   "retenus": 9,
+   "liensLus": 526,
+   "retenus": 2,
    "nouveaux": 0,
    "status": "ok"
   },
@@ -521,18 +508,6 @@
    ],
    "method": "fetch",
    "liensLus": 207,
-   "retenus": 0,
-   "nouveaux": 0,
-   "status": "aucun poste"
-  },
-  "CDPQ": {
-   "type": "D",
-   "url": "https://www.cdpq.com",
-   "decouverts": [
-    "https://www.lacaisse.com/fr/carrieres"
-   ],
-   "method": "fetch",
-   "liensLus": 154,
    "retenus": 0,
    "nouveaux": 0,
    "status": "aucun poste"
@@ -551,6 +526,18 @@
    "nouveaux": 0,
    "status": "ok"
   },
+  "CDPQ": {
+   "type": "D",
+   "url": "https://www.cdpq.com",
+   "decouverts": [
+    "https://www.lacaisse.com/fr/carrieres"
+   ],
+   "method": "fetch",
+   "liensLus": 154,
+   "retenus": 0,
+   "nouveaux": 0,
+   "status": "aucun poste"
+  },
   "Fondaction carrières": {
    "type": "P",
    "url": "https://www.fondaction.com/a-propos/carrieres/",
@@ -560,18 +547,17 @@
    "nouveaux": 0,
    "status": "aucun poste"
   },
-  "BMO": {
+  "Sollio Groupe Coopératif": {
    "type": "D",
-   "url": "https://jobs.bmo.com",
+   "url": "https://sollio.coop",
    "decouverts": [
-    "https://jobs.bmo.com/us/en/home",
-    "https://jobs.bmo.com/us/en/search-results",
-    "https://jobs.bmo.com/us/en/campus"
+    "https://sollio.coop/fr/carrieres",
+    "https://carrieres.sollio.coop/"
    ],
-   "method": "fetch+navigateur",
-   "liensLus": 103,
-   "retenus": 13,
-   "nouveaux": 2,
+   "method": "fetch",
+   "liensLus": 105,
+   "retenus": 9,
+   "nouveaux": 0,
    "status": "ok"
   },
   "Commerce Solidaire offres d'emploi": {
@@ -579,15 +565,6 @@
    "url": "https://commercesolidaire.com/offre-demploi/",
    "method": "fetch",
    "liensLus": 27,
-   "retenus": 0,
-   "nouveaux": 0,
-   "status": "aucun poste"
-  },
-  "Équiterre emplois": {
-   "type": "P",
-   "url": "https://www.equiterre.org/fr/emplois",
-   "method": "navigateur",
-   "liensLus": 1,
    "retenus": 0,
    "nouveaux": 0,
    "status": "aucun poste"
@@ -601,6 +578,29 @@
    "nouveaux": 0,
    "status": "aucun poste"
   },
+  "Équiterre emplois": {
+   "type": "P",
+   "url": "https://www.equiterre.org/fr/emplois",
+   "method": "navigateur",
+   "liensLus": 1,
+   "retenus": 0,
+   "nouveaux": 0,
+   "status": "aucun poste"
+  },
+  "Carrières gouvernement du Québec": {
+   "type": "D",
+   "url": "https://www.carrieres.gouv.qc.ca",
+   "decouverts": [
+    "https://www.quebec.ca/gouvernement/travailler-gouvernement",
+    "https://emplois.carrieres.gouv.qc.ca/plateforme-emploi",
+    "https://www.quebec.ca/gouvernement/travailler-gouvernement/emplois-fonction-publique/emplois-etudiants-stages"
+   ],
+   "method": "fetch+navigateur",
+   "liensLus": 157,
+   "retenus": 0,
+   "nouveaux": 0,
+   "status": "aucun poste"
+  },
   "CDRQ (carrières)": {
    "type": "P",
    "url": "https://cdrq.coop/la-cdrq/carrieres/",
@@ -609,14 +609,6 @@
    "retenus": 1,
    "nouveaux": 0,
    "status": "ok"
-  },
-  "CDROL (Outaouais-Laurentides)": {
-   "type": "D",
-   "url": "https://cdrol.coop",
-   "decouverts": [],
-   "status": "vide",
-   "note": "aucune page carrières/emploi trouvée sur la page d'accueil (fetch)",
-   "reprise": true
   },
   "Vivre en Ville travailler avec nous": {
    "type": "P",
@@ -640,6 +632,23 @@
    "nouveaux": 0,
    "status": "ok"
   },
+  "Lanaudière Économique emplois": {
+   "type": "P",
+   "url": "https://lanaudiere-economique.org/a-propos/emplois/",
+   "method": "fetch",
+   "liensLus": 120,
+   "retenus": 2,
+   "nouveaux": 0,
+   "status": "ok"
+  },
+  "CDROL (Outaouais-Laurentides)": {
+   "type": "D",
+   "url": "https://cdrol.coop",
+   "decouverts": [],
+   "status": "vide",
+   "note": "aucune page carrières/emploi trouvée sur la page d'accueil (fetch)",
+   "reprise": true
+  },
   "Laval Économique": {
    "type": "D",
    "url": "https://lavaleconomique.com",
@@ -653,15 +662,6 @@
    "nouveaux": 0,
    "status": "ok"
   },
-  "Lanaudière Économique emplois": {
-   "type": "P",
-   "url": "https://lanaudiere-economique.org/a-propos/emplois/",
-   "method": "fetch",
-   "liensLus": 120,
-   "retenus": 2,
-   "nouveaux": 0,
-   "status": "ok"
-  },
   "Groupe Scandinave": {
    "type": "D",
    "url": "https://www.scandinave.com",
@@ -669,7 +669,7 @@
     "https://www.scandinave.com/careers/"
    ],
    "method": "fetch",
-   "liensLus": 56,
+   "liensLus": 55,
    "retenus": 0,
    "nouveaux": 0,
    "status": "aucun poste"
@@ -696,18 +696,6 @@
    "nouveaux": 0,
    "status": "aucun poste"
   },
-  "MRC Antoine-Labelle": {
-   "type": "D",
-   "url": "https://www.mrc-antoine-labelle.qc.ca",
-   "decouverts": [
-    "https://www.mrcal.ca/emplois"
-   ],
-   "method": "fetch",
-   "liensLus": 207,
-   "retenus": 6,
-   "nouveaux": 0,
-   "status": "ok"
-  },
   "MRC d'Argenteuil": {
    "type": "D",
    "url": "https://www.argenteuil.qc.ca",
@@ -723,6 +711,18 @@
    "nouveaux": 0,
    "status": "ok"
   },
+  "MRC Antoine-Labelle": {
+   "type": "D",
+   "url": "https://www.mrc-antoine-labelle.qc.ca",
+   "decouverts": [
+    "https://www.mrcal.ca/emplois"
+   ],
+   "method": "fetch",
+   "liensLus": 207,
+   "retenus": 6,
+   "nouveaux": 0,
+   "status": "ok"
+  },
   "MRC de la Rivière-du-Nord": {
    "type": "D",
    "url": "https://mrcrdn.qc.ca",
@@ -735,15 +735,17 @@
    "nouveaux": 0,
    "status": "ok"
   },
-  "MRC de Deux-Montagnes": {
+  "MRC des Pays-d'en-Haut": {
    "type": "D",
-   "url": "https://www.mrc2m.qc.ca",
+   "url": "https://www.mrcpdh.org",
    "decouverts": [
-    "https://mrc2m.qc.ca/emplois"
+    "https://lespaysdenhaut.com/la-mrc/emplois/",
+    "https://lespaysdenhaut.com/un-nouvel-espace-de-reemploi-voit-le-jour-a-lecocentre-de-wentworth-nord/",
+    "https://lespaysdenhaut.com/offre-demploi-technicienne-en-maintenance-des-equipements/"
    ],
    "method": "fetch",
-   "liensLus": 99,
-   "retenus": 4,
+   "liensLus": 636,
+   "retenus": 5,
    "nouveaux": 0,
    "status": "ok"
   },
@@ -759,17 +761,15 @@
    "nouveaux": 0,
    "status": "aucun poste"
   },
-  "MRC des Pays-d'en-Haut": {
+  "MRC de Deux-Montagnes": {
    "type": "D",
-   "url": "https://www.mrcpdh.org",
+   "url": "https://www.mrc2m.qc.ca",
    "decouverts": [
-    "https://lespaysdenhaut.com/la-mrc/emplois/",
-    "https://lespaysdenhaut.com/un-nouvel-espace-de-reemploi-voit-le-jour-a-lecocentre-de-wentworth-nord/",
-    "https://lespaysdenhaut.com/offre-demploi-technicienne-en-maintenance-des-equipements/"
+    "https://mrc2m.qc.ca/emplois"
    ],
    "method": "fetch",
-   "liensLus": 636,
-   "retenus": 5,
+   "liensLus": 99,
+   "retenus": 4,
    "nouveaux": 0,
    "status": "ok"
   },
@@ -790,10 +790,12 @@
    "type": "D",
    "url": "https://www.vsj.ca",
    "decouverts": [
-    "https://www.vsj.ca/emplois/"
+    "https://www.vsj.ca/emplois/",
+    "https://www.vsj.ca/salon-emploi/",
+    "https://www.vsj.ca/actualites/salon-emploi-2027-appel-aux-exposants/"
    ],
    "method": "fetch",
-   "liensLus": 236,
+   "liensLus": 697,
    "retenus": 5,
    "nouveaux": 0,
    "status": "ok"
@@ -819,24 +821,6 @@
    "nouveaux": 0,
    "status": "ok"
   },
-  "Ville de Bois-des-Filion carrières": {
-   "type": "P",
-   "url": "https://villebdf.ca/carriere",
-   "method": "fetch",
-   "liensLus": 220,
-   "retenus": 4,
-   "nouveaux": 0,
-   "status": "ok"
-  },
-  "Ville de Blainville travailler": {
-   "type": "P",
-   "url": "https://blainville.ca/ville/administration-municipale/travailler-a-blainville",
-   "method": "fetch",
-   "liensLus": 210,
-   "retenus": 3,
-   "nouveaux": 0,
-   "status": "ok"
-  },
   "Ville de Boisbriand": {
    "type": "D",
    "url": "https://www.ville.boisbriand.qc.ca",
@@ -846,6 +830,15 @@
    "method": "fetch",
    "liensLus": 31,
    "retenus": 8,
+   "nouveaux": 0,
+   "status": "ok"
+  },
+  "Ville de Bois-des-Filion carrières": {
+   "type": "P",
+   "url": "https://villebdf.ca/carriere",
+   "method": "fetch",
+   "liensLus": 220,
+   "retenus": 4,
    "nouveaux": 0,
    "status": "ok"
   },
@@ -861,6 +854,15 @@
    "nouveaux": 0,
    "status": "ok"
   },
+  "Ville de Blainville travailler": {
+   "type": "P",
+   "url": "https://blainville.ca/ville/administration-municipale/travailler-a-blainville",
+   "method": "fetch",
+   "liensLus": 210,
+   "retenus": 3,
+   "nouveaux": 0,
+   "status": "ok"
+  },
   "Ville de Sainte-Thérèse": {
    "type": "D",
    "url": "https://www.sainte-therese.ca",
@@ -869,7 +871,7 @@
     "https://www.sainte-therese.ca/recherche-par-mot?q=Offres%20d%27emploi"
    ],
    "method": "fetch",
-   "liensLus": 468,
+   "liensLus": 464,
    "retenus": 1,
    "nouveaux": 0,
    "status": "ok"
@@ -890,7 +892,7 @@
    "type": "D",
    "url": "https://ville.sainte-agathe-des-monts.qc.ca",
    "status": "echec",
-   "erreur": "fetch: fetch failed | navigateur: page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://ville.sainte-agathe-des-monts.qc.ca/",
+   "erreur": "fetch: fetch failed | navigateur: page.goto: net::ERR_TIMED_OUT at https://ville.sainte-agathe-des-monts.qc.ca/",
    "reprise": true
   },
   "Municipalité de Piedmont": {
@@ -912,8 +914,20 @@
     "https://lachute.ca/offres-demploi/"
    ],
    "method": "fetch",
-   "liensLus": 267,
-   "retenus": 8,
+   "liensLus": 268,
+   "retenus": 9,
+   "nouveaux": 1,
+   "status": "ok"
+  },
+  "Municipalité de Morin-Heights": {
+   "type": "D",
+   "url": "https://www.morinheights.com",
+   "decouverts": [
+    "https://www.morinheights.com/Offres-d-emploi"
+   ],
+   "method": "fetch",
+   "liensLus": 98,
+   "retenus": 2,
    "nouveaux": 0,
    "status": "ok"
   },
@@ -929,14 +943,6 @@
    "nouveaux": 0,
    "status": "aucun poste"
   },
-  "Municipalité de Morin-Heights": {
-   "type": "D",
-   "url": "https://www.morinheights.com",
-   "decouverts": [],
-   "status": "vide",
-   "note": "aucune page carrières/emploi trouvée sur la page d'accueil (fetch)",
-   "reprise": true
-  },
   "Sainte-Anne-des-Lacs": {
    "type": "D",
    "url": "https://www.sadl.qc.ca",
@@ -945,18 +951,6 @@
    ],
    "method": "fetch",
    "liensLus": 184,
-   "retenus": 3,
-   "nouveaux": 0,
-   "status": "ok"
-  },
-  "Ville de Prévost": {
-   "type": "D",
-   "url": "https://www.ville.prevost.qc.ca",
-   "decouverts": [
-    "https://www.ville.prevost.qc.ca/emplois"
-   ],
-   "method": "fetch",
-   "liensLus": 213,
    "retenus": 3,
    "nouveaux": 0,
    "status": "ok"
@@ -970,6 +964,15 @@
    "nouveaux": 0,
    "status": "ok"
   },
+  "Sainte-Marguerite-du-Lac-Masson emplois": {
+   "type": "P",
+   "url": "https://lacmasson.com/ma-ville/emplois",
+   "method": "fetch",
+   "liensLus": 184,
+   "retenus": 7,
+   "nouveaux": 1,
+   "status": "ok"
+  },
   "Sainte-Sophie emplois": {
    "type": "P",
    "url": "https://www.stesophie.ca/emplois",
@@ -979,12 +982,15 @@
    "nouveaux": 0,
    "status": "ok"
   },
-  "Sainte-Marguerite-du-Lac-Masson emplois": {
-   "type": "P",
-   "url": "https://lacmasson.com/ma-ville/emplois",
+  "Ville de Prévost": {
+   "type": "D",
+   "url": "https://www.ville.prevost.qc.ca",
+   "decouverts": [
+    "https://www.ville.prevost.qc.ca/emplois"
+   ],
    "method": "fetch",
-   "liensLus": 184,
-   "retenus": 7,
+   "liensLus": 213,
+   "retenus": 3,
    "nouveaux": 0,
    "status": "ok"
   },
@@ -1042,22 +1048,8 @@
     "https://municipalite.labelle.qc.ca/emplois"
    ],
    "method": "fetch",
-   "liensLus": 162,
+   "liensLus": 160,
    "retenus": 3,
-   "nouveaux": 0,
-   "status": "ok"
-  },
-  "Municipalité d'Oka": {
-   "type": "D",
-   "url": "https://www.municipalite.oka.qc.ca",
-   "decouverts": [
-    "https://municipalite.oka.qc.ca/emplois/",
-    "https://municipalite.oka.qc.ca/",
-    "https://municipalite.oka.qc.ca/mairie/carriere/"
-   ],
-   "method": "fetch",
-   "liensLus": 773,
-   "retenus": 7,
    "nouveaux": 0,
    "status": "ok"
   },
@@ -1073,6 +1065,20 @@
    "liensLus": 431,
    "retenus": 3,
    "nouveaux": 0,
+   "status": "ok"
+  },
+  "Municipalité d'Oka": {
+   "type": "D",
+   "url": "https://www.municipalite.oka.qc.ca",
+   "decouverts": [
+    "https://municipalite.oka.qc.ca/emplois/",
+    "https://municipalite.oka.qc.ca/?doing_wp_cron=1793089799.5861449241638183593750",
+    "https://municipalite.oka.qc.ca/mairie/carriere/"
+   ],
+   "method": "fetch",
+   "liensLus": 773,
+   "retenus": 7,
+   "nouveaux": 2,
    "status": "ok"
   },
   "CAE Rive-Nord (SADC-CAE)": {
@@ -1095,15 +1101,6 @@
    "note": "aucune page carrières/emploi trouvée sur la page d'accueil (fetch)",
    "reprise": true
   },
-  "SADC Antoine-Labelle emplois": {
-   "type": "P",
-   "url": "https://www.sadcal.com/emplois/",
-   "method": "fetch",
-   "liensLus": 28,
-   "retenus": 5,
-   "nouveaux": 0,
-   "status": "ok"
-  },
   "Tourisme Laurentides": {
    "type": "P",
    "url": "https://www.laurentides.com/a-propos/",
@@ -1112,6 +1109,15 @@
    "retenus": 0,
    "nouveaux": 0,
    "status": "aucun poste"
+  },
+  "SADC Antoine-Labelle emplois": {
+   "type": "P",
+   "url": "https://www.sadcal.com/emplois/",
+   "method": "fetch",
+   "liensLus": 28,
+   "retenus": 5,
+   "nouveaux": 0,
+   "status": "ok"
   },
   "Station Mont Tremblant": {
    "type": "D",
@@ -1134,12 +1140,12 @@
    "nouveaux": 0,
    "status": "aucun poste"
   },
-  "Santé Québec Laurentides carrières": {
+  "Tourisme Mont-Tremblant (emplois)": {
    "type": "P",
-   "url": "https://laurentides.carrieresante.gouv.qc.ca/",
-   "method": "fetch",
-   "liensLus": 136,
-   "retenus": 3,
+   "url": "https://www.mont-tremblant.ca/fr/emplois",
+   "method": "navigateur",
+   "liensLus": 55,
+   "retenus": 1,
    "nouveaux": 0,
    "status": "ok"
   },
@@ -1153,13 +1159,13 @@
    "erreur": "fetch: HTTP 403 | navigateur: aucun lien",
    "reprise": true
   },
-  "Tourisme Mont-Tremblant (emplois)": {
+  "Santé Québec Laurentides carrières": {
    "type": "P",
-   "url": "https://www.mont-tremblant.ca/fr/emplois",
-   "method": "navigateur",
-   "liensLus": 55,
-   "retenus": 1,
-   "nouveaux": 0,
+   "url": "https://laurentides.carrieresante.gouv.qc.ca/",
+   "method": "fetch",
+   "liensLus": 136,
+   "retenus": 4,
+   "nouveaux": 1,
    "status": "ok"
   },
   "CSS de la Seigneurie-des-Mille-Îles": {
@@ -1171,7 +1177,7 @@
     "https://emplois.cssmi.qc.ca/"
    ],
    "method": "fetch",
-   "liensLus": 362,
+   "liensLus": 364,
    "retenus": 2,
    "nouveaux": 0,
    "status": "ok"
@@ -1221,15 +1227,6 @@
    "nouveaux": 0,
    "status": "ok"
   },
-  "CSS des Laurentides (Workland)": {
-   "type": "P",
-   "url": "https://atlas.workland.com/careers/csslaurentides?open=jobs",
-   "method": "navigateur",
-   "liensLus": 6,
-   "retenus": 0,
-   "nouveaux": 0,
-   "status": "aucun poste"
-  },
   "Origine Nature": {
    "type": "D",
    "url": "https://originenature.com",
@@ -1254,18 +1251,6 @@
    "nouveaux": 0,
    "status": "ok"
   },
-  "Hydrotek": {
-   "type": "D",
-   "url": "https://www.hydrotek.ca",
-   "decouverts": [
-    "https://www.hydrotekhydroponics.com/job-offers"
-   ],
-   "method": "fetch",
-   "liensLus": 171,
-   "retenus": 0,
-   "nouveaux": 0,
-   "status": "aucun poste"
-  },
   "CSS de la Rivière-du-Nord": {
    "type": "D",
    "url": "https://www.csrdn.qc.ca",
@@ -1288,6 +1273,18 @@
    "note": "aucune page carrières/emploi trouvée sur la page d'accueil (navigateur)",
    "reprise": true
   },
+  "Hydrotek": {
+   "type": "D",
+   "url": "https://www.hydrotek.ca",
+   "decouverts": [
+    "https://www.hydrotekhydroponics.com/job-offers"
+   ],
+   "method": "fetch",
+   "liensLus": 171,
+   "retenus": 0,
+   "nouveaux": 0,
+   "status": "aucun poste"
+  },
   "CCI Thérèse-De Blainville carrières": {
    "type": "P",
    "url": "https://www.ccitb.ca/la-ccitb/carrieres/",
@@ -1297,14 +1294,6 @@
    "nouveaux": 0,
    "status": "ok"
   },
-  "Chambre de commerce du Grand Mont-Tremblant": {
-   "type": "D",
-   "url": "https://ccgmt.ca",
-   "decouverts": [],
-   "status": "vide",
-   "note": "aucune page carrières/emploi trouvée sur la page d'accueil (fetch)",
-   "reprise": true
-  },
   "CCI Argenteuil emplois": {
    "type": "P",
    "url": "https://cciargenteuil.ca/emploi/",
@@ -1313,14 +1302,6 @@
    "retenus": 0,
    "nouveaux": 0,
    "status": "aucun poste"
-  },
-  "Chambre de commerce de Labelle": {
-   "type": "D",
-   "url": "https://cclabelle.com",
-   "decouverts": [],
-   "status": "vide",
-   "note": "aucune page carrières/emploi trouvée sur la page d'accueil (fetch)",
-   "reprise": true
   },
   "CCI Thérèse-De Blainville (Chambre de commerce)": {
    "type": "D",
@@ -1334,6 +1315,30 @@
    "retenus": 3,
    "nouveaux": 0,
    "status": "ok"
+  },
+  "Chambre de commerce du Grand Mont-Tremblant": {
+   "type": "D",
+   "url": "https://ccgmt.ca",
+   "decouverts": [],
+   "status": "vide",
+   "note": "aucune page carrières/emploi trouvée sur la page d'accueil (fetch)",
+   "reprise": true
+  },
+  "Chambre de commerce de Labelle": {
+   "type": "D",
+   "url": "https://cclabelle.com",
+   "decouverts": [],
+   "status": "vide",
+   "note": "aucune page carrières/emploi trouvée sur la page d'accueil (fetch)",
+   "reprise": true
+  },
+  "Chambre de commerce de la Vallée de Saint-Sauveur": {
+   "type": "D",
+   "url": "https://valleesaintsauveur.com/chambre-de-commerce/",
+   "decouverts": [],
+   "status": "vide",
+   "note": "aucune page carrières/emploi trouvée sur la page d'accueil (navigateur)",
+   "reprise": true
   },
   "CCI2M Deux-Montagnes (Chambre de commerce)": {
    "type": "D",
@@ -1351,48 +1356,36 @@
    "note": "aucune page carrières/emploi trouvée sur la page d'accueil (fetch)",
    "reprise": true
   },
-  "Chambre de commerce de la Vallée de Saint-Sauveur": {
-   "type": "D",
-   "url": "https://valleesaintsauveur.com/chambre-de-commerce/",
-   "decouverts": [],
-   "status": "vide",
-   "note": "aucune page carrières/emploi trouvée sur la page d'accueil (navigateur)",
-   "reprise": true
+  "CSS des Laurentides (Workland)": {
+   "type": "P",
+   "url": "https://atlas.workland.com/careers/csslaurentides?open=jobs",
+   "method": "navigateur",
+   "liensLus": 6,
+   "retenus": 0,
+   "nouveaux": 0,
+   "status": "aucun poste"
   },
   "Jobillico économie circulaire": {
    "type": "S",
    "url": "https://www.jobillico.com/recherche-emploi?skwd=%C3%A9conomie+circulaire&scty=Qu%C3%A9bec",
    "method": "fetch",
-   "liensLus": 130,
-   "retenus": 8,
-   "nouveaux": 7,
+   "liensLus": 135,
+   "retenus": 9,
+   "nouveaux": 9,
    "status": "ok"
   },
   "Guichet-Emplois économie circulaire Québec": {
    "type": "S",
    "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=%C3%A9conomie+circulaire&locationstring=Qu%C3%A9bec&sort=D",
    "method": "fetch",
-   "liensLus": 556,
+   "liensLus": 558,
    "retenus": 87,
    "nouveaux": 0,
    "status": "ok"
   },
-  "RECYC-QUÉBEC (économie circulaire)": {
+  "CCI Rivière-du-Nord (Saint-Jérôme)": {
    "type": "D",
-   "url": "https://www.recyc-quebec.gouv.qc.ca",
-   "decouverts": [
-    "https://www.recyc-quebec.gouv.qc.ca/municipalites/matieres-organiques/suprarecyclage",
-    "https://www.recyc-quebec.gouv.qc.ca/a-propos/carrieres/"
-   ],
-   "method": "fetch",
-   "liensLus": 454,
-   "retenus": 10,
-   "nouveaux": 0,
-   "status": "ok"
-  },
-  "Synergie Québec (symbiose industrielle)": {
-   "type": "D",
-   "url": "https://synergiequebec.ca",
+   "url": "https://www.ccirdn.com",
    "decouverts": [],
    "status": "vide",
    "note": "aucune page carrières/emploi trouvée sur la page d'accueil (fetch)",
@@ -1402,14 +1395,14 @@
    "type": "S",
    "url": "https://ca.talent.com/jobs?k=%C3%A9conomie+circulaire&l=Qu%C3%A9bec",
    "method": "navigateur",
-   "liensLus": 27,
+   "liensLus": 28,
    "retenus": 0,
    "nouveaux": 0,
    "status": "aucun poste"
   },
-  "CCI Rivière-du-Nord (Saint-Jérôme)": {
+  "Synergie Québec (symbiose industrielle)": {
    "type": "D",
-   "url": "https://www.ccirdn.com",
+   "url": "https://synergiequebec.ca",
    "decouverts": [],
    "status": "vide",
    "note": "aucune page carrières/emploi trouvée sur la page d'accueil (fetch)",
@@ -1420,8 +1413,8 @@
    "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=analyste&locationstring=Laurentides%2C+QC&sort=D",
    "method": "fetch",
    "liensLus": 147,
-   "retenus": 15,
-   "nouveaux": 9,
+   "retenus": 14,
+   "nouveaux": 14,
    "status": "ok"
   },
   "Guichet-Emplois conseiller principal Laurentides": {
@@ -1429,17 +1422,8 @@
    "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=conseiller+principal&locationstring=Laurentides%2C+QC&sort=D",
    "method": "fetch",
    "liensLus": 148,
-   "retenus": 20,
-   "nouveaux": 1,
-   "status": "ok"
-  },
-  "Eluta conseiller Laurentides": {
-   "type": "S",
-   "url": "https://www.eluta.ca/search?q=conseiller&l=Laurentides%2C+QC",
-   "method": "fetch",
-   "liensLus": 80,
-   "retenus": 7,
-   "nouveaux": 1,
+   "retenus": 23,
+   "nouveaux": 0,
    "status": "ok"
   },
   "CMM carrières": {
@@ -1455,8 +1439,30 @@
    "type": "S",
    "url": "https://www.eluta.ca/search?q=analyste&l=Laurentides%2C+QC",
    "method": "fetch",
-   "liensLus": 78,
+   "liensLus": 80,
    "retenus": 11,
+   "nouveaux": 1,
+   "status": "ok"
+  },
+  "RECYC-QUÉBEC (économie circulaire)": {
+   "type": "D",
+   "url": "https://www.recyc-quebec.gouv.qc.ca",
+   "decouverts": [
+    "https://www.recyc-quebec.gouv.qc.ca/municipalites/matieres-organiques/suprarecyclage",
+    "https://www.recyc-quebec.gouv.qc.ca/a-propos/carrieres/"
+   ],
+   "method": "fetch",
+   "liensLus": 454,
+   "retenus": 10,
+   "nouveaux": 0,
+   "status": "ok"
+  },
+  "Eluta conseiller Laurentides": {
+   "type": "S",
+   "url": "https://www.eluta.ca/search?q=conseiller&l=Laurentides%2C+QC",
+   "method": "fetch",
+   "liensLus": 80,
+   "retenus": 7,
    "nouveaux": 1,
    "status": "ok"
   },
@@ -1464,18 +1470,18 @@
    "type": "S",
    "url": "https://www.jobillico.com/recherche-emploi?skwd=analyste&scty=Laurentides",
    "method": "fetch",
-   "liensLus": 139,
-   "retenus": 11,
-   "nouveaux": 11,
+   "liensLus": 140,
+   "retenus": 13,
+   "nouveaux": 13,
    "status": "ok"
   },
   "Jobillico conseiller Laurentides": {
    "type": "S",
    "url": "https://www.jobillico.com/recherche-emploi?skwd=conseiller&scty=Laurentides",
    "method": "fetch",
-   "liensLus": 147,
-   "retenus": 14,
-   "nouveaux": 14,
+   "liensLus": 142,
+   "retenus": 12,
+   "nouveaux": 12,
    "status": "ok"
   },
   "Guichet-Emplois coût de revient Laurentides": {
@@ -1496,30 +1502,21 @@
    "nouveaux": 0,
    "status": "ok"
   },
-  "Talent.com conseiller Laurentides": {
+  "Guichet-Emplois prix de revient Québec": {
    "type": "S",
-   "url": "https://ca.talent.com/jobs?k=conseiller&l=Laurentides%2C+QC",
-   "method": "navigateur",
-   "liensLus": 27,
-   "retenus": 0,
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=prix+de+revient&locationstring=Qu%C3%A9bec&sort=D",
+   "method": "fetch",
+   "liensLus": 559,
+   "retenus": 87,
    "nouveaux": 0,
-   "status": "aucun poste"
+   "status": "ok"
   },
   "Eluta coût de revient Québec": {
    "type": "S",
    "url": "https://www.eluta.ca/search?q=co%C3%BBt+de+revient&l=Qu%C3%A9bec",
    "method": "fetch",
-   "liensLus": 56,
-   "retenus": 6,
-   "nouveaux": 0,
-   "status": "ok"
-  },
-  "Guichet-Emplois prix de revient Québec": {
-   "type": "S",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=prix+de+revient&locationstring=Qu%C3%A9bec&sort=D",
-   "method": "fetch",
-   "liensLus": 557,
-   "retenus": 87,
+   "liensLus": 53,
+   "retenus": 5,
    "nouveaux": 0,
    "status": "ok"
   },
@@ -1527,27 +1524,9 @@
    "type": "S",
    "url": "https://www.jobillico.com/recherche-emploi?skwd=co%C3%BBt+de+revient&scty=Qu%C3%A9bec",
    "method": "fetch",
-   "liensLus": 138,
-   "retenus": 8,
-   "nouveaux": 6,
-   "status": "ok"
-  },
-  "Talent.com analyste Laurentides": {
-   "type": "S",
-   "url": "https://ca.talent.com/jobs?k=analyste&l=Laurentides%2C+QC",
-   "method": "navigateur",
-   "liensLus": 31,
-   "retenus": 0,
-   "nouveaux": 0,
-   "status": "aucun poste"
-  },
-  "Laurentides International (carrières)": {
-   "type": "P",
-   "url": "https://www.laurentidesinternational.com/carrieres",
-   "method": "fetch",
-   "liensLus": 48,
-   "retenus": 2,
-   "nouveaux": 0,
+   "liensLus": 148,
+   "retenus": 7,
+   "nouveaux": 7,
    "status": "ok"
   },
   "Jobillico prix de revient Laurentides": {
@@ -1559,12 +1538,39 @@
    "nouveaux": 14,
    "status": "ok"
   },
+  "Laurentides International (carrières)": {
+   "type": "P",
+   "url": "https://www.laurentidesinternational.com/carrieres",
+   "method": "fetch",
+   "liensLus": 48,
+   "retenus": 2,
+   "nouveaux": 0,
+   "status": "ok"
+  },
+  "Talent.com conseiller Laurentides": {
+   "type": "S",
+   "url": "https://ca.talent.com/jobs?k=conseiller&l=Laurentides%2C+QC",
+   "method": "navigateur",
+   "liensLus": 29,
+   "retenus": 0,
+   "nouveaux": 0,
+   "status": "aucun poste"
+  },
   "Ville de Rosemère": {
    "type": "D",
    "url": "https://www.ville.rosemere.qc.ca",
    "status": "echec",
    "erreur": "fetch: fetch failed | navigateur: page.goto: Timeout 45000ms exceeded.",
    "reprise": true
+  },
+  "Talent.com analyste Laurentides": {
+   "type": "S",
+   "url": "https://ca.talent.com/jobs?k=analyste&l=Laurentides%2C+QC",
+   "method": "navigateur",
+   "liensLus": 32,
+   "retenus": 0,
+   "nouveaux": 0,
+   "status": "aucun poste"
   }
  }
 }
