@@ -1,15 +1,15 @@
 {
- "genereLe": "2026-11-18T16:53:08.690Z",
- "date": "2026-11-18",
+ "genereLe": "2026-11-19T17:00:00.987Z",
+ "date": "2026-11-19",
  "sourcesTotal": 151,
  "statuts": {
-  "ok": 87,
+  "ok": 88,
   "aucun poste": 45,
-  "vide": 15,
+  "vide": 14,
   "echec": 4
  },
- "nouveauxCeJour": 68,
- "nouveauxTotal": 229,
+ "nouveauxCeJour": 56,
+ "nouveauxTotal": 223,
  "fenetreJours": 3,
  "nouveaux": [
   {
@@ -27,34 +27,30 @@
    "pre": 11
   },
   {
-   "source": "Santé Québec Laurentides carrières",
-   "titre": "Conseiller(-ière) en bâtiment | Poste vacant | Projets de développement clinique et de transition",
-   "url": "https://laurentides.carrieresante.gouv.qc.ca/poste/conseiller-iere-en-batiment-poste-vacant-projets-de-developpement-clinique-et-de-transition-3/",
-   "vuLe": "2026-11-17",
-   "pre": 11,
-   "emp": {
-    "@type": "Organization",
-    "name": ""
-   },
-   "echeance": "2027-01-22T23:59:59-05:00",
-   "titreOffre": "Conseiller(-ière) en bâtiment | Poste vacant | Projets de développement clinique et de transition",
-   "apercu": "<h2>Mandat</h2> <div class=\"default-text\"> <span></p> <p><strong>ATTENTION</strong>: Veuillez d&rsquo;abord vous assurer d&rsquo;avoir créé votre profil sur la plateforme. Une fois cette étape complétée, retournez sur l&rsquo;offre d&#8217;emploi et cliquez sur <strong><em>Postuler</em></strong> afin que votre candidature soit prise en compte pour ",
-   "tele": "aucune"
+   "source": "Eluta analyste Laurentides",
+   "titre": "Analyste financier(ère) senior, marges et rentabilité - Senior Analyst, FP A",
+   "url": "https://www.eluta.ca/search?q=analyste&l=Laurentides%2C+QC",
+   "vuLe": "2026-11-19",
+   "pre": 9
   },
   {
-   "source": "Santé Québec Laurentides carrières",
-   "titre": "Conseiller(-ière) en bâtiment | Poste vacant | Projets de développement clinique et de transition",
-   "url": "https://laurentides.carrieresante.gouv.qc.ca/poste/conseiller-iere-en-batiment-poste-vacant-projets-de-developpement-clinique-et-de-transition/",
-   "vuLe": "2026-11-17",
-   "pre": 11,
-   "emp": {
-    "@type": "Organization",
-    "name": ""
-   },
-   "echeance": "2026-11-29T23:59:59-05:00",
-   "titreOffre": "Conseiller(-ière) en bâtiment | Poste vacant | Projets de développement clinique et de transition",
-   "apercu": "<h2>Mandat</h2> <div class=\"default-text\"> <span></p> <p><strong>ATTENTION</strong>: Veuillez d&rsquo;abord vous assurer d&rsquo;avoir créé votre profil sur la plateforme. Une fois cette étape complétée, retournez sur l&rsquo;offre d&#8217;emploi et cliquez sur <strong><em>Postuler</em></strong> afin que votre candidature soit prise en compte pour ",
-   "tele": "aucune"
+   "source": "Eluta analyste Laurentides",
+   "titre": "Analyste principal(e) des systèmes d’affaires / Sr. Business Systems Analyst",
+   "url": "https://www.eluta.ca/search?q=analyste&l=Laurentides%2C+QC",
+   "vuLe": "2026-11-19",
+   "pre": 9,
+   "apercu": "1747 analyste jobs in Laurentides, QC on Eluta.ca - Search high quality jobs, direct from employer websites.",
+   "tele": "incertain"
+  },
+  {
+   "source": "Eluta conseiller Laurentides",
+   "titre": "Conseiller(ère) / Conseiller(ère) principal(e) - Ingénierie financière et modélisation, Assurance",
+   "url": "https://www.eluta.ca/search?q=conseiller&l=Laurentides%2C+QC",
+   "vuLe": "2026-11-19",
+   "pre": 9,
+   "apercu": "4318 conseiller jobs in Laurentides, QC on Eluta.ca - Search high quality jobs, direct from employer websites.",
+   "tele": "incertain",
+   "echeance": "jusqu’aux grandes marques nationales, avec une belle place pour les "
   },
   {
    "source": "Eluta analyste Laurentides",
@@ -122,13 +118,6 @@
   },
   {
    "source": "Eluta analyste Laurentides",
-   "titre": "Analyste ou analyste principal, Recherche macroéconomique",
-   "url": "https://www.eluta.ca/search?q=analyste&l=Laurentides%2C+QC",
-   "vuLe": "2026-11-17",
-   "pre": 9
-  },
-  {
-   "source": "Eluta analyste Laurentides",
    "titre": "Analyste principal ou analyste principale, Sécurité de l'Information - Spécialiste en Protection des Données (T et I) (télétravail/hybride)",
    "url": "https://www.eluta.ca/search?q=analyste&l=Laurentides%2C+QC",
    "vuLe": "2026-11-17",
@@ -152,36 +141,6 @@
    "apercu": "4313 conseiller jobs in Laurentides, QC on Eluta.ca - Search high quality jobs, direct from employer websites.",
    "tele": "incertain",
    "echeance": "jusqu’aux grandes marques nationales, avec une belle place pour les "
-  },
-  {
-   "source": "Eluta analyste Laurentides",
-   "titre": "Analyste de la performance de la flotte / Fleet Performance Analyst",
-   "url": "https://www.eluta.ca/search?q=analyste&l=Laurentides%2C+QC",
-   "vuLe": "2026-11-16",
-   "pre": 9
-  },
-  {
-   "source": "Eluta analyste Laurentides",
-   "titre": "Analyste Gestion de tolérancement / Tolerance Management Analyst",
-   "url": "https://www.eluta.ca/search?q=analyste&l=Laurentides%2C+QC",
-   "vuLe": "2026-11-16",
-   "pre": 9
-  },
-  {
-   "source": "Eluta analyste Laurentides",
-   "titre": "Analyste en révision des données de laboratoire/Lab Data Review Analyst",
-   "url": "https://www.eluta.ca/search?q=analyste&l=Laurentides%2C+QC",
-   "vuLe": "2026-11-16",
-   "pre": 9
-  },
-  {
-   "source": "Eluta analyste Laurentides",
-   "titre": "Analyste SAP, Tarification et gestion des données maîtres / SAP Pricing Master Data Maintenance Analyst",
-   "url": "https://www.eluta.ca/search?q=analyste&l=Laurentides%2C+QC",
-   "vuLe": "2026-11-16",
-   "pre": 9,
-   "apercu": "1729 analyste jobs in Laurentides, QC on Eluta.ca - Search high quality jobs, direct from employer websites.",
-   "tele": "incertain"
   },
   {
    "source": "Eluta conseiller Laurentides",
@@ -215,13 +174,25 @@
    "echeance": "jusqu’aux grandes marques nationales, avec une belle place pour les "
   },
   {
-   "source": "Eluta analyste Laurentides",
-   "titre": "Technologies numériques - Opérations manufacturières : Analyste des systèmes MES / Digital Technologies - Manufacturing Operations: MES Systems Analys...",
-   "url": "https://www.eluta.ca/search?q=analyste&l=Laurentides%2C+QC",
-   "vuLe": "2026-11-15",
-   "pre": 9,
-   "apercu": "1746 analyste jobs in Laurentides, QC on Eluta.ca - Search high quality jobs, direct from employer websites.",
-   "tele": "hybride"
+   "source": "RIMQ emplois municipal",
+   "titre": "Directeur/directrice de l'environnement",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/493901/ville-de-mont-tremblant/postes-cadres/laurentides/directeur-directrice-de-l-environnement.html",
+   "vuLe": "2026-11-19",
+   "pre": 7
+  },
+  {
+   "source": "RIMQ emplois municipal",
+   "titre": "Directeur/directrice de l'environnement Ville de Mont-Tremblant LAURENTIDES",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/493901/ville-de-mont-tremblant/postes-cadres/laurentides/directeur-directrice-de-l-environnement.html",
+   "vuLe": "2026-11-19",
+   "pre": 7,
+   "emp": "Ville de Mont-Tremblant",
+   "lieu": "Mont-Tremblant, QC",
+   "sal": "0–0 YEAR",
+   "echeance": "2026-12-04T00:00",
+   "titreOffre": "Directeur/directrice de l'environnement",
+   "apercu": "Directeur/directrice de l'environnement - Poste permanent, temps plein - Ville de Mont-Tremblant",
+   "tele": "aucune"
   },
   {
    "source": "Guichet-Emplois conseiller principal Laurentides",
@@ -265,26 +236,70 @@
    "tele": "incertain"
   },
   {
-   "source": "Eluta analyste Laurentides",
-   "titre": "Analyst(e), Transactions / Analyst, Transactions",
-   "url": "https://www.eluta.ca/search?q=analyste&l=Laurentides%2C+QC",
-   "vuLe": "2026-11-17",
-   "pre": 6
+   "source": "RIMQ emplois municipal",
+   "titre": "Coordonnateur des travaux publics",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/493890/municipalite-de-saint-hippolyte/postes-cadres/laurentides/coordonnateur-des-travaux-publics.html",
+   "vuLe": "2026-11-19",
+   "pre": 5
   },
   {
-   "source": "Eluta analyste Laurentides",
-   "titre": "Analyst/Senior Analyst, Macro Research",
-   "url": "https://www.eluta.ca/search?q=analyste&l=Laurentides%2C+QC",
-   "vuLe": "2026-11-17",
-   "pre": 6
+   "source": "RIMQ emplois municipal",
+   "titre": "Chef aux opérations",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/494000/ville-de-mirabel/postes-cadres/laurentides/chef-aux-operations.html",
+   "vuLe": "2026-11-19",
+   "pre": 5
   },
   {
-   "source": "Guichet-Emplois coût de revient Laurentides",
-   "titre": "Jobillico cost financial analyst November 07, 2026 Fed Finance Location Montréal (QC) Salary $100,000.00 to $140,000.00 annually Jobillico Job number: 17600997",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50681566?source=searchresults",
-   "vuLe": "2026-11-15",
-   "pre": 6,
-   "apercu": "Look at this job opportunity for a cost financial analyst at Fed Finance At Montréal, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "source": "RIMQ emplois municipal",
+   "titre": "Coordonnateur des travaux publics Municipalité de Saint-Hippolyte",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/493890/municipalite-de-saint-hippolyte/postes-cadres/laurentides/coordonnateur-des-travaux-publics.html",
+   "vuLe": "2026-11-19",
+   "pre": 5,
+   "emp": "Municipalité de Saint-Hippolyte",
+   "lieu": "Saint-Hippolyte, QC",
+   "sal": "0–0 YEAR",
+   "echeance": "2026-11-26T16:00",
+   "titreOffre": "Coordonnateur des travaux publics",
+   "apercu": "Coordonnateur des travaux publics - Temporaire - 6 mois - Municipalité de Saint-Hippolyte",
+   "tele": "aucune"
+  },
+  {
+   "source": "RIMQ emplois municipal",
+   "titre": "Chef aux opérations Ville de Mirabel",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/494000/ville-de-mirabel/postes-cadres/laurentides/chef-aux-operations.html",
+   "vuLe": "2026-11-19",
+   "pre": 5,
+   "emp": "Ville de Mirabel",
+   "lieu": "Mirabel, QC",
+   "sal": "0–0 YEAR",
+   "echeance": "2026-12-02T00:00",
+   "titreOffre": "Chef aux opérations",
+   "apercu": "Chef aux opérations - permanent temps plein - Ville de Mirabel",
+   "tele": "aucune"
+  },
+  {
+   "source": "Eluta développement économique Laurentides",
+   "titre": "Agente ou agent de soutien à la clientèle (6 emplois occasionnels)",
+   "url": "https://www.eluta.ca/search?q=d%C3%A9veloppement+%C3%A9conomique&l=Laurentides%2C+QC",
+   "vuLe": "2026-11-19",
+   "pre": 5,
+   "apercu": "599 développement économique jobs in Laurentides, QC on Eluta.ca - Search high quality jobs, direct from employer websites.",
+   "tele": "incertain"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "New ZipRecruiter business development officer November 17, 2026 PuroClean Restoration Halton/Guelph & Brampton Location Milton (ON) Salary $85,889.22 annually ZipRecruiter Job number: 4a64a6fc",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50760877?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 5
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "New ZipRecruiter business development officer November 17, 2026 PuroClean Restoration Halton/Guelph & Brampton Location Milton (ON) Salary $85,889.22 annually ZipRecruiter Job number: 4a64a6fc",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50760877?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 5,
+   "apercu": "Look at this job opportunity for a business development officer at PuroClean Restoration Halton/Guelph & Brampton At Milton, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
    "tele": "aucune"
   },
   {
@@ -356,99 +371,12 @@
    "tele": "aucune"
   },
   {
-   "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New CareerBeacon communications officer (except emergency services) November 17, 2026 City of Saint John Location Saint John (NB) Salary $91,408.00 to $91,408.00 annually CareerBeacon Job number: 2245756",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747001?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 5
-  },
-  {
-   "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New Jobillico procurement officer November 17, 2026 Prevost Location Sainte-Claire (QC) Salary $34.24 hourly Jobillico Job number: 17704929",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746129?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 5,
-   "apercu": "Look at this job opportunity for a procurement officer at Prevost At Sainte-Claire, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
    "source": "Guichet-Emplois économie circulaire Québec",
    "titre": "New Jobillico public affairs officer November 16, 2026 ÉTS - École de technologie supérieure Location Montréal (QC) Salary $41.78 to $60.10 hourly Jobillico Job number: 17704011",
    "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50742744?source=searchresults",
    "vuLe": "2026-11-17",
    "pre": 5,
    "apercu": "Look at this job opportunity for a public affairs officer at ÉTS - École de technologie supérieure At Montréal, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
-   "source": "Santé Québec Laurentides carrières",
-   "titre": "Agent(e) de relations humaines | Remplacement | Info-Social",
-   "url": "https://laurentides.carrieresante.gouv.qc.ca/poste/agente-de-relations-humaines-remplacement-info-social-7/",
-   "vuLe": "2026-11-17",
-   "pre": 5,
-   "emp": {
-    "@type": "Organization",
-    "name": ""
-   },
-   "echeance": "2026-12-31T23:59:59-05:00",
-   "titreOffre": "Agent(e) de relations humaines | Remplacement | Info-Social",
-   "apercu": "<h2>Mandat</h2> <div class=\"default-text\"> <span></p> <p><strong>ATTENTION :</strong> Veuillez d’abord vous assurer d’avoir créé votre profil sur la plateforme. Une fois cette étape complétée, retournez sur l’offre d’emploi et cliquez sur <strong>Postuler</strong> afin que votre candidature soit prise en compte pour le poste visé.</p> <p>Les candid",
-   "tele": "aucune"
-  },
-  {
-   "source": "RIMQ emplois municipal",
-   "titre": "Directeur.trice des loisirs, culture et vie communautaire",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/493668/ville-de-mercier/postes-cadres/monteregie/directeur-trice-des-loisirs-culture-et-vie-communautaire.html",
-   "vuLe": "2026-11-17",
-   "pre": 5
-  },
-  {
-   "source": "RIMQ emplois municipal",
-   "titre": "Conseillère ou conseiller aux communications",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/493669/ville-de-riviere-du-loup/postes-cadres/bas-saint-laurent/conseillere-ou-conseiller-aux-communications.html",
-   "vuLe": "2026-11-17",
-   "pre": 5
-  },
-  {
-   "source": "RIMQ emplois municipal",
-   "titre": "Directeur.trice des loisirs, culture et vie communautaire Ville de Mercier",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/493668/ville-de-mercier/postes-cadres/monteregie/directeur-trice-des-loisirs-culture-et-vie-communautaire.html",
-   "vuLe": "2026-11-17",
-   "pre": 5,
-   "emp": "Ville de Mercier",
-   "lieu": "Mercier, QC",
-   "sal": "0–0 YEAR",
-   "echeance": "2026-11-27T00:00",
-   "titreOffre": "Directeur.trice des loisirs, culture et vie communautaire",
-   "apercu": "Directeur.trice des loisirs, culture et vie communautaire - Cadre, permanent, temps plein - Ville de Mercier",
-   "tele": "aucune"
-  },
-  {
-   "source": "RIMQ emplois municipal",
-   "titre": "Conseillère ou conseiller aux communications Ville de Rivière-du-Loup",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/493669/ville-de-riviere-du-loup/postes-cadres/bas-saint-laurent/conseillere-ou-conseiller-aux-communications.html",
-   "vuLe": "2026-11-17",
-   "pre": 5,
-   "emp": "Ville de Rivière-du-Loup",
-   "lieu": "Rivière-du-Loup, QC",
-   "sal": "0–0 YEAR",
-   "echeance": "2026-11-29T16:00",
-   "titreOffre": "Conseillère ou conseiller aux communications",
-   "apercu": "Conseillère ou conseiller aux communications - Poste à temps plein / Permanent - Ville de Rivière-du-Loup",
-   "tele": "aucune"
-  },
-  {
-   "source": "RIMQ emplois municipal",
-   "titre": "Agent(e) aux loisirs | Service des loisirs",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/493043/ville-de-boisbriand/postes-de-soutien/laurentides/agent-e-aux-loisirs-service-des-loisirs.html",
-   "vuLe": "2026-11-17",
-   "pre": 5,
-   "emp": "Ville de Boisbriand",
-   "lieu": "Boisbriand, QC",
-   "sal": "0–0 YEAR",
-   "echeance": "2026-11-23T00:00",
-   "titreOffre": "Agent(e) aux loisirs | Service des loisirs",
-   "apercu": "Agent(e) aux loisirs | Service des loisirs - Temporaire, temps plein - Ville de Boisbriand",
    "tele": "aucune"
   },
   {
@@ -468,15 +396,6 @@
    "pre": 5
   },
   {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New CareerBeacon communications officer (except emergency services) November 17, 2026 City of Saint John Location Saint John (NB) Salary $91,408.00 to $91,408.00 annually CareerBeacon Job number: 2245756",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747001?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 5,
-   "apercu": "Look at this job opportunity for a communications officer (except emergency services) at City of Saint John At Saint John, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
    "source": "Guichet-Emplois développement économique Montréal",
    "titre": "ZipRecruiter business development officer November 09, 2026 Invictus Northwest Group Location Port Coquitlam (BC) Salary $120,765.53 annually ZipRecruiter Job number: 2edea331",
    "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50707415?source=searchresults",
@@ -486,43 +405,11 @@
    "tele": "aucune"
   },
   {
-   "source": "Guichet-Emplois développement économique Montréal",
-   "titre": "ZipRecruiter business development officer November 09, 2026 Tippet Rishardson Location Scarborough (ON) Salary $78,142.41 annually ZipRecruiter Job number: 3554e848",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50707189?source=searchresults",
-   "vuLe": "2026-11-16",
-   "pre": 5,
-   "apercu": "Look at this job opportunity for a business development officer at Tippet Rishardson At Scarborough, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
    "source": "Guichet-Emplois développement économique Laurentides",
    "titre": "ZipRecruiter business development officer November 09, 2026 Invictus Northwest Group Location Port Coquitlam (BC) Salary $120,765.53 annually ZipRecruiter Job number: 2edea331",
    "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50707415?source=searchresults",
    "vuLe": "2026-11-16",
    "pre": 5
-  },
-  {
-   "source": "Guichet-Emplois développement économique Laurentides",
-   "titre": "ZipRecruiter business development officer November 09, 2026 Tippet Rishardson Location Scarborough (ON) Salary $78,142.41 annually ZipRecruiter Job number: 3554e848",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50707189?source=searchresults",
-   "vuLe": "2026-11-16",
-   "pre": 5
-  },
-  {
-   "source": "Guichet-Emplois développement économique Montréal",
-   "titre": "New CareerBeacon business development officer November 14, 2026 Bell Canada Location Mississauga (ON) Salary $27.64 to $69.23 hourly CareerBeacon Job number: 2238089",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50725705?source=searchresults",
-   "vuLe": "2026-11-15",
-   "pre": 5
-  },
-  {
-   "source": "Guichet-Emplois développement économique Laurentides",
-   "titre": "New CareerBeacon business development officer November 14, 2026 Bell Canada Location Mississauga (ON) Salary $27.64 to $69.23 hourly CareerBeacon Job number: 2238089",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50725705?source=searchresults",
-   "vuLe": "2026-11-15",
-   "pre": 5,
-   "apercu": "Look at this job opportunity for a business development officer at Bell Canada At Mississauga, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
   },
   {
    "source": "Guichet-Emplois conseiller principal Laurentides",
@@ -580,35 +467,149 @@
    "tele": "aucune"
   },
   {
+   "source": "Guichet-Emplois conseiller principal Laurentides",
+   "titre": "New AgCareers.com health and safety officer November 19, 2026 McCain Foods Location Carberry (MB) Salary $97,500.00 to $130,000.00 annually AgCareers.com Job number: 1053545",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763471?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 3
+  },
+  {
    "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New CareerBeacon analyst, business management November 17, 2026 Opportunities New Brunswick Location Fredericton (NB) Salary $27.00 to $69.71 hourly CareerBeacon Job number: ONB-26-21",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50745650?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 4,
-   "apercu": "Look at this job opportunity for a analyst, business management at Opportunities New Brunswick At Fredericton, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "titre": "New indeed.com administrative coordinator November 19, 2026 De dwa da dehs nye>s - Aboriginal Health Centre Location Hamilton (ON) Salary $55,000.00 to $60,000.00 annually indeed.com Job number: 10330790538",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50762989?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 3,
+   "apercu": "Look at this job opportunity for a administrative coordinator at De dwa da dehs nye>s - Aboriginal Health Centre At Hamilton, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
    "tele": "aucune"
   },
   {
    "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New Jobillico analyst, investments November 17, 2026 Fed Finance Location Brossard (QC) Salary $105,000.00 to $115,000.00 annually Jobillico Job number: 17460390",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747177?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 4,
-   "apercu": "Look at this job opportunity for a analyst, investments at Fed Finance At Brossard, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "hybride"
+   "titre": "New CareerBeacon admissions officer - post-secondary educational institution November 19, 2026 Memorial University of Newfoundland Location St. John's (NL) Salary $21.00 to $44.15 hourly CareerBeacon Job number: 2245992",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763546?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 3,
+   "apercu": "Look at this job opportunity for a admissions officer - post-secondary educational institution at Memorial University of Newfoundland At St. John's, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "aucune",
+   "echeance": "closing date All qualified employees are welcome to apply, however prefe"
+  },
+  {
+   "source": "BMO",
+   "titre": "Bilingual Japanese - Relationship Manager - Japanese Commercial Banking",
+   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260028913EXTERNALENUS/Bilingual-Japanese-Relationship-Manager-Japanese-Commercial-Banking",
+   "vuLe": "2026-11-19",
+   "pre": 3,
+   "apercu": "Apply for Bilingual Japanese - Relationship Manager - Japanese Commercial Banking job with Bank of Montreal in Rolling Meadows, IL 60008, United States of America. Commercial Sales & Service at Bank of Montreal",
+   "tele": "aucune"
+  },
+  {
+   "source": "BMO",
+   "titre": "Financial Center Manager",
+   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260030396EXTERNALENUS/Financial-Center-Manager",
+   "vuLe": "2026-11-19",
+   "pre": 3,
+   "emp": "Bank of Montreal",
+   "lieu": "La Habra, California",
+   "titreOffre": "Financial Center Manager",
+   "apercu": "<div><div><div><div><div><div><div><p style=\"text-align:left\"><span>Application Deadline:</span></p></div></div></div></div></div></div></div>12/04/2026<p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">Address:</p>1330 S. Beach Blvd.<p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p s",
+   "tele": "aucune"
+  },
+  {
+   "source": "BMO",
+   "titre": "Chief Compliance Officer, GAM US",
+   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260030840EXTERNALENUS/Chief-Compliance-Officer-GAM-US",
+   "vuLe": "2026-11-19",
+   "pre": 3,
+   "emp": "Bank of Montreal",
+   "lieu": "New York, New York",
+   "titreOffre": "Chief Compliance Officer, GAM US",
+   "apercu": "<div><div><div><div><div><div><div><p style=\"text-align:left\"><span>Application Deadline:</span></p></div></div></div></div></div></div></div>11/19/2026<p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">Address:</p>151 W 42nd Street<p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p sty",
+   "tele": "aucune"
+  },
+  {
+   "source": "UPA (Workday)",
+   "titre": "Agent(e) en économie (Maison de l'UPA)",
+   "url": "https://upa.wd10.myworkdayjobs.com/Externe/job/Maison-de-lUPA/Agent-e--en-conomie_DDP-00084",
+   "vuLe": "2026-11-19",
+   "pre": 3
+  },
+  {
+   "source": "UPA (Workday)",
+   "titre": "Adjoint(e) ()",
+   "url": "https://upa.wd10.myworkdayjobs.com/Externe/job/Adjoint-e-_DDP-00081",
+   "vuLe": "2026-11-19",
+   "pre": 3
   },
   {
    "source": "RIMQ emplois municipal",
-   "titre": "Chargé.e de projets",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/493148/municipalite-du-village-de-val-david/postes-cadres/laurentides/charge-e-de-projets.html",
-   "vuLe": "2026-11-17",
-   "pre": 4,
-   "emp": "Municipalité du Village de Val-David",
-   "lieu": "Val-David, QC",
-   "sal": "0–0 YEAR",
-   "echeance": "2026-11-23T00:00",
-   "titreOffre": "Chargé.e de projets",
-   "apercu": "Chargé.e de projets - Permanent - Municipalité du Village de Val-David",
+   "titre": "LAC-MÉGANTICDavid Drouin nommé directeur du Service de sécurité incendie Région Lac-Mégantic",
+   "url": "https://rimq.qc.ca/article/municipal/categorie/nominations/67/1229448/david-drouin-nomme-directeur-du-service-de-securite-incendie-region-lac-megantic.html",
+   "vuLe": "2026-11-19",
+   "pre": 3,
+   "apercu": "La Ville de Lac-Mégantic est heureuse d'annoncer la nomination de M. David Drouin à titre de directeur du Service de sécurité incendie Région Lac-Mégantic.Fort de plus de 20 ans d\u0003. . .",
+   "tele": "aucune"
+  },
+  {
+   "source": "RIMQ emplois municipal",
+   "titre": "COMMISSAIRE À LA LUTTE CONTRE LA CORRUPTIONFraude envers la Municipalité de Labrecque : une ancienne employée accusée",
+   "url": "https://rimq.qc.ca/article/municipal/categorie/ethique/150/1229383/fraude-envers-la-municipalite-de-labrecque-une-ancienne-employee-accusee-.html",
+   "vuLe": "2026-11-19",
+   "pre": 3,
+   "apercu": "Une ancienne employée de la Municipalité de Labrecque, Bianka Simard, est accusée de fraude ainsi que de fabrication et d'utilisation de faux documents à la suite d'une enquête du Commi. . .",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Québec emploi building systems engineering project manager November 11, 2026 Hydro-quebec Location Trois-Rivières (QC) Salary $81,112.00 to $135,187.00 annually Québec emploi Job number: a2a041e3-163d-412a-a576-99c0c5",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50707976?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 3,
+   "apercu": "Look at this job opportunity for a building systems engineering project manager at Hydro-quebec At Trois-Rivières, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Québec emploi environmental project manager November 11, 2026 Alliance ressources humaines inc. Location Verchères (QC) Salary $88,000.00 to $110,000.00 annually Québec emploi Job number: 3c85a5b1-7d01-4370-9ca3-653a62",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50708409?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 3,
+   "apercu": "Look at this job opportunity for a environmental project manager at Alliance ressources humaines inc. At Verchères, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "incertain",
+   "sal": "Salaire établi en fonction de l?expérience pouvant aller jusqu?à 110 000$"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Québec emploi mechanical engineering project manager November 11, 2026 Rho, caroline Location Saint-Anselme (QC) Salary $120,000.00 to $150,000.00 annually Québec emploi Job number: a215772a-55a6-4e45-8185-aa76b5",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50709042?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 3,
+   "apercu": "Look at this job opportunity for a mechanical engineering project manager at Rho, caroline At Saint-Anselme, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "hybride"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "Jobillico organization and productivity project officer November 12, 2026 Groupe Morneau Location Anjou (QC) Salary $85,000.00 to $121,146.00 annually Jobillico Job number: 17525856",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50710700?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 3,
+   "apercu": "Look at this job opportunity for a organization and productivity project officer at Groupe Morneau At Anjou, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "JobsMedia.ca project manager, construction November 12, 2026 Construction Simco Location Saint-Jean-sur-Richelieu (QC) Salary $60,000.00 to $75,000.00 annually JobsMedia.ca Job number: 195905B1794477602",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50710900?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 3,
+   "apercu": "Look at this job opportunity for a project manager, construction at Construction Simco At Saint-Jean-sur-Richelieu, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New AgCareers.com health and safety officer November 19, 2026 McCain Foods Location Carberry (MB) Salary $97,500.00 to $130,000.00 annually AgCareers.com Job number: 1053545",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763471?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 3,
+   "apercu": "Look at this job opportunity for a health and safety officer at McCain Foods At Carberry, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
    "tele": "aucune"
   },
   {
@@ -870,22 +871,6 @@
    "tele": "aucune"
   },
   {
-   "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New Jobillico staffing coordinator November 17, 2026 Conseil en Éducation des Premières Nations (CEPN) Location Wendake (QC) Salary $98,299.00 to $113,141.00 annually Jobillico Job number: 17705856",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746991?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 3
-  },
-  {
-   "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New SaskJobs administrative coordinator November 17, 2026 CAPITAL FIRE PROTECTION LTD. Location Regina (SK) Salary $20-27 SaskJobs Job number: 1560156",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747537?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 3,
-   "apercu": "Look at this job opportunity for a administrative coordinator at CAPITAL FIRE PROTECTION LTD. At Regina, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
    "source": "BMO",
    "titre": "Bank Manager I",
    "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260029382EXTERNALENUS/Bank-Manager-I",
@@ -904,88 +889,11 @@
    "tele": "aucune"
   },
   {
-   "source": "BMO",
-   "titre": "Bank Manager",
-   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260020873EXTERNALENUS/Bank-Manager",
-   "vuLe": "2026-11-17",
-   "pre": 3,
-   "emp": "Bank of Montreal",
-   "lieu": "Germantown, Wisconsin",
-   "titreOffre": "Bank Manager",
-   "apercu": "<div><div><div><div><div><div><div><p style=\"text-align:left\"><span>Application Deadline:</span></p></div></div></div></div></div></div></div>11/29/2026<p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">Address:</p>W156 N11150 Pilgrim Road<p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p",
-   "tele": "aucune"
-  },
-  {
    "source": "RIMQ emplois municipal",
    "titre": "Adjointe administrative",
    "url": "https://rimq.qc.ca/offre/emplois/municipal/493705/saint-valere/professionnels/centre-du-quebec/adjointe-administrative.html",
    "vuLe": "2026-11-17",
    "pre": 3
-  },
-  {
-   "source": "RIMQ emplois municipal",
-   "titre": "Analyste financier",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/493683/ville-de-chateauguay/postes-techniques/monteregie/analyste-financier.html",
-   "vuLe": "2026-11-17",
-   "pre": 3
-  },
-  {
-   "source": "RIMQ emplois municipal",
-   "titre": "Conseillère ou conseiller en planification et en développement urbains",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/493616/ville-de-riviere-du-loup/postes-cadres/bas-saint-laurent/conseillere-ou-conseiller-en-planification-et-en-developpement-urbains.html",
-   "vuLe": "2026-11-17",
-   "pre": 3
-  },
-  {
-   "source": "RIMQ emplois municipal",
-   "titre": "Conseillère ou conseiller en planification et en développement urbains Ville de Rivière-du-Loup",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/493616/ville-de-riviere-du-loup/postes-cadres/bas-saint-laurent/conseillere-ou-conseiller-en-planification-et-en-developpement-urbains.html",
-   "vuLe": "2026-11-17",
-   "pre": 3,
-   "emp": "Ville de Rivière-du-Loup",
-   "lieu": "Rivière-du-Loup, QC",
-   "sal": "0–0 YEAR",
-   "echeance": "2026-11-29T16:00",
-   "titreOffre": "Conseillère ou conseiller en planification et en développement urbains",
-   "apercu": "Conseillère ou conseiller en planification et en développement urbains - Poste à temps plein / Permanent - Ville de Rivière-du-Loup",
-   "tele": "aucune"
-  },
-  {
-   "source": "RIMQ emplois municipal",
-   "titre": "Analyste financier Ville de Châteauguay",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/493683/ville-de-chateauguay/postes-techniques/monteregie/analyste-financier.html",
-   "vuLe": "2026-11-17",
-   "pre": 3,
-   "emp": "Ville de Châteauguay",
-   "lieu": "Chateauguay, QC",
-   "sal": "0–0 YEAR",
-   "echeance": "2026-12-06T00:00",
-   "titreOffre": "Analyste financier",
-   "apercu": "Analyste financier - Temporaire (mai 2028) - Ville de Châteauguay",
-   "tele": "aucune"
-  },
-  {
-   "source": "RIMQ emplois municipal",
-   "titre": "Adjointe administrative Saint-Valère",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/493705/saint-valere/professionnels/centre-du-quebec/adjointe-administrative.html",
-   "vuLe": "2026-11-17",
-   "pre": 3,
-   "emp": "Saint-Valère",
-   "lieu": "St-Valère, QC",
-   "sal": "0–0 YEAR",
-   "echeance": "2026-11-30T12:00",
-   "titreOffre": "Adjointe administrative",
-   "apercu": "Adjointe administrative - Permanent, temps plein - Saint-Valère",
-   "tele": "aucune"
-  },
-  {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New Jobillico staffing coordinator November 17, 2026 Conseil en Éducation des Premières Nations (CEPN) Location Wendake (QC) Salary $98,299.00 to $113,141.00 annually Jobillico Job number: 17705856",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746991?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 3,
-   "apercu": "Look at this job opportunity for a staffing coordinator at Conseil en Éducation des Premières Nations (CEPN) At Wendake, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
   },
   {
    "source": "Guichet-Emplois développement économique Montréal",
@@ -1002,15 +910,6 @@
    "pre": 3,
    "apercu": "Look at this job opportunity for a economic development officer at Wahnapitae First Nation At Capreol, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
    "tele": "incertain"
-  },
-  {
-   "source": "Guichet-Emplois chargé de projet Laurentides",
-   "titre": "New JobsMedia.ca industrial engineering project manager November 16, 2026 Groupe EBR Location Québec (QC) Salary $70,000.00 to $100,000.00 annually JobsMedia.ca Job number: 271631B1794823202",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50738405?source=searchresults",
-   "vuLe": "2026-11-16",
-   "pre": 3,
-   "apercu": "Look at this job opportunity for a industrial engineering project manager at Groupe EBR At Québec, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
   },
   {
    "source": "Guichet-Emplois chargé de projet Laurentides",
@@ -1031,12 +930,95 @@
    "tele": "aucune"
   },
   {
-   "source": "Guichet-Emplois chargé de projet Laurentides",
-   "titre": "New JobsMedia.ca industrial engineering project manager November 15, 2026 Savico Labrador Métal Works Location Berthierville (QC) Salary $90,000.00 to $105,000.00 annually JobsMedia.ca Job number: 315228B1794736802",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50731628?source=searchresults",
-   "vuLe": "2026-11-15",
-   "pre": 3,
-   "apercu": "Look at this job opportunity for a industrial engineering project manager at Savico Labrador Métal Works At Berthierville, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "source": "Guichet-Emplois conseiller principal Laurentides",
+   "titre": "New Jobillico communications adviser November 19, 2026 Table des préfets de Lanaudière Location Joliette (QC) Salary $65,000.00 annually Jobillico Job number: 17712942",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763443?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 2
+  },
+  {
+   "source": "Investissement Québec carrières",
+   "titre": "Près de 4,5 M$ pour soutenir des entreprises d’économie sociale de la Montérégie Notre appui permettra à quatre projets porteurs de contribuer au développement économique et social des communautés de la région. Image",
+   "url": "https://www.investquebec.com/fr/tout-sur-nous/salle-de-presse/pres-de-45-m-pour-soutenir-des-entreprises-deconomie-sociale-de-la-monteregie",
+   "vuLe": "2026-11-19",
+   "pre": 2,
+   "apercu": "Notre appui permettra à quatre projets porteurs de contribuer au développement économique et social des communautés de la région.",
+   "tele": "aucune"
+  },
+  {
+   "source": "Chantier de l'économie sociale",
+   "titre": "Responsable du développement – projet",
+   "url": "https://chantier.qc.ca/offres-demploi/responsable-du-developpement-projet/",
+   "vuLe": "2026-11-19",
+   "pre": 2,
+   "tele": "aucune",
+   "sal": "Salaire : 27,40$",
+   "echeance": "Date limite pour déposer votre candidature : le 30 novembre à 23h59",
+   "apercu": " 18 novembre 2026 Responsable du développement – projet Le 7 A NOUS est l’OBNL porteur du projet connu sous le nom de Bâtiment 7, un lieu collectif acquis de chaude lutte par la population de Pointe-Saint-Charles pour en faire un pôle de projets et s"
+  },
+  {
+   "source": "FQM",
+   "titre": "Contrôleur(e) financier Finances · Bureau de Québec - Siège social · Hybride",
+   "url": "https://carriere.fqm.ca/jobs/8436955-controleur-e-financier",
+   "vuLe": "2026-11-19",
+   "pre": 2,
+   "emp": " Fédération québécoise des municipalités",
+   "lieu": "Québec",
+   "titreOffre": "Contrôleur(e) financier",
+   "apercu": "Avec plus de 1 000 municipalités et MRC membres, la Fédération québécoise des municipalités (FQM) a pour mission de défendre les intérêts politiques et économiques des régions. Vous collaborerez à faire du Québec de demain le Québec de toutes les régions en permettant aux municipalités du territoire d’offrir des milieux de vie dynamiques et prospèr",
+   "tele": "aucune"
+  },
+  {
+   "source": "RIMQ emplois municipal",
+   "titre": "Chargé.e de projet - Gestion des matières résiduelles",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/493985/compo-haut-richelieu/postes-de-soutien/monteregie/charge-e-de-projet-gestion-des-matieres-residuelles.html",
+   "vuLe": "2026-11-19",
+   "pre": 2
+  },
+  {
+   "source": "RIMQ emplois municipal",
+   "titre": "Chargé.e de projet - Gestion des matières résiduelles Compo Haut-Richelieu",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/493985/compo-haut-richelieu/postes-de-soutien/monteregie/charge-e-de-projet-gestion-des-matieres-residuelles.html",
+   "vuLe": "2026-11-19",
+   "pre": 2,
+   "emp": "Compo Haut-Richelieu",
+   "lieu": "Saint-Jean-sur-Richelieu , QC",
+   "sal": "0–0 YEAR",
+   "echeance": "2026-12-11T17:00",
+   "titreOffre": "Chargé.e de projet - Gestion des matières résiduelles",
+   "apercu": "RÉSUMÉ Compo-Haut-Richelieu inc. est une société dynamique, responsable de la gestion des matières résiduelles sur le territoire de la MRC du Haut-Richelieu. Toujours dans l’objectif d’offrir les meilleurs services avec les plus hauts standards environnementaux, la société développe de nombreux projets chaque année. Afin de concrétiser les orientat",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "AgCareers.com agriculture and food sector development consultant November 12, 2026 McCain Foods Location Toronto (ON) Salary $146,200.00 to $195,000.00 annually AgCareers.com Job number: 1052816",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50711566?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 2
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New Jobillico communications adviser November 19, 2026 Table des préfets de Lanaudière Location Joliette (QC) Salary $65,000.00 annually Jobillico Job number: 17712942",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763443?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 2,
+   "apercu": "Look at this job opportunity for a communications adviser at Table des préfets de Lanaudière At Joliette, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "AgCareers.com agriculture and food sector development consultant November 12, 2026 McCain Foods Location Toronto (ON) Salary $146,200.00 to $195,000.00 annually AgCareers.com Job number: 1052816",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50711566?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 2
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "AgCareers.com agriculture and food sector development consultant November 12, 2026 McCain Foods Location Toronto (ON) Salary $146,200.00 to $195,000.00 annually AgCareers.com Job number: 1052816",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50711566?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 2,
+   "apercu": "Look at this job opportunity for a agriculture and food sector development consultant at McCain Foods At Toronto, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
    "tele": "aucune"
   },
   {
@@ -1153,35 +1135,6 @@
    "tele": "aucune"
   },
   {
-   "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New Jobillico building supplies salesperson - retail November 17, 2026 Patrick Morin Location Prévost (QC) Salary $16.85 to $22.02 hourly Jobillico Job number: 17706375",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747088?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 2
-  },
-  {
-   "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New Jobillico building supplies salesperson - retail November 17, 2026 Patrick Morin Location Prévost (QC) Salary $16.85 to $22.02 hourly Jobillico Job number: 17706378",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747036?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 2
-  },
-  {
-   "source": "Santé Québec Laurentides carrières",
-   "titre": "Intervenant(e) | Remplacement | Clientèle géronto-psychiatrique en hébergement",
-   "url": "https://laurentides.carrieresante.gouv.qc.ca/poste/intervenante-remplacement-clientele-geronto-psychiatrique-en-hebergement/",
-   "vuLe": "2026-11-17",
-   "pre": 2,
-   "emp": {
-    "@type": "Organization",
-    "name": ""
-   },
-   "echeance": "2026-11-25T23:59:59-05:00",
-   "titreOffre": "Intervenant(e) | Remplacement | Clientèle géronto-psychiatrique en hébergement",
-   "apercu": "<h2>Mandat</h2> <div class=\"default-text\"> <span></p> <p><strong>ATTENTION :</strong> Veuillez d’abord vous assurer d’avoir créé votre profil sur la plateforme. Une fois cette étape complétée, retournez sur l’offre d’emploi et cliquez sur <strong>Postuler</strong> afin que votre candidature soit prise en compte pour le poste visé.<br />Les candidat",
-   "tele": "aucune"
-  },
-  {
    "source": "Ville de Sainte-Thérèse",
    "titre": "Permanent - Expire le 30 novembre 2026 Technicien(ne) en administration - Urbanisme",
    "url": "https://www.sainte-therese.ca/emplois/technicienne-en-administration-urbanisme",
@@ -1191,100 +1144,11 @@
    "tele": "aucune"
   },
   {
-   "source": "RIMQ emplois municipal",
-   "titre": "Responsable des communications et de l’expérience citoyenne",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/493613/mrc-de-montcalm/postes-cadres/lanaudiere/responsable-des-communications-et-de-l-experience-citoyenne.html",
-   "vuLe": "2026-11-17",
-   "pre": 2
-  },
-  {
-   "source": "RIMQ emplois municipal",
-   "titre": "Chargé(e) de projets - Transport et mobilité durabe",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/493697/ville-de-repentigny/postes-cadres/lanaudiere/charge-e-de-projets-transport-et-mobilite-durabe.html",
-   "vuLe": "2026-11-17",
-   "pre": 2
-  },
-  {
-   "source": "RIMQ emplois municipal",
-   "titre": "Responsable des communications et de l’expérience citoyenne MRC de Montcalm",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/493613/mrc-de-montcalm/postes-cadres/lanaudiere/responsable-des-communications-et-de-l-experience-citoyenne.html",
-   "vuLe": "2026-11-17",
-   "pre": 2,
-   "emp": "MRC de Montcalm",
-   "lieu": "Sainte-Julienne, QC",
-   "sal": "0–0 YEAR",
-   "echeance": "2026-11-29T00:00",
-   "titreOffre": "Responsable des communications et de l’expérience citoyenne",
-   "apercu": "Responsable des communications et de l’expérience citoyenne - Permanent, temps plein - MRC de Montcalm",
-   "tele": "aucune"
-  },
-  {
-   "source": "RIMQ emplois municipal",
-   "titre": "Technicien(ne) en administration - Urbanisme Ville de Sainte-Thérèse",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/493674/ville-de-sainte-therese/postes-techniques/laurentides/technicien-ne-en-administration-urbanisme.html",
-   "vuLe": "2026-11-17",
-   "pre": 2,
-   "emp": "Ville de Sainte-Thérèse",
-   "lieu": "Sainte-Thérèse, QC",
-   "sal": "0–0 YEAR",
-   "echeance": "2026-11-29T00:00",
-   "titreOffre": "Technicien(ne) en administration - Urbanisme",
-   "apercu": "Technicien(ne) en administration - Urbanisme - Permanent, temps plein - Ville de Sainte-Thérèse",
-   "tele": "aucune"
-  },
-  {
-   "source": "RIMQ emplois municipal",
-   "titre": "Chargé(e) de projets - Transport et mobilité durabe Ville de Repentigny",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/493697/ville-de-repentigny/postes-cadres/lanaudiere/charge-e-de-projets-transport-et-mobilite-durabe.html",
-   "vuLe": "2026-11-17",
-   "pre": 2,
-   "emp": "Ville de Repentigny",
-   "lieu": "Repentigny, QC",
-   "sal": "0–0 YEAR",
-   "echeance": "2027-01-15T16:00",
-   "titreOffre": "Chargé(e) de projets - Transport et mobilité durabe",
-   "apercu": "Chargé(e) de projets - Transport et mobilité durabe - Permanent, temps plein - Ville de Repentigny",
-   "tele": "aucune"
-  },
-  {
    "source": "Eluta développement économique Laurentides",
    "titre": "Administration de contrats, Gestion et prévention des différends, PLB STM",
    "url": "https://www.eluta.ca/search?q=d%C3%A9veloppement+%C3%A9conomique&l=Laurentides%2C+QC",
    "vuLe": "2026-11-17",
    "pre": 2
-  },
-  {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New Jobillico building supplies salesperson - retail November 17, 2026 Patrick Morin Location Prévost (QC) Salary $16.85 to $22.02 hourly Jobillico Job number: 17706375",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747088?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 2,
-   "apercu": "Look at this job opportunity for a building supplies salesperson - retail at Patrick Morin At Prévost, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New Jobillico building supplies salesperson - retail November 17, 2026 Patrick Morin Location Prévost (QC) Salary $16.85 to $22.02 hourly Jobillico Job number: 17706378",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747036?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 2,
-   "apercu": "Look at this job opportunity for a building supplies salesperson - retail at Patrick Morin At Prévost, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
-   "source": "Santé Québec Laurentides carrières",
-   "titre": "Ingénieur(e) biomédical(e) | Poste permanent -Télétravail",
-   "url": "https://laurentides.carrieresante.gouv.qc.ca/poste/ingenieure-biomedicale-poste-permanent-teletravail-2/",
-   "vuLe": "2026-11-16",
-   "pre": 2,
-   "emp": {
-    "@type": "Organization",
-    "name": ""
-   },
-   "echeance": "2026-12-13T23:59:59-05:00",
-   "titreOffre": "Ingénieur(e) biomédical(e) | Poste permanent -Télétravail",
-   "apercu": "<h2>Mandat</h2> <div class=\"default-text\"> <span></p> <p><strong>ATTENTION</strong> : Veuillez d’abord vous assurer d’avoir créé votre profil sur la plateforme. Une fois cette étape complétée, retournez sur l’offre d’emploi et cliquez sur Postuler afin que votre candidature soit prise en compte pour le poste visé.</p> <p>Les candidatures peuvent êt",
-   "tele": "aucune"
   },
   {
    "source": "Guichet-Emplois développement économique Montréal",
@@ -1303,35 +1167,396 @@
    "pre": 2
   },
   {
-   "source": "Guichet-Emplois coût de revient Montréal-Laval",
-   "titre": "Jobillico cost financial analyst November 07, 2026 Fed Finance Location Montréal (QC) Salary $100,000.00 to $140,000.00 annually Jobillico Job number: 17600997",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50681566?source=searchresults",
-   "vuLe": "2026-11-15",
-   "pre": 2
+   "source": "Guichet-Emplois conseiller principal Laurentides",
+   "titre": "New SaskJobs public health inspector November 19, 2026 Saskatchewan Health Authority Location North Battleford (SK) Salary Pay Band Public Health Inspector - Degree $38.13 to $46.55 (5 s... SaskJobs Job number: 1561060",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763735?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0
   },
   {
-   "source": "Guichet-Emplois chargé de projet Laurentides",
-   "titre": "indeed.com project executive – construction November 07, 2026 Rellocon inc Location Montréal (QC) Salary $85,000.00 annually indeed.com Job number: 10320244687",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50683464?source=searchresults",
-   "vuLe": "2026-11-15",
-   "pre": 2,
-   "apercu": "Look at this job opportunity for a project executive – construction at Rellocon inc At Montréal, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "source": "Guichet-Emplois conseiller principal Laurentides",
+   "titre": "New SaskJobs addictions counsellor November 19, 2026 Saskatchewan Health Authority Location Prince Albert (SK) Salary Pay Band Addictions Counsellor - Diploma $29.58 to $36.17 (5 st... SaskJobs Job number: 1560961",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763963?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller principal Laurentides",
+   "titre": "New indeed.com customer service representative - call centre November 19, 2026 uniPHARM Wholesale Drugs Location Richmond (BC) Salary $21.54 to $23.00 hourly indeed.com Job number: 10330860340",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763335?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller principal Laurentides",
+   "titre": "New Jobillico sales consultant - retail November 19, 2026 Patrick Morin Location Brossard (QC) Salary $16.85 to $25.69 hourly Jobillico Job number: 17714121",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763659?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller principal Laurentides",
+   "titre": "New SaskJobs social worker November 19, 2026 Saskatchewan Health Authority Location Saskatoon (SK) Salary Pay Band Social Worker - BSW $35.13 to $42.96 (5 step range) SaskJobs Job number: 1561022",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763881?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller principal Laurentides",
+   "titre": "New SaskJobs public health inspector November 19, 2026 Saskatchewan Health Authority Location Yorkton (SK) Salary Pay Band Public Health Inspector - Degree $38.13 to $46.55 (5 s... SaskJobs Job number: 1560912",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763808?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller principal Laurentides",
+   "titre": "New SaskJobs social worker November 19, 2026 Saskatchewan Health Authority Location Saskatoon (SK) Salary Pay Band Social Worker - BSW $35.13 to $42.96 (5 step range) SaskJobs Job number: 1561047",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763847?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller principal Laurentides",
+   "titre": "New indeed.com customer service representative - call centre November 19, 2026 Cambridge Label Inc. Location Cambridge (ON) Salary $19.00 hourly indeed.com Job number: 10330838970",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763339?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller principal Laurentides",
+   "titre": "New Jobillico community counsellor - social services November 19, 2026 Val-d'Or Native Friendship Centre Location Val-d'Or (QC) Salary $39.00 to $47.00 hourly Jobillico Job number: 17713542",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763513?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller principal Laurentides",
+   "titre": "New Jobillico assistant superintendent of schools November 19, 2026 Cégep de Saint-Hyacinthe Location Saint-Hyacinthe (QC) Salary $96,482.00 to $128,642.00 annually Jobillico Job number: 17713188",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763519?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "apercu": "Look at this job opportunity for a assistant superintendent of schools at Cégep de Saint-Hyacinthe At Saint-Hyacinthe, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois conseiller principal Laurentides",
+   "titre": "New Jobillico social worker November 19, 2026 Val-d'Or Native Friendship Centre Location Val-d'Or (QC) Salary $35.00 to $43.00 hourly Jobillico Job number: 17714073",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763460?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller principal Laurentides",
+   "titre": "New Jobillico union adviser November 19, 2026 Confédération des syndicats nationaux Location Rimouski (QC) Salary $112,236.00 to $121,763.00 annually Jobillico Job number: 17714130",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763581?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller principal Laurentides",
+   "titre": "New Jobillico personal academic counsellor November 19, 2026 Val-d'Or Native Friendship Centre Location Val-d'Or (QC) Salary $35.00 to $43.00 hourly Jobillico Job number: 17714139",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763524?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller principal Laurentides",
+   "titre": "New Jobillico human resources adviser November 19, 2026 Cégep de Trois-Rivières Location Trois-Rivières (QC) Salary $54,917.00 to $91,114.00 annually Jobillico Job number: 17713536",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763584?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois conseiller principal Laurentides",
+   "titre": "New Jobillico psychoeducator November 19, 2026 Val-d'Or Native Friendship Centre Location Val-d'Or (QC) Salary $35.00 to $43.00 hourly Jobillico Job number: 17714103",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763505?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois analyste Laurentides",
+   "titre": "New SaskJobs business systems consultant November 19, 2026 SaskGaming Location Regina (SK) Salary $87,104 - $114,405 Per Annum SaskJobs Job number: 1560850",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763030?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "apercu": "Look at this job opportunity for a business systems consultant at SaskGaming At Regina, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois analyste Laurentides",
+   "titre": "New Jobillico training adviser November 19, 2026 Cégep de Sainte-Foy Location Québec (QC) Salary $56,725.00 to $100,520.00 annually Jobillico Job number: 17712885",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50762986?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "apercu": "Look at this job opportunity for a training adviser at Cégep de Sainte-Foy At Québec, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois analyste Laurentides",
+   "titre": "New Jobillico education statistician November 19, 2026 Conseil en Éducation des Premières Nations (CEPN) Location Wendake (QC) Salary $98,299.00 to $113,141.00 annually Jobillico Job number: 17712861",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50762984?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "apercu": "Look at this job opportunity for a education statistician at Conseil en Éducation des Premières Nations (CEPN) At Wendake, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois analyste Laurentides",
+   "titre": "New Jobillico negotiator, purchasing contracts November 19, 2026 Fed Supply Location Saint-Bruno-de-Montarville (QC) Salary $80,000.00 to $90,000.00 annually Jobillico Job number: 17713449",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763357?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "apercu": "Look at this job opportunity for a negotiator, purchasing contracts at Fed Supply At Saint-Bruno-de-Montarville, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "incertain"
+  },
+  {
+   "source": "Guichet-Emplois analyste Laurentides",
+   "titre": "New Jobillico artificial intelligence (AI) consultant November 19, 2026 Grenier Automobile Location Terrebonne (QC) Salary $65,000.00 to $85,000.00 annually Jobillico Job number: 17713527",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763655?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "apercu": "Look at this job opportunity for a artificial intelligence (AI) consultant at Grenier Automobile At Terrebonne, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois analyste Laurentides",
+   "titre": "New AgCareers.com food processing quality control technologist November 19, 2026 Cargill, Inc Location London (ON) Salary $70,000.00 to $90,000.00 annually AgCareers.com Job number: 1053518",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763386?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "apercu": "Look at this job opportunity for a food processing quality control technologist at Cargill, Inc At London, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois analyste Laurentides",
+   "titre": "New indeed.com office administrator November 19, 2026 Superior Safety Codes Location Edmonton (AB) Salary $22.00 to $25.00 hourly indeed.com Job number: 10330822883",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763326?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "apercu": "Look at this job opportunity for a office administrator at Superior Safety Codes At Edmonton, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois analyste Laurentides",
+   "titre": "New Jobillico union adviser November 19, 2026 Confédération des syndicats nationaux Location Rimouski (QC) Salary $112,236.00 to $121,763.00 annually Jobillico Job number: 17714130",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763581?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0
+  },
+  {
+   "source": "Guichet-Emplois analyste Laurentides",
+   "titre": "New Jobillico human resources adviser November 19, 2026 Cégep de Trois-Rivières Location Trois-Rivières (QC) Salary $54,917.00 to $91,114.00 annually Jobillico Job number: 17713536",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763584?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0
+  },
+  {
+   "source": "BMO",
+   "titre": "De Novo Retail Relationship Banker",
+   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260025693EXTERNALENUS/De-Novo-Retail-Relationship-Banker",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "emp": "Bank of Montreal",
+   "lieu": "Tracy, California",
+   "titreOffre": "De Novo Retail Relationship Banker",
+   "apercu": "<div><div><div><div><div><div><div><p style=\"text-align:left\"><span>Application Deadline:</span></p></div></div></div></div></div></div></div>11/22/2026<p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">Address:</p>2030 Ellis Town Drive<p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p",
+   "tele": "aucune"
+  },
+  {
+   "source": "BMO",
+   "titre": "Analyst, Global Markets Corporate Banking",
+   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260027055EXTERNALENUS/Analyst-Global-Markets-Corporate-Banking",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "emp": "Bank of Montreal",
+   "lieu": "Chicago, Illinois",
+   "titreOffre": "Analyst, Global Markets Corporate Banking",
+   "apercu": "<div><div><div><div><div><div><div><p style=\"text-align:left\"><span>Application Deadline:</span></p></div></div></div></div></div></div></div>12/30/2026<p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">Address:</p>320 S Canal Street<p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p st",
+   "tele": "aucune"
+  },
+  {
+   "source": "BMO",
+   "titre": "Retail Relationship Banker",
+   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260031084EXTERNALENUS/Retail-Relationship-Banker",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "emp": "Bank of Montreal",
+   "lieu": "Whitefish Bay, Wisconsin",
+   "titreOffre": "Retail Relationship Banker",
+   "apercu": "<div><div><div><div><div><div><div><p style=\"text-align:left\"><span>Application Deadline:</span></p></div></div></div></div></div></div></div>11/29/2026<p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">Address:</p>177 E. Silver Spring Drive<p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"><",
+   "tele": "aucune"
+  },
+  {
+   "source": "Emploi Cégep",
+   "titre": "Consulter l'offre et postuler",
+   "url": "https://www.cegeplapocatiere.qc.ca/job/enseignante-en-espagnol/",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "apercu": "Temps partiel – Hiver 2027 Aperçu du travail Tâche disponible Temps partiel (équivalent d’environ 1 jour/semaine) Avez-vous ce qu’il faut ?",
+   "tele": "aucune",
+   "sal": "SALAIRE 57 484 $ à 110 711 $"
+  },
+  {
+   "source": "RIMQ emplois municipal",
+   "titre": "Inspecteur(trice) en bâtiments (temporaire)",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/494001/ville-de-saint-constant/postes-techniques/monteregie/inspecteur-trice-en-batiments-temporaire-.html",
+   "vuLe": "2026-11-19",
+   "pre": 0
+  },
+  {
+   "source": "RIMQ emplois municipal",
+   "titre": "Inspecteur(trice) en bâtiments (temporaire) Ville de Saint-Constant",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/494001/ville-de-saint-constant/postes-techniques/monteregie/inspecteur-trice-en-batiments-temporaire-.html",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "emp": "Ville de Saint-Constant",
+   "lieu": "Saint-Constant, QC",
+   "sal": "0–0 YEAR",
+   "echeance": "2026-12-22T00:00",
+   "titreOffre": "Inspecteur(trice) en bâtiments (temporaire)",
+   "apercu": "Inspecteur(trice) en bâtiments (temporaire) - Temporaire, temps plein - Ville de Saint-Constant",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New SaskJobs public health inspector November 19, 2026 Saskatchewan Health Authority Location North Battleford (SK) Salary Pay Band Public Health Inspector - Degree $38.13 to $46.55 (5 s... SaskJobs Job number: 1561060",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763735?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "apercu": "Look at this job opportunity for a public health inspector at Saskatchewan Health Authority At North Battleford, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New SaskJobs addictions counsellor November 19, 2026 Saskatchewan Health Authority Location Prince Albert (SK) Salary Pay Band Addictions Counsellor - Diploma $29.58 to $36.17 (5 st... SaskJobs Job number: 1560961",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763963?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "apercu": "Look at this job opportunity for a addictions counsellor at Saskatchewan Health Authority At Prince Albert, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New indeed.com customer service representative - call centre November 19, 2026 uniPHARM Wholesale Drugs Location Richmond (BC) Salary $21.54 to $23.00 hourly indeed.com Job number: 10330860340",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763335?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "apercu": "Look at this job opportunity for a customer service representative - call centre at uniPHARM Wholesale Drugs At Richmond, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New Jobillico sales consultant - retail November 19, 2026 Patrick Morin Location Brossard (QC) Salary $16.85 to $25.69 hourly Jobillico Job number: 17714121",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763659?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "apercu": "Look at this job opportunity for a sales consultant - retail at Patrick Morin At Brossard, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New SaskJobs social worker November 19, 2026 Saskatchewan Health Authority Location Saskatoon (SK) Salary Pay Band Social Worker - BSW $35.13 to $42.96 (5 step range) SaskJobs Job number: 1561022",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763881?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "apercu": "Look at this job opportunity for a social worker at Saskatchewan Health Authority At Saskatoon, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New SaskJobs public health inspector November 19, 2026 Saskatchewan Health Authority Location Yorkton (SK) Salary Pay Band Public Health Inspector - Degree $38.13 to $46.55 (5 s... SaskJobs Job number: 1560912",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763808?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "apercu": "Look at this job opportunity for a public health inspector at Saskatchewan Health Authority At Yorkton, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New SaskJobs social worker November 19, 2026 Saskatchewan Health Authority Location Saskatoon (SK) Salary Pay Band Social Worker - BSW $35.13 to $42.96 (5 step range) SaskJobs Job number: 1561047",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763847?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "apercu": "Look at this job opportunity for a social worker at Saskatchewan Health Authority At Saskatoon, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New indeed.com customer service representative - call centre November 19, 2026 Cambridge Label Inc. Location Cambridge (ON) Salary $19.00 hourly indeed.com Job number: 10330838970",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763339?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "apercu": "Look at this job opportunity for a customer service representative - call centre at Cambridge Label Inc. At Cambridge, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New Jobillico community counsellor - social services November 19, 2026 Val-d'Or Native Friendship Centre Location Val-d'Or (QC) Salary $39.00 to $47.00 hourly Jobillico Job number: 17713542",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763513?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "apercu": "Look at this job opportunity for a community counsellor - social services at Val-d'Or Native Friendship Centre At Val-d'Or, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New Jobillico social worker November 19, 2026 Val-d'Or Native Friendship Centre Location Val-d'Or (QC) Salary $35.00 to $43.00 hourly Jobillico Job number: 17714073",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763460?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "apercu": "Look at this job opportunity for a social worker at Val-d'Or Native Friendship Centre At Val-d'Or, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New Jobillico union adviser November 19, 2026 Confédération des syndicats nationaux Location Rimouski (QC) Salary $112,236.00 to $121,763.00 annually Jobillico Job number: 17714130",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763581?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "apercu": "Look at this job opportunity for a union adviser at Confédération des syndicats nationaux At Rimouski, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New Jobillico personal academic counsellor November 19, 2026 Val-d'Or Native Friendship Centre Location Val-d'Or (QC) Salary $35.00 to $43.00 hourly Jobillico Job number: 17714139",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763524?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "apercu": "Look at this job opportunity for a personal academic counsellor at Val-d'Or Native Friendship Centre At Val-d'Or, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New Jobillico human resources adviser November 19, 2026 Cégep de Trois-Rivières Location Trois-Rivières (QC) Salary $54,917.00 to $91,114.00 annually Jobillico Job number: 17713536",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763584?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "apercu": "Look at this job opportunity for a human resources adviser at Cégep de Trois-Rivières At Trois-Rivières, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "tele": "aucune"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New Jobillico psychoeducator November 19, 2026 Val-d'Or Native Friendship Centre Location Val-d'Or (QC) Salary $35.00 to $43.00 hourly Jobillico Job number: 17714103",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50763505?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "apercu": "Look at this job opportunity for a psychoeducator at Val-d'Or Native Friendship Centre At Val-d'Or, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
    "tele": "aucune"
   },
   {
    "source": "Guichet-Emplois développement économique Montréal",
-   "titre": "WhoPlusYou business development co-ordinator November 08, 2026 Fermoni Group Location Innisfil (ON) Salary $28,000.00 to $80,000.00 annually WhoPlusYou Job number: 626199441",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50696941?source=searchresults",
-   "vuLe": "2026-11-15",
-   "pre": 2
+   "titre": "Québec emploi director, economic development November 11, 2026 Municipalite de saint-apollinaire Location Saint-Apollinaire (QC) Salary $80,000.00 annually Québec emploi Job number: e48bdbd8-2927-44ac-878b-6e36db",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50708387?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0
   },
   {
    "source": "Guichet-Emplois développement économique Laurentides",
-   "titre": "WhoPlusYou business development co-ordinator November 08, 2026 Fermoni Group Location Innisfil (ON) Salary $28,000.00 to $80,000.00 annually WhoPlusYou Job number: 626199441",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50696941?source=searchresults",
-   "vuLe": "2026-11-15",
-   "pre": 2,
-   "apercu": "Look at this job opportunity for a business development co-ordinator at Fermoni Group At Innisfil, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
+   "titre": "Québec emploi director, economic development November 11, 2026 Municipalite de saint-apollinaire Location Saint-Apollinaire (QC) Salary $80,000.00 annually Québec emploi Job number: e48bdbd8-2927-44ac-878b-6e36db",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50708387?source=searchresults",
+   "vuLe": "2026-11-19",
+   "pre": 0,
+   "apercu": "Look at this job opportunity for a director, economic development at Municipalite de saint-apollinaire At Saint-Apollinaire, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
    "tele": "aucune"
   },
   {
@@ -1735,318 +1960,6 @@
    "tele": "aucune"
   },
   {
-   "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New indeed.com customer service representative - call centre November 17, 2026 CANARAY Location Mississauga (ON) Salary $17.95 hourly indeed.com Job number: 10328583997",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746806?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0
-  },
-  {
-   "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New Talent.com software developer November 17, 2026 Inabia Software & Consulting Inc. Location Vancouver (BC) Salary $80.00 to $95.00 hourly Talent.com Job number: 646466692791470610",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746997?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0,
-   "apercu": "Look at this job opportunity for a software developer at Inabia Software & Consulting Inc. At Vancouver, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "hybride"
-  },
-  {
-   "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New SaskJobs retail sales associate November 17, 2026 The Pioneer Co-Operative Association Limited Location Eastend (SK) Salary $16.32 - $21.07 per hour SaskJobs Job number: 1560143",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747482?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0
-  },
-  {
-   "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New indeed.com community rehabilitation worker November 17, 2026 Genesis Community Rehabilitation, Inc. Location North York (ON) Salary $26.00 to $32.00 hourly indeed.com Job number: 10328608619",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746899?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0
-  },
-  {
-   "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New indeed.com sales associate November 17, 2026 Maxi Shop Location Richmond Hill (ON) Salary $17.60 to $28.16 hourly indeed.com Job number: 10328596076",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746820?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0
-  },
-  {
-   "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New indeed.com customer service representative - call centre November 17, 2026 Falcon Transfers Location Mississauga (ON) Salary $18.50 to $31.85 hourly indeed.com Job number: 10328590031",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746885?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0
-  },
-  {
-   "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New indeed.com cloud administrator November 17, 2026 Powerline Plus Location Toronto (ON) Salary $50,000.00 annually indeed.com Job number: 10328604409",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746940?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0,
-   "apercu": "Look at this job opportunity for a cloud administrator at Powerline Plus At Toronto, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
-   "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New SaskJobs social worker November 17, 2026 Saskatchewan Health Authority Location Weyburn (SK) Salary Pay Band Social Worker - BSW $35.13 to $42.96 (5 step range) SaskJobs Job number: 1560227",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747320?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0
-  },
-  {
-   "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New SaskJobs social worker November 17, 2026 Saskatchewan Health Authority Location Yorkton (SK) Salary Pay Band Social Worker - BSW $35.13 to $42.96 (5 step range) SaskJobs Job number: 1560176",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747383?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0
-  },
-  {
-   "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New SaskJobs child and youth worker November 17, 2026 Government of Saskatchewan Location Estevan (SK) Salary 36.70 - 45.99 SaskJobs Job number: 1555828",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747405?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0
-  },
-  {
-   "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New indeed.com inside sales representative November 17, 2026 CTS TRUCK EQUIPMENTS AND REAPIR SPECIALIST Location Brampton (ON) Salary $55,200.00 to $125,300.00 annually indeed.com Job number: 10328601897",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746819?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0
-  },
-  {
-   "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New Jobillico accounting controller November 17, 2026 Construction Di Paolo inc. Location Anjou (QC) Salary $80,000.00 to $100,000.00 annually Jobillico Job number: 17628111",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50744643?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0,
-   "apercu": "Look at this job opportunity for a accounting controller at Construction Di Paolo inc. At Anjou, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
-   "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New Talent.com accountant November 17, 2026 Wesgroup Equipment Location Surrey (BC) Salary $40,000.00 to $50,000.00 annually Talent.com Job number: 616127486206355076",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50745664?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0,
-   "apercu": "Look at this job opportunity for a accountant at Wesgroup Equipment At Surrey, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
-   "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New CareerBeacon environmental consultant (except engineer) November 17, 2026 Department of Environment and Local Government Location Fredericton (NB) Salary $28.57 to $65.38 hourly CareerBeacon Job number: 2245736",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50745652?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0,
-   "apercu": "Look at this job opportunity for a environmental consultant (except engineer) at Department of Environment and Local Government At Fredericton, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
-   "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New JobsMedia.ca business system architect November 17, 2026 Revenu Québec Location Québec (QC) Salary $63,888.00 to $108,751.00 annually JobsMedia.ca Job number: 279724B1794909602",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50745684?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0,
-   "apercu": "Look at this job opportunity for a business system architect at Revenu Québec At Québec, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
-   "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New AgCareers.com supply chain specialist - procurement November 17, 2026 Farm Credit Canada Location Regina (SK) Salary $94,620.00 to $128,020.00 annually AgCareers.com Job number: 1053278",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746521?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0,
-   "apercu": "Look at this job opportunity for a supply chain specialist - procurement at Farm Credit Canada At Regina, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
-   "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New AgCareers.com supply chain specialist - procurement November 17, 2026 Farm Credit Canada Location Regina (SK) Salary $94,620.00 to $128,020.00 annually AgCareers.com Job number: 1053277",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746561?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0,
-   "apercu": "Look at this job opportunity for a supply chain specialist - procurement at Farm Credit Canada At Regina, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "hybride",
-   "echeance": "Closing Date (MM/DD/YYYY):11/30/2026&amp;nbsp;Worker Type:Permanent&amp;"
-  },
-  {
-   "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New CareerBeacon internal auditor November 17, 2026 Memorial University of Newfoundland Location St. John's (NL) Salary $74,288.00 to $96,297.00 annually CareerBeacon Job number: 2243226",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746565?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0,
-   "apercu": "Look at this job opportunity for a internal auditor at Memorial University of Newfoundland At St. John's, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune",
-   "echeance": "CLOSING DATE November 30, 2026 by 5:00 p"
-  },
-  {
-   "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New Jobillico buyer - purchasing November 17, 2026 Inacre conseil inc. Location Lachine (QC) Salary $65,000.00 to $75,000.00 annually Jobillico Job number: 17324321",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746456?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0,
-   "apercu": "Look at this job opportunity for a buyer - purchasing at Inacre conseil inc. At Lachine, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
-   "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New Jobillico biochemistry laboratory technician November 17, 2026 Les Entreprises Axchem Canada ltée Location Trois-Rivières (QC) Salary $33.35 hourly Jobillico Job number: 17704995",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746480?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0,
-   "apercu": "Look at this job opportunity for a biochemistry laboratory technician at Les Entreprises Axchem Canada ltée At Trois-Rivières, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
-   "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New Jobillico accountant-controller November 17, 2026 Tourmac inc. Location Saint-Rémi (QC) Salary $80,000.00 to $130,000.00 annually Jobillico Job number: 17705001",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746459?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0,
-   "apercu": "Look at this job opportunity for a accountant-controller at Tourmac inc. At Saint-Rémi, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
-   "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New Jobillico consultant, tourism - government November 17, 2026 Conseil en Éducation des Premières Nations (CEPN) Location Wendake (QC) Salary $74,502.00 to $102,086.00 annually Jobillico Job number: 17619285",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746469?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0
-  },
-  {
-   "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New Jobillico accountant November 17, 2026 Fed Finance Location Sainte-Julie (QC) Salary $70,000.00 to $90,000.00 annually Jobillico Job number: 17705658",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746980?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0,
-   "apercu": "Look at this job opportunity for a accountant at Fed Finance At Sainte-Julie, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
-   "source": "BMO",
-   "titre": "Director, Capital Markets - Capital Allocation & Management",
-   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260030626EXTERNALENUS/Director-Capital-Markets-Capital-Allocation-Management",
-   "vuLe": "2026-11-17",
-   "pre": 0,
-   "emp": "Bank of Montreal",
-   "lieu": "New York, New York",
-   "titreOffre": "Director, Capital Markets - Capital Allocation & Management",
-   "apercu": "<div><div><div><div><div><div><div><p style=\"text-align:left\"><span>Application Deadline:</span></p></div></div></div></div></div></div></div>01/30/2027<p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">Address:</p>151 W 42nd Street<p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p sty",
-   "tele": "aucune"
-  },
-  {
-   "source": "BMO",
-   "titre": "VP, Global Finance Risk / Prime Services Risk",
-   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260030453EXTERNALENUS/VP-Global-Finance-Risk-Prime-Services-Risk",
-   "vuLe": "2026-11-17",
-   "pre": 0,
-   "emp": "Bank of Montreal",
-   "lieu": "New York, New York",
-   "titreOffre": "VP, Global Finance Risk / Prime Services Risk",
-   "apercu": "<div><div><div><div><div><div><div><p style=\"text-align:left\"><span>Application Deadline:</span></p></div></div></div></div></div></div></div>11/29/2026<p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">Address:</p>151 W 42nd Street<p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p sty",
-   "tele": "aucune"
-  },
-  {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New indeed.com sales associate November 17, 2026 Dancewear Centre Location Toronto (ON) Salary $17.95 hourly indeed.com Job number: 10328607338",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746908?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0,
-   "apercu": "Look at this job opportunity for a sales associate at Dancewear Centre At Toronto, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New SaskJobs liquor store sales clerk November 17, 2026 SHERWOOD COOPERATIVE ASSOCIATION LIMITED Location Regina (SK) Salary $16.30 - $24.97 SaskJobs Job number: 1560353",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747436?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0,
-   "apercu": "Look at this job opportunity for a liquor store sales clerk at SHERWOOD COOPERATIVE ASSOCIATION LIMITED At Regina, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New indeed.com customer service representative - call centre November 17, 2026 CANARAY Location Mississauga (ON) Salary $17.95 hourly indeed.com Job number: 10328583997",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746806?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0,
-   "apercu": "Look at this job opportunity for a customer service representative - call centre at CANARAY At Mississauga, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New SaskJobs retail sales associate November 17, 2026 The Pioneer Co-Operative Association Limited Location Eastend (SK) Salary $16.32 - $21.07 per hour SaskJobs Job number: 1560143",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747482?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0,
-   "apercu": "Look at this job opportunity for a retail sales associate at The Pioneer Co-Operative Association Limited At Eastend, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New indeed.com community rehabilitation worker November 17, 2026 Genesis Community Rehabilitation, Inc. Location North York (ON) Salary $26.00 to $32.00 hourly indeed.com Job number: 10328608619",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746899?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0,
-   "apercu": "Look at this job opportunity for a community rehabilitation worker at Genesis Community Rehabilitation, Inc. At North York, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New indeed.com sales associate November 17, 2026 Maxi Shop Location Richmond Hill (ON) Salary $17.60 to $28.16 hourly indeed.com Job number: 10328596076",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746820?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0,
-   "apercu": "Look at this job opportunity for a sales associate at Maxi Shop At Richmond Hill, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New indeed.com customer service representative - call centre November 17, 2026 Falcon Transfers Location Mississauga (ON) Salary $18.50 to $31.85 hourly indeed.com Job number: 10328590031",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746885?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0,
-   "apercu": "Look at this job opportunity for a customer service representative - call centre at Falcon Transfers At Mississauga, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New SaskJobs social worker November 17, 2026 Saskatchewan Health Authority Location Weyburn (SK) Salary Pay Band Social Worker - BSW $35.13 to $42.96 (5 step range) SaskJobs Job number: 1560227",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747320?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0,
-   "apercu": "Look at this job opportunity for a social worker at Saskatchewan Health Authority At Weyburn, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New SaskJobs social worker November 17, 2026 Saskatchewan Health Authority Location Yorkton (SK) Salary Pay Band Social Worker - BSW $35.13 to $42.96 (5 step range) SaskJobs Job number: 1560176",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747383?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0,
-   "apercu": "Look at this job opportunity for a social worker at Saskatchewan Health Authority At Yorkton, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New SaskJobs child and youth worker November 17, 2026 Government of Saskatchewan Location Estevan (SK) Salary 36.70 - 45.99 SaskJobs Job number: 1555828",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747405?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0,
-   "apercu": "Look at this job opportunity for a child and youth worker at Government of Saskatchewan At Estevan, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New indeed.com inside sales representative November 17, 2026 CTS TRUCK EQUIPMENTS AND REAPIR SPECIALIST Location Brampton (ON) Salary $55,200.00 to $125,300.00 annually indeed.com Job number: 10328601897",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746819?source=searchresults",
-   "vuLe": "2026-11-17",
-   "pre": 0,
-   "apercu": "Look at this job opportunity for a inside sales representative at CTS TRUCK EQUIPMENTS AND REAPIR SPECIALIST At Brampton, null or search through thousands of other job postings on Job Bank, Canada’s one-stop job board.",
-   "tele": "aucune"
-  },
-  {
    "source": "Guichet-Emplois développement économique Montréal",
    "titre": "New Jobillico consultant, tourism - government November 17, 2026 Conseil en Éducation des Premières Nations (CEPN) Location Wendake (QC) Salary $74,502.00 to $102,086.00 annually Jobillico Job number: 17619285",
    "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746469?source=searchresults",
@@ -2070,20 +1983,6 @@
    "pre": 0
   },
   {
-   "source": "RIMQ emplois municipal",
-   "titre": "Trésorier(ère) Localité de Radisson",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/493577/localite-de-radisson/postes-cadres/nord-du-quebec/tresorier-ere-.html",
-   "vuLe": "2026-11-16",
-   "pre": 0,
-   "emp": "Localité de Radisson",
-   "lieu": "Radisson, QC",
-   "sal": "0–0 YEAR",
-   "echeance": "2026-12-06T00:00",
-   "titreOffre": "Trésorier(ère)",
-   "apercu": "Trésorier(ère) - Permanent,temps plein - Localité de Radisson",
-   "tele": "aucune"
-  },
-  {
    "source": "Guichet-Emplois développement économique Montréal",
    "titre": "New Jobillico marketing researcher November 16, 2026 Ville de Laval Location Laval (QC) Salary $124,926.80 to $156,159.47 annually Jobillico Job number: 17454891",
    "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739924?source=searchresults",
@@ -2103,789 +2002,524 @@
  "disparus": [
   {
    "source": "Guichet-Emplois développement économique Laurentides",
-   "titre": "New indeed.com economic development officer November 10, 2026 Wahnapitae First Nation Location Capreol (ON) Salary $37.00 to $57.40 hourly indeed.com Job number: 10322200803",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50700930?source=searchresults"
+   "titre": "New AgCareers.com agriculture and food sector development consultant November 11, 2026 Farm Credit Canada Location Edmonton (AB) Salary $94,620.00 to $128,020.00 annually AgCareers.com Job number: 1052651",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50706304?source=searchresults"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "New AgCareers.com agriculture and food sector development consultant November 11, 2026 Farm Credit Canada Location Edmonton (AB) Salary $94,620.00 to $128,020.00 annually AgCareers.com Job number: 1052648",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50706375?source=searchresults"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "New Québec emploi economic development officer November 10, 2026 Municipalité régionale de comté de mékinac Location Saint-Tite (QC) Salary $38.47 to $42.35 hourly Québec emploi Job number: f0e5989b-9dc5-4da8-9bf4-6d1930",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50702312?source=searchresults"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Laurentides",
+   "titre": "ZipRecruiter business development officer November 09, 2026 Tippet Rishardson Location Scarborough (ON) Salary $78,142.41 annually ZipRecruiter Job number: 3554e848",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50707189?source=searchresults"
   },
   {
    "source": "Guichet-Emplois développement économique Montréal",
-   "titre": "New indeed.com economic development officer November 10, 2026 Wahnapitae First Nation Location Capreol (ON) Salary $37.00 to $57.40 hourly indeed.com Job number: 10322200803",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50700930?source=searchresults"
+   "titre": "New AgCareers.com agriculture and food sector development consultant November 11, 2026 Farm Credit Canada Location Edmonton (AB) Salary $94,620.00 to $128,020.00 annually AgCareers.com Job number: 1052651",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50706304?source=searchresults"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "New AgCareers.com agriculture and food sector development consultant November 11, 2026 Farm Credit Canada Location Edmonton (AB) Salary $94,620.00 to $128,020.00 annually AgCareers.com Job number: 1052648",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50706375?source=searchresults"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "New Québec emploi economic development officer November 10, 2026 Municipalité régionale de comté de mékinac Location Saint-Tite (QC) Salary $38.47 to $42.35 hourly Québec emploi Job number: f0e5989b-9dc5-4da8-9bf4-6d1930",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50702312?source=searchresults"
+  },
+  {
+   "source": "Guichet-Emplois développement économique Montréal",
+   "titre": "ZipRecruiter business development officer November 09, 2026 Tippet Rishardson Location Scarborough (ON) Salary $78,142.41 annually ZipRecruiter Job number: 3554e848",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50707189?source=searchresults"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New indeed.com inside sales representative November 17, 2026 CTS TRUCK EQUIPMENTS AND REAPIR SPECIALIST Location Brampton (ON) Salary $55,200.00 to $125,300.00 annually indeed.com Job number: 10328601897",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746819?source=searchresults"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New Jobillico staffing coordinator November 17, 2026 Conseil en Éducation des Premières Nations (CEPN) Location Wendake (QC) Salary $98,299.00 to $113,141.00 annually Jobillico Job number: 17705856",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746991?source=searchresults"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New SaskJobs child and youth worker November 17, 2026 Government of Saskatchewan Location Estevan (SK) Salary 36.70 - 45.99 SaskJobs Job number: 1555828",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747405?source=searchresults"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New CareerBeacon communications officer (except emergency services) November 17, 2026 City of Saint John Location Saint John (NB) Salary $91,408.00 to $91,408.00 annually CareerBeacon Job number: 2245756",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747001?source=searchresults"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New SaskJobs social worker November 17, 2026 Saskatchewan Health Authority Location Yorkton (SK) Salary Pay Band Social Worker - BSW $35.13 to $42.96 (5 step range) SaskJobs Job number: 1560176",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747383?source=searchresults"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New SaskJobs social worker November 17, 2026 Saskatchewan Health Authority Location Weyburn (SK) Salary Pay Band Social Worker - BSW $35.13 to $42.96 (5 step range) SaskJobs Job number: 1560227",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747320?source=searchresults"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New indeed.com customer service representative - call centre November 17, 2026 Falcon Transfers Location Mississauga (ON) Salary $18.50 to $31.85 hourly indeed.com Job number: 10328590031",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746885?source=searchresults"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New indeed.com sales associate November 17, 2026 Maxi Shop Location Richmond Hill (ON) Salary $17.60 to $28.16 hourly indeed.com Job number: 10328596076",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746820?source=searchresults"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New Jobillico building supplies salesperson - retail November 17, 2026 Patrick Morin Location Prévost (QC) Salary $16.85 to $22.02 hourly Jobillico Job number: 17706378",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747036?source=searchresults"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New indeed.com community rehabilitation worker November 17, 2026 Genesis Community Rehabilitation, Inc. Location North York (ON) Salary $26.00 to $32.00 hourly indeed.com Job number: 10328608619",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746899?source=searchresults"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New Jobillico building supplies salesperson - retail November 17, 2026 Patrick Morin Location Prévost (QC) Salary $16.85 to $22.02 hourly Jobillico Job number: 17706375",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747088?source=searchresults"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New SaskJobs retail sales associate November 17, 2026 The Pioneer Co-Operative Association Limited Location Eastend (SK) Salary $16.32 - $21.07 per hour SaskJobs Job number: 1560143",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747482?source=searchresults"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New indeed.com customer service representative - call centre November 17, 2026 CANARAY Location Mississauga (ON) Salary $17.95 hourly indeed.com Job number: 10328583997",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746806?source=searchresults"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New SaskJobs liquor store sales clerk November 17, 2026 SHERWOOD COOPERATIVE ASSOCIATION LIMITED Location Regina (SK) Salary $16.30 - $24.97 SaskJobs Job number: 1560353",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747436?source=searchresults"
+  },
+  {
+   "source": "Guichet-Emplois conseiller Laurentides",
+   "titre": "New indeed.com sales associate November 17, 2026 Dancewear Centre Location Toronto (ON) Salary $17.95 hourly indeed.com Job number: 10328607338",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746908?source=searchresults"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "New AgCareers.com agriculture and food sector development consultant November 11, 2026 Farm Credit Canada Location Edmonton (AB) Salary $94,620.00 to $128,020.00 annually AgCareers.com Job number: 1052651",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50706304?source=searchresults"
+  },
+  {
+   "source": "Guichet-Emplois agroalimentaire Québec",
+   "titre": "New AgCareers.com agriculture and food sector development consultant November 11, 2026 Farm Credit Canada Location Edmonton (AB) Salary $94,620.00 to $128,020.00 annually AgCareers.com Job number: 1052648",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50706375?source=searchresults"
   },
   {
    "source": "Guichet-Emplois chargé de projet Laurentides",
-   "titre": "Québec emploi Information systems specialists October 31, 2026 Fop experts conseils inc. Location Brossard (QC) Salary $60,000.00 annually Québec emploi Job number: 63583894-15bf-49af-8d23-3de37d",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50642682?source=searchresults"
+   "titre": "New Québec emploi engineering superintendent November 11, 2026 Ville de pont-rouge Location Pont-Rouge (QC) Salary $85,092.80 to $98,696.00 annually Québec emploi Job number: f7a83e24-b05c-4d4e-ba01-677780",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50706019?source=searchresults"
   },
   {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New Québec emploi human resources management consultant November 16, 2026 Auberge madeleine Location Montréal (QC) Salary $33.00 to $41.70 hourly Québec emploi Job number: 44bbe94c-0681-409a-83c5-5a6bfe",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739915?source=searchresults"
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "New JobsMedia.ca agronomist November 13, 2026 GROUPE CONSEIL UDA INC. Location Saint-Charles-sur-Richelieu (QC) Salary $58,500.00 to $87,750.00 annually JobsMedia.ca Job number: 312354B1794583207",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50722177?source=searchresults"
   },
   {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New Québec emploi community animator November 16, 2026 Centr'elles, comité d'action des femmes d'avignon Location Saint-Omer (QC) Salary $28.45 hourly Québec emploi Job number: fef64e5c-64ea-4248-a18f-d194e3",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739936?source=searchresults"
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "New JobsMedia.ca agronomist November 13, 2026 GROUPE CONSEIL UDA INC. Location Québec (QC) Salary $58,500.00 to $87,750.00 annually JobsMedia.ca Job number: 312355B1794583203",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50722183?source=searchresults"
   },
   {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New Québec emploi customer service assistant November 16, 2026 Gendron houle perreault cpa inc. Location Joliette (QC) Salary $20.00 hourly Québec emploi Job number: fc327e47-46c9-41a8-bdcb-099331",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739848?source=searchresults"
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "New JobsMedia.ca industrial engineering project manager November 15, 2026 Savico Labrador Métal Works Location Berthierville (QC) Salary $90,000.00 to $105,000.00 annually JobsMedia.ca Job number: 315228B1794736802",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50731628?source=searchresults"
   },
   {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New Jobillico social workers supervisor November 16, 2026 Centre de services scolaire de Portneuf Location Saint-Raymond (QC) Salary $56,670.00 to $100,410.00 annually Jobillico Job number: 17703297",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739877?source=searchresults"
+   "source": "Guichet-Emplois chargé de projet Laurentides",
+   "titre": "New JobsMedia.ca industrial engineering project manager November 16, 2026 Groupe EBR Location Québec (QC) Salary $70,000.00 to $100,000.00 annually JobsMedia.ca Job number: 271631B1794823202",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50738405?source=searchresults"
   },
   {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New CivicJobs.ca human resources adviser November 16, 2026 City of Maple Ridge Location Maple Ridge (BC) Salary $94,174.33 annually CivicJobs.ca Job number: 117345",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739853?source=searchresults"
-  },
-  {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New CareerBeacon retail salesperson November 16, 2026 Eddy Group Limited Location Miramichi (NB) Salary $40,000.00 to $45,000.00 annually CareerBeacon Job number: 2245681",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50740174?source=searchresults"
-  },
-  {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New Jobillico marketing researcher November 16, 2026 Ville de Laval Location Laval (QC) Salary $124,926.80 to $156,159.47 annually Jobillico Job number: 17454891",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739924?source=searchresults"
-  },
-  {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New indeed.com sales associate November 16, 2026 Red Apple Stores, ULC Location Fort Frances (ON) Salary $17.95 hourly indeed.com Job number: 10327648797",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739928?source=searchresults"
-  },
-  {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New SaskJobs mental health proctor November 16, 2026 FASD Network of Saskatchewan Inc. Location Saskatoon (SK) Salary $23/hr SaskJobs Job number: 1559971",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50740004?source=searchresults"
-  },
-  {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New SaskJobs mental health proctor November 16, 2026 Karis Disability Services Location Warman (SK) Salary $20.37 per hour SaskJobs Job number: 1559973",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50740072?source=searchresults"
-  },
-  {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New indeed.com account manager November 16, 2026 CHC Paint & Body Shop Supplies Location Hamilton (ON) Salary $55,000.00 to $60,000.00 annually indeed.com Job number: 10327641290",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739852?source=searchresults"
-  },
-  {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New indeed.com inside sales representative November 16, 2026 Componex Location Concord (ON) Salary $35,200.00 to $40,000.00 annually indeed.com Job number: 10327635159",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739890?source=searchresults"
-  },
-  {
-   "source": "Guichet-Emplois conseiller Laurentides",
-   "titre": "New Québec emploi shop clerk November 16, 2026 Scolart Location Québec (QC) Salary $18.45 hourly Québec emploi Job number: 712489df-600c-4fcf-9a63-607b28",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739480?source=searchresults"
+   "source": "Eluta commissaire Québec",
+   "titre": "Agent ou agente de planification, de programmation et de recherche-CPQS SNS",
+   "url": "https://www.eluta.ca/search?q=commissaire&l=Qu%C3%A9bec"
   },
   {
    "source": "Eluta développement économique Laurentides",
-   "titre": "Technicien.ne (temps plein)",
+   "titre": "Conseiller sénior, prix de transfert",
    "url": "https://www.eluta.ca/search?q=d%C3%A9veloppement+%C3%A9conomique&l=Laurentides%2C+QC"
   },
   {
    "source": "Eluta développement économique Laurentides",
-   "titre": "Chargées, chargés de travaux pratiques - Département de mathématiques et génie industriel - Trimestre hiver 2027",
-   "url": "https://www.eluta.ca/search?q=d%C3%A9veloppement+%C3%A9conomique&l=Laurentides%2C+QC"
-  },
-  {
-   "source": "Eluta développement économique Laurentides",
-   "titre": "Programmeuse, programmeur - analyste",
+   "titre": "Agente ou agent de soutien administratif - Joliette",
    "url": "https://www.eluta.ca/search?q=d%C3%A9veloppement+%C3%A9conomique&l=Laurentides%2C+QC"
   },
   {
    "source": "RIMQ emplois municipal",
-   "titre": "Directeur, directrice - Travaux publics et services techniques Municipalité de Grenville-sur-la-Rouge LAURENTIDES",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/491438/municipalite-de-grenville-sur-la-rouge/postes-cadres/laurentides/directeur-directrice-travaux-publics-et-services-techniques.html"
+   "titre": "Directeur / Directrice des technologies de l’information",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/493171/ville-de-cowansville/postes-cadres/estrie/directeur-directrice-des-technologies-de-l-information.html"
   },
   {
    "source": "RIMQ emplois municipal",
-   "titre": "Adjointe administrative ou adjoint administratif - Service du greffe et des affaires juridiques",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/492819/ville-de-salaberry-de-valleyfield/postes-de-soutien/monteregie/adjointe-administrative-ou-adjoint-administratif-service-du-greffe-et-des-affaires-juridiques.html"
+   "titre": "Chef division vie communautaire Ville de Contrecoeur MONTÉRÉGIE",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/491981/ville-de-contrecoeur/postes-cadres/monteregie/chef-division-vie-communautaire.html"
   },
   {
    "source": "RIMQ emplois municipal",
-   "titre": "Directrice ou directeur de la culture, des loisirs et de la vie communautaire Ville de Trois-Rivières MAURICIE",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/492319/ville-de-trois-rivieres/postes-cadres/mauricie/directrice-ou-directeur-de-la-culture-des-loisirs-et-de-la-vie-communautaire.html"
+   "titre": "Trésorier(ère) Localité de Radisson",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/493577/localite-de-radisson/postes-cadres/nord-du-quebec/tresorier-ere-.html"
   },
   {
    "source": "RIMQ emplois municipal",
-   "titre": "Conseiller(ère) en urbanisme Ville de Saint-Lambert",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/493435/ville-de-saint-lambert/postes-techniques/monteregie/conseiller-ere-en-urbanisme.html"
+   "titre": "Agent(e) aux loisirs | Service des loisirs",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/493043/ville-de-boisbriand/postes-de-soutien/laurentides/agent-e-aux-loisirs-service-des-loisirs.html"
   },
   {
    "source": "RIMQ emplois municipal",
-   "titre": "Directeur(trice) des relations avec le milieu et des technologies",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/493428/ville-de-sainte-agathe-des-monts/postes-cadres/laurentides/directeur-trice-des-relations-avec-le-milieu-et-des-technologies.html"
+   "titre": "Chargé.e de projets",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/493148/municipalite-du-village-de-val-david/postes-cadres/laurentides/charge-e-de-projets.html"
   },
   {
    "source": "RIMQ emplois municipal",
-   "titre": "Conseiller(ère) budgétaire",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/493423/ville-de-montreal/professionnels/montreal/conseiller-ere-budgetaire.html"
+   "titre": "Adjointe administrative Saint-Valère",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/493705/saint-valere/professionnels/centre-du-quebec/adjointe-administrative.html"
   },
   {
    "source": "RIMQ emplois municipal",
-   "titre": "Chargé de projet Proximité Plein Air – Volet développement professionnel",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/493374/association-quebecoise-du-loisir-public/professionnels/montreal/charge-de-projet-proximite-plein-air-volet-developpement-professionnel.html"
+   "titre": "Chargé(e) de projets - Transport et mobilité durabe Ville de Repentigny",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/493697/ville-de-repentigny/postes-cadres/lanaudiere/charge-e-de-projets-transport-et-mobilite-durabe.html"
   },
   {
    "source": "RIMQ emplois municipal",
-   "titre": "Adjoint administratif, adjointe administrative à l'accueil Ville de Delson",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/493484/ville-de-delson/postes-de-soutien/monteregie/adjoint-administratif-adjointe-administrative-a-l-accueil.html"
+   "titre": "Analyste financier Ville de Châteauguay",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/493683/ville-de-chateauguay/postes-techniques/monteregie/analyste-financier.html"
   },
   {
    "source": "RIMQ emplois municipal",
-   "titre": "Agent(e) - travaux publics et ingénierie Ville de Montréal",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/493575/ville-de-montreal/postes-techniques/montreal/agent-e-travaux-publics-et-ingenierie.html"
+   "titre": "Technicien(ne) en administration - Urbanisme Ville de Sainte-Thérèse",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/493674/ville-de-sainte-therese/postes-techniques/laurentides/technicien-ne-en-administration-urbanisme.html"
   },
   {
    "source": "RIMQ emplois municipal",
-   "titre": "Agent(e) - travaux publics et ingénierie",
-   "url": "https://rimq.qc.ca/offre/emplois/municipal/493575/ville-de-montreal/postes-techniques/montreal/agent-e-travaux-publics-et-ingenierie.html"
+   "titre": "Conseillère ou conseiller aux communications Ville de Rivière-du-Loup",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/493669/ville-de-riviere-du-loup/postes-cadres/bas-saint-laurent/conseillere-ou-conseiller-aux-communications.html"
+  },
+  {
+   "source": "RIMQ emplois municipal",
+   "titre": "Directeur.trice des loisirs, culture et vie communautaire Ville de Mercier",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/493668/ville-de-mercier/postes-cadres/monteregie/directeur-trice-des-loisirs-culture-et-vie-communautaire.html"
+  },
+  {
+   "source": "RIMQ emplois municipal",
+   "titre": "Conseillère ou conseiller en planification et en développement urbains Ville de Rivière-du-Loup",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/493616/ville-de-riviere-du-loup/postes-cadres/bas-saint-laurent/conseillere-ou-conseiller-en-planification-et-en-developpement-urbains.html"
+  },
+  {
+   "source": "RIMQ emplois municipal",
+   "titre": "Responsable des communications et de l’expérience citoyenne MRC de Montcalm",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/493613/mrc-de-montcalm/postes-cadres/lanaudiere/responsable-des-communications-et-de-l-experience-citoyenne.html"
+  },
+  {
+   "source": "RIMQ emplois municipal",
+   "titre": "Chargé(e) de projets - Transport et mobilité durabe",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/493697/ville-de-repentigny/postes-cadres/lanaudiere/charge-e-de-projets-transport-et-mobilite-durabe.html"
+  },
+  {
+   "source": "RIMQ emplois municipal",
+   "titre": "Conseillère ou conseiller aux communications",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/493669/ville-de-riviere-du-loup/postes-cadres/bas-saint-laurent/conseillere-ou-conseiller-aux-communications.html"
+  },
+  {
+   "source": "RIMQ emplois municipal",
+   "titre": "Directeur.trice des loisirs, culture et vie communautaire",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/493668/ville-de-mercier/postes-cadres/monteregie/directeur-trice-des-loisirs-culture-et-vie-communautaire.html"
+  },
+  {
+   "source": "RIMQ emplois municipal",
+   "titre": "Conseillère ou conseiller en planification et en développement urbains",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/493616/ville-de-riviere-du-loup/postes-cadres/bas-saint-laurent/conseillere-ou-conseiller-en-planification-et-en-developpement-urbains.html"
+  },
+  {
+   "source": "RIMQ emplois municipal",
+   "titre": "Responsable des communications et de l’expérience citoyenne",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/493613/mrc-de-montcalm/postes-cadres/lanaudiere/responsable-des-communications-et-de-l-experience-citoyenne.html"
+  },
+  {
+   "source": "RIMQ emplois municipal",
+   "titre": "Analyste financier",
+   "url": "https://rimq.qc.ca/offre/emplois/municipal/493683/ville-de-chateauguay/postes-techniques/monteregie/analyste-financier.html"
   },
   {
    "source": "BMO",
-   "titre": "C++ Quant Developer",
-   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260001393EXTERNALENUS/C-Quant-Developer"
+   "titre": "Retail Relationship Banker",
+   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260027950EXTERNALENUS/Retail-Relationship-Banker"
   },
   {
    "source": "BMO",
-   "titre": "Premier Client Specialist",
-   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260026955EXTERNALENUS/Premier-Client-Specialist"
+   "titre": "VP, Global Finance Risk / Prime Services Risk",
+   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260030453EXTERNALENUS/VP-Global-Finance-Risk-Prime-Services-Risk"
   },
   {
    "source": "BMO",
-   "titre": "Financial Center Manager",
-   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260029562EXTERNALENUS/Financial-Center-Manager"
+   "titre": "Director, Capital Markets - Capital Allocation & Management",
+   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260030626EXTERNALENUS/Director-Capital-Markets-Capital-Allocation-Management"
   },
   {
    "source": "BMO",
-   "titre": "Financial Center Manager",
-   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260029710EXTERNALENUS/Financial-Center-Manager"
-  },
-  {
-   "source": "BMO",
-   "titre": "Associate Banker",
-   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260027685EXTERNALENUS/Associate-Banker"
+   "titre": "Bank Manager",
+   "url": "https://jobs.bmo.com/us/en/job/BOMOGLOBALR260020873EXTERNALENUS/Bank-Manager"
   },
   {
    "source": "Santé Québec Laurentides carrières",
-   "titre": "Agent(e) de la gestion du personnel | Poste permanent | Recrutement et affaires médicales",
-   "url": "https://laurentides.carrieresante.gouv.qc.ca/poste/agente-de-la-gestion-du-personnel-poste-permanent-recrutement-et-affaires-medicales-3/"
+   "titre": "Technicien(ne) en information de santé | Remplacement | Hôpital Saint-Jérôme",
+   "url": "https://laurentides.carrieresante.gouv.qc.ca/poste/technicienne-en-information-de-sante-remplacement-hopital-saint-jerome-2/"
   },
   {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Restaurant and food service managers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=60030&sort=M%23results-list-content"
+   "source": "Santé Québec Laurentides carrières",
+   "titre": "Éducateur(-trice) ou Technicien(ne) en éducation spécialisée | Clientèle DI – TSA – 16 à 25 ans",
+   "url": "https://laurentides.carrieresante.gouv.qc.ca/poste/educateur-trice-ou-technicienne-en-education-specialisee-clientele-di-tsa-16-a-25-ans/"
   },
   {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Retail and wholesale trade managers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=60020&sort=M%23results-list-content"
+   "source": "Santé Québec Laurentides carrières",
+   "titre": "Ingénieur(e) biomédical(e) | Poste permanent -Télétravail",
+   "url": "https://laurentides.carrieresante.gouv.qc.ca/poste/ingenieure-biomedicale-poste-permanent-teletravail-2/"
   },
   {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Administrative officers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=13100&sort=M%23results-list-content"
+   "source": "Santé Québec Laurentides carrières",
+   "titre": "Agent(e) de relations humaines | Remplacement | Info-Social",
+   "url": "https://laurentides.carrieresante.gouv.qc.ca/poste/agente-de-relations-humaines-remplacement-info-social-7/"
   },
   {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Information systems specialists",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=21222&sort=M%23results-list-content"
+   "source": "Santé Québec Laurentides carrières",
+   "titre": "Conseiller(-ière) en bâtiment | Poste vacant | Projets de développement clinique et de transition",
+   "url": "https://laurentides.carrieresante.gouv.qc.ca/poste/conseiller-iere-en-batiment-poste-vacant-projets-de-developpement-clinique-et-de-transition/"
   },
   {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Managers in customer and personal services",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=60040&sort=M%23results-list-content"
+   "source": "Santé Québec Laurentides carrières",
+   "titre": "Conseiller(-ière) en bâtiment | Poste vacant | Projets de développement clinique et de transition",
+   "url": "https://laurentides.carrieresante.gouv.qc.ca/poste/conseiller-iere-en-batiment-poste-vacant-projets-de-developpement-clinique-et-de-transition-3/"
   },
   {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Accommodation service managers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=60031&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Technical sales specialists - wholesale trade",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=62100&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Construction managers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=70010&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Specialists in clinical and laboratory medicine",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=31100&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Facility operation and maintenance managers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=70012&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Other administrative services managers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=10019&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Procurement and purchasing agents and officers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=12102&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Financial managers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=10010&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Landscape and horticulture technicians and specialists",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=22114&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Production and transportation logistics coordinators",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=13201&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Advertising, marketing and public relations managers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=10022&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Corporate sales managers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=60010&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Other financial officers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=11109&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Financial advisors",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=11102&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Financial and investment analysts",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=11101&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Database analysts and data administrators",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=21223&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Managers in agriculture",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=80020&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Senior managers - trade, broadcasting and other services",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=00014&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Manufacturing managers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=90010&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Human resources managers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=10011&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Human resources and recruitment officers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=12101&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Commissioned officers of the Canadian Armed Forces",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=40042&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Business development officers and market researchers and analysts",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=41402&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Computer and information systems managers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=20012&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Business systems specialists",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=21221&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Managers in transportation",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=70020&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Senior managers - health, education, social and community services and membership organizations",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=00013&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Occupational health and safety specialists",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=22232&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Managers in social, community and correctional services",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=40030&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Cybersecurity specialists",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=21220&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Senior managers - construction, transportation, production and utilities",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=00015&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Purchasing managers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=10012&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Engineering managers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=20010&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Recreation, sports and fitness policy researchers, consultants and program officers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=41406&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Education policy researchers, consultants and program officers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=41405&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Managers in health care",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=30010&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Producers, directors, choreographers and related occupations",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=51120&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Natural and applied science policy researchers, consultants and program officers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=41400&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Specialists in surgery",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=31101&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Other business services managers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=10029&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Senior managers - financial, communications and other business services",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=00012&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Social policy researchers, consultants and program officers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=41403&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Home building and renovation managers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=70011&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Government managers - economic analysis, policy development and program administration",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=40011&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Banking, credit and other investment managers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=10021&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Recreation, sports and fitness program and service directors",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=50012&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Nursing coordinators and supervisors",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=31300&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Insurance, real estate and financial brokerage managers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=10020&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Engineering inspectors and regulatory officers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=22231&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Health policy researchers, consultants and program officers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=41404&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Managers in horticulture",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=80021&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Senior government managers and officials",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=00011&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Architecture and science managers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=20011&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Deck officers, water transport",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=72602&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Agricultural representatives, consultants and specialists",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=21112&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Engineer officers, water transport",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=72603&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Managers in natural resources production and fishing",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=80010&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Other managers in public administration",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=40019&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> By-law enforcement and other regulatory officers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=43202&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Telecommunication carriers managers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=10030&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Government managers - education policy development and program administration",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=40012&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Economists and economic policy researchers and analysts",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=41401&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Police officers (except commissioned)",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=42100&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Government managers - health and social policy development and program administration",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=40010&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Fire chiefs and senior firefighting officers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=40041&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Correctional service officers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=43201&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Managers in aquaculture",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=80022&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Postal and courier services managers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=70021&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Conservation and fishery officers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=22113&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Program officers unique to government",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=41407&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Library, archive, museum and art gallery managers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=50010&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Employment insurance and revenue officers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=12104&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Managers - publishing, motion pictures, broadcasting and performing arts",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=50011&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Funeral directors and embalmers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=62201&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Commissioned police officers and related occupations in public protection services",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=40040&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Insurance agents and brokers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=63100&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Ground and water transport ticket agents, cargo service representatives and related clerks",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=64313&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Securities agents, investment dealers and brokers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=11103&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Real estate agents and salespersons",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=63101&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Airline ticket and service agents",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=64312&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Probation and parole officers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=41311&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Utilities managers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=90011&sort=M%23results-list-content"
-  },
-  {
-   "source": "Guichet-Emplois économie circulaire Québec",
-   "titre": "<p><span class=\"found\"><strong>{0}</strong></span>job postings found</p> Border services, customs, and immigration officers",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?fn21=43203&sort=M%23results-list-content"
+   "source": "Santé Québec Laurentides carrières",
+   "titre": "Intervenant(e) | Remplacement | Clientèle géronto-psychiatrique en hébergement",
+   "url": "https://laurentides.carrieresante.gouv.qc.ca/poste/intervenante-remplacement-clientele-geronto-psychiatrique-en-hebergement/"
   },
   {
    "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New Québec emploi computer technician November 16, 2026 Universite du quebec Location Québec (QC) Salary $27.64 to $44.21 hourly Québec emploi Job number: 09702be8-a0ed-420c-87e2-b6d675",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739894?source=searchresults"
+   "titre": "New SaskJobs administrative coordinator November 17, 2026 CAPITAL FIRE PROTECTION LTD. Location Regina (SK) Salary $20-27 SaskJobs Job number: 1560156",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747537?source=searchresults"
   },
   {
    "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New Québec emploi human resources management consultant November 16, 2026 Auberge madeleine Location Montréal (QC) Salary $33.00 to $41.70 hourly Québec emploi Job number: 44bbe94c-0681-409a-83c5-5a6bfe",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739915?source=searchresults"
+   "titre": "New Jobillico analyst, investments November 17, 2026 Fed Finance Location Brossard (QC) Salary $105,000.00 to $115,000.00 annually Jobillico Job number: 17460390",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747177?source=searchresults"
   },
   {
    "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New Jobillico test administrator November 16, 2026 Cégep de Chicoutimi Location Saguenay (QC) Salary $27.78 to $37.08 hourly Jobillico Job number: 17703294",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739921?source=searchresults"
+   "titre": "New Jobillico accountant November 17, 2026 Fed Finance Location Sainte-Julie (QC) Salary $70,000.00 to $90,000.00 annually Jobillico Job number: 17705658",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746980?source=searchresults"
   },
   {
    "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New CivicJobs.ca business systems specialist - computer systems November 16, 2026 City of Burnaby Location Burnaby (BC) Salary $58.32 hourly CivicJobs.ca Job number: 117344",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739846?source=searchresults"
+   "titre": "New Jobillico consultant, tourism - government November 17, 2026 Conseil en Éducation des Premières Nations (CEPN) Location Wendake (QC) Salary $74,502.00 to $102,086.00 annually Jobillico Job number: 17619285",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746469?source=searchresults"
   },
   {
    "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New CivicJobs.ca human resources adviser November 16, 2026 City of Maple Ridge Location Maple Ridge (BC) Salary $94,174.33 annually CivicJobs.ca Job number: 117345",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739853?source=searchresults"
+   "titre": "New Jobillico accountant-controller November 17, 2026 Tourmac inc. Location Saint-Rémi (QC) Salary $80,000.00 to $130,000.00 annually Jobillico Job number: 17705001",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746459?source=searchresults"
   },
   {
    "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New Jobillico marketing researcher November 16, 2026 Ville de Laval Location Laval (QC) Salary $124,926.80 to $156,159.47 annually Jobillico Job number: 17454891",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739924?source=searchresults"
+   "titre": "New Jobillico biochemistry laboratory technician November 17, 2026 Les Entreprises Axchem Canada ltée Location Trois-Rivières (QC) Salary $33.35 hourly Jobillico Job number: 17704995",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746480?source=searchresults"
   },
   {
    "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New indeed.com office administrator November 16, 2026 Cobblestone Dental Location Grande Prairie (AB) Salary $20.00 to $26.00 hourly indeed.com Job number: 10327596114",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739948?source=searchresults"
+   "titre": "New Jobillico buyer - purchasing November 17, 2026 Inacre conseil inc. Location Lachine (QC) Salary $65,000.00 to $75,000.00 annually Jobillico Job number: 17324321",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746456?source=searchresults"
   },
   {
    "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New indeed.com senior accountant November 16, 2026 Fairfield Inn by Marriott Toronto Oakville Location Mississauga (ON) Salary $59,500.00 to $101,000.00 annually indeed.com Job number: 10327625300",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739881?source=searchresults"
+   "titre": "New CareerBeacon internal auditor November 17, 2026 Memorial University of Newfoundland Location St. John's (NL) Salary $74,288.00 to $96,297.00 annually CareerBeacon Job number: 2243226",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746565?source=searchresults"
   },
   {
    "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New CareerBeacon analyst, business management November 16, 2026 Opportunities New Brunswick Location Fredericton (NB) Salary $79,716.00 to $106,054.00 annually CareerBeacon Job number: 2245677",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739745?source=searchresults"
+   "titre": "New AgCareers.com supply chain specialist - procurement November 17, 2026 Farm Credit Canada Location Regina (SK) Salary $94,620.00 to $128,020.00 annually AgCareers.com Job number: 1053277",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746561?source=searchresults"
   },
   {
    "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New CareerBeacon accountant November 16, 2026 Marsh Location Halifax (NS) Salary $25.00 to $71.43 hourly CareerBeacon Job number: 1861289",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739507?source=searchresults"
+   "titre": "New AgCareers.com supply chain specialist - procurement November 17, 2026 Farm Credit Canada Location Regina (SK) Salary $94,620.00 to $128,020.00 annually AgCareers.com Job number: 1053278",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746521?source=searchresults"
   },
   {
    "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New Hybrid indeed.com property accountant November 16, 2026 Greenwin Corp. Location North York (ON) Salary $80,000.00 to $85,000.00 annually indeed.com Job number: 10327560753",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739600?source=searchresults"
+   "titre": "New Jobillico procurement officer November 17, 2026 Prevost Location Sainte-Claire (QC) Salary $34.24 hourly Jobillico Job number: 17704929",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746129?source=searchresults"
   },
   {
    "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New Jobillico administrative technician November 16, 2026 Ville de Saguenay Location Saguenay (QC) Salary $33.14 to $43.90 hourly Jobillico Job number: 17702862",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739184?source=searchresults"
+   "titre": "New JobsMedia.ca business system architect November 17, 2026 Revenu Québec Location Québec (QC) Salary $63,888.00 to $108,751.00 annually JobsMedia.ca Job number: 279724B1794909602",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50745684?source=searchresults"
   },
   {
    "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New indeed.com environmental project manager November 16, 2026 MTE Consultants Inc. Location Oakville (ON) Salary $96,000.00 to $135,000.00 annually indeed.com Job number: 10327516703",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739150?source=searchresults"
+   "titre": "New CareerBeacon environmental consultant (except engineer) November 17, 2026 Department of Environment and Local Government Location Fredericton (NB) Salary $28.57 to $65.38 hourly CareerBeacon Job number: 2245736",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50745652?source=searchresults"
   },
   {
    "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New Jobillico organization and productivity project officer November 16, 2026 Centre de services scolaire des Premières-Seigneuries Location Québec (QC) Salary $27.30 to $35.31 hourly Jobillico Job number: 17702775",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50738760?source=searchresults"
+   "titre": "New CareerBeacon analyst, business management November 17, 2026 Opportunities New Brunswick Location Fredericton (NB) Salary $27.00 to $69.71 hourly CareerBeacon Job number: ONB-26-21",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50745650?source=searchresults"
   },
   {
    "source": "Guichet-Emplois analyste Laurentides",
-   "titre": "New CareerBeacon buyer - manufacturing and processing November 16, 2026 1911 Gold Corporation Location Bissett (MB) Salary $24.68 to $57.69 hourly CareerBeacon Job number: 44689c8a-3ba6-4845-8388-84f0ed02e36c",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50738394?source=searchresults"
+   "titre": "New Talent.com accountant November 17, 2026 Wesgroup Equipment Location Surrey (BC) Salary $40,000.00 to $50,000.00 annually Talent.com Job number: 616127486206355076",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50745664?source=searchresults"
+  },
+  {
+   "source": "Guichet-Emplois analyste Laurentides",
+   "titre": "New Jobillico accounting controller November 17, 2026 Construction Di Paolo inc. Location Anjou (QC) Salary $80,000.00 to $100,000.00 annually Jobillico Job number: 17628111",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50744643?source=searchresults"
   },
   {
    "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New Québec emploi human resources management consultant November 16, 2026 Auberge madeleine Location Montréal (QC) Salary $33.00 to $41.70 hourly Québec emploi Job number: 44bbe94c-0681-409a-83c5-5a6bfe",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739915?source=searchresults"
+   "titre": "New indeed.com inside sales representative November 17, 2026 CTS TRUCK EQUIPMENTS AND REAPIR SPECIALIST Location Brampton (ON) Salary $55,200.00 to $125,300.00 annually indeed.com Job number: 10328601897",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746819?source=searchresults"
   },
   {
    "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New Québec emploi community animator November 16, 2026 Centr'elles, comité d'action des femmes d'avignon Location Saint-Omer (QC) Salary $28.45 hourly Québec emploi Job number: fef64e5c-64ea-4248-a18f-d194e3",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739936?source=searchresults"
+   "titre": "New Jobillico staffing coordinator November 17, 2026 Conseil en Éducation des Premières Nations (CEPN) Location Wendake (QC) Salary $98,299.00 to $113,141.00 annually Jobillico Job number: 17705856",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746991?source=searchresults"
   },
   {
    "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New Québec emploi customer service assistant November 16, 2026 Gendron houle perreault cpa inc. Location Joliette (QC) Salary $20.00 hourly Québec emploi Job number: fc327e47-46c9-41a8-bdcb-099331",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739848?source=searchresults"
+   "titre": "New SaskJobs child and youth worker November 17, 2026 Government of Saskatchewan Location Estevan (SK) Salary 36.70 - 45.99 SaskJobs Job number: 1555828",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747405?source=searchresults"
   },
   {
    "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New Jobillico social workers supervisor November 16, 2026 Centre de services scolaire de Portneuf Location Saint-Raymond (QC) Salary $56,670.00 to $100,410.00 annually Jobillico Job number: 17703297",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739877?source=searchresults"
+   "titre": "New CareerBeacon communications officer (except emergency services) November 17, 2026 City of Saint John Location Saint John (NB) Salary $91,408.00 to $91,408.00 annually CareerBeacon Job number: 2245756",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747001?source=searchresults"
   },
   {
    "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New CivicJobs.ca human resources adviser November 16, 2026 City of Maple Ridge Location Maple Ridge (BC) Salary $94,174.33 annually CivicJobs.ca Job number: 117345",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739853?source=searchresults"
+   "titre": "New SaskJobs social worker November 17, 2026 Saskatchewan Health Authority Location Yorkton (SK) Salary Pay Band Social Worker - BSW $35.13 to $42.96 (5 step range) SaskJobs Job number: 1560176",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747383?source=searchresults"
   },
   {
    "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New CareerBeacon retail salesperson November 16, 2026 Eddy Group Limited Location Miramichi (NB) Salary $40,000.00 to $45,000.00 annually CareerBeacon Job number: 2245681",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50740174?source=searchresults"
+   "titre": "New SaskJobs social worker November 17, 2026 Saskatchewan Health Authority Location Weyburn (SK) Salary Pay Band Social Worker - BSW $35.13 to $42.96 (5 step range) SaskJobs Job number: 1560227",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747320?source=searchresults"
   },
   {
    "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New JobsMedia.ca automation engineer - software November 16, 2026 Dominic Quirion Location Québec (QC) Salary $70,000.00 to $100,000.00 annually JobsMedia.ca Job number: 264147B1794844973",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739863?source=searchresults"
+   "titre": "New indeed.com cloud administrator November 17, 2026 Powerline Plus Location Toronto (ON) Salary $50,000.00 annually indeed.com Job number: 10328604409",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746940?source=searchresults"
   },
   {
    "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New Jobillico marketing researcher November 16, 2026 Ville de Laval Location Laval (QC) Salary $124,926.80 to $156,159.47 annually Jobillico Job number: 17454891",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739924?source=searchresults"
+   "titre": "New indeed.com customer service representative - call centre November 17, 2026 Falcon Transfers Location Mississauga (ON) Salary $18.50 to $31.85 hourly indeed.com Job number: 10328590031",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746885?source=searchresults"
   },
   {
    "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New indeed.com sales associate November 16, 2026 Red Apple Stores, ULC Location Fort Frances (ON) Salary $17.95 hourly indeed.com Job number: 10327648797",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739928?source=searchresults"
+   "titre": "New indeed.com sales associate November 17, 2026 Maxi Shop Location Richmond Hill (ON) Salary $17.60 to $28.16 hourly indeed.com Job number: 10328596076",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746820?source=searchresults"
   },
   {
    "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New SaskJobs mental health proctor November 16, 2026 FASD Network of Saskatchewan Inc. Location Saskatoon (SK) Salary $23/hr SaskJobs Job number: 1559971",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50740004?source=searchresults"
+   "titre": "New Jobillico building supplies salesperson - retail November 17, 2026 Patrick Morin Location Prévost (QC) Salary $16.85 to $22.02 hourly Jobillico Job number: 17706378",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747036?source=searchresults"
   },
   {
    "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New SaskJobs mental health proctor November 16, 2026 Karis Disability Services Location Warman (SK) Salary $20.37 per hour SaskJobs Job number: 1559973",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50740072?source=searchresults"
+   "titre": "New indeed.com community rehabilitation worker November 17, 2026 Genesis Community Rehabilitation, Inc. Location North York (ON) Salary $26.00 to $32.00 hourly indeed.com Job number: 10328608619",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746899?source=searchresults"
   },
   {
    "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New indeed.com account manager November 16, 2026 CHC Paint & Body Shop Supplies Location Hamilton (ON) Salary $55,000.00 to $60,000.00 annually indeed.com Job number: 10327641290",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739852?source=searchresults"
+   "titre": "New Jobillico building supplies salesperson - retail November 17, 2026 Patrick Morin Location Prévost (QC) Salary $16.85 to $22.02 hourly Jobillico Job number: 17706375",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747088?source=searchresults"
   },
   {
    "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New indeed.com senior accountant November 16, 2026 Fairfield Inn by Marriott Toronto Oakville Location Mississauga (ON) Salary $59,500.00 to $101,000.00 annually indeed.com Job number: 10327625300",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739881?source=searchresults"
+   "titre": "New SaskJobs retail sales associate November 17, 2026 The Pioneer Co-Operative Association Limited Location Eastend (SK) Salary $16.32 - $21.07 per hour SaskJobs Job number: 1560143",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50747482?source=searchresults"
   },
   {
    "source": "Guichet-Emplois conseiller principal Laurentides",
-   "titre": "New indeed.com inside sales representative November 16, 2026 Componex Location Concord (ON) Salary $35,200.00 to $40,000.00 annually indeed.com Job number: 10327635159",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50739890?source=searchresults"
+   "titre": "New Talent.com software developer November 17, 2026 Inabia Software & Consulting Inc. Location Vancouver (BC) Salary $80.00 to $95.00 hourly Talent.com Job number: 646466692791470610",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746997?source=searchresults"
+  },
+  {
+   "source": "Guichet-Emplois conseiller principal Laurentides",
+   "titre": "New indeed.com customer service representative - call centre November 17, 2026 CANARAY Location Mississauga (ON) Salary $17.95 hourly indeed.com Job number: 10328583997",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50746806?source=searchresults"
   },
   {
    "source": "Eluta analyste Laurentides",
-   "titre": "Analyste senior bilingue (FR/ENG), Efficacité Média (Données et Investissements Médias) / Bilingual (FR/ENG) Senior Analyst, Media Effectiveness (Medi...",
+   "titre": "Technologies numériques - Opérations manufacturières : Analyste des systèmes MES / Digital Technologies - Manufacturing Operations: MES Systems Analys...",
    "url": "https://www.eluta.ca/search?q=analyste&l=Laurentides%2C+QC"
   },
   {
    "source": "Eluta analyste Laurentides",
-   "titre": "Operations Program Engineer-Analyst/Ingénieur-analyste programme moteurs",
+   "titre": "Analyste SAP, Tarification et gestion des données maîtres / SAP Pricing Master Data Maintenance Analyst",
    "url": "https://www.eluta.ca/search?q=analyste&l=Laurentides%2C+QC"
   },
   {
    "source": "Eluta analyste Laurentides",
-   "titre": "Analyste fonctionnel principal SAP SD | Senior SAP SD Functional Analyst",
+   "titre": "Analyste en révision des données de laboratoire/Lab Data Review Analyst",
    "url": "https://www.eluta.ca/search?q=analyste&l=Laurentides%2C+QC"
   },
   {
    "source": "Eluta analyste Laurentides",
-   "titre": "Portfolio Analyst / Analyste de portefeuille",
+   "titre": "Analyste Gestion de tolérancement / Tolerance Management Analyst",
    "url": "https://www.eluta.ca/search?q=analyste&l=Laurentides%2C+QC"
   },
   {
    "source": "Eluta analyste Laurentides",
-   "titre": "Sagard Holdings Manager (Canada) Inc. / Sagard",
+   "titre": "Analyste de la performance de la flotte / Fleet Performance Analyst",
    "url": "https://www.eluta.ca/search?q=analyste&l=Laurentides%2C+QC"
+  },
+  {
+   "source": "Eluta analyste Laurentides",
+   "titre": "Analyste ou analyste principal, Recherche macroéconomique",
+   "url": "https://www.eluta.ca/search?q=analyste&l=Laurentides%2C+QC"
+  },
+  {
+   "source": "Eluta analyste Laurentides",
+   "titre": "Analyst/Senior Analyst, Macro Research",
+   "url": "https://www.eluta.ca/search?q=analyste&l=Laurentides%2C+QC"
+  },
+  {
+   "source": "Eluta analyste Laurentides",
+   "titre": "Analyst(e), Transactions / Analyst, Transactions",
+   "url": "https://www.eluta.ca/search?q=analyste&l=Laurentides%2C+QC"
+  },
+  {
+   "source": "Eluta conseiller Laurentides",
+   "titre": "Conseiller(ère) principal(e), Services-conseils en finance et opérations",
+   "url": "https://www.eluta.ca/search?q=conseiller&l=Laurentides%2C+QC"
+  },
+  {
+   "source": "Eluta coût de revient Québec",
+   "titre": "Analyste financier(ère), Opérations manufacturières",
+   "url": "https://www.eluta.ca/search?q=co%C3%BBt+de+revient&l=Qu%C3%A9bec"
   }
  ],
- "ecartesCeJour": 376
+ "ecartesCeJour": 388
 }
